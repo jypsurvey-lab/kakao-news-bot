@@ -15,6 +15,7 @@ import os
 import sys
 import json
 import base64
+import time
 import datetime
 import xml.etree.ElementTree as ET
 from urllib import request, parse, error
@@ -104,19 +105,32 @@ def summarize_with_gemini(news_text: str, now_kst: datetime.datetime) -> str:
         "generationConfig": {"maxOutputTokens": 2000},
     }).encode()
 
-    req = request.Request(
-        f"https://generativelanguage.googleapis.com/v1beta/models/{GEMINI_MODEL}:generateContent",
-        data=body,
-        headers={
-            "x-goog-api-key": api_key,
-            "content-type": "application/json",
-        },
-        method="POST",
-    )
-    with request.urlopen(req, timeout=60) as resp:
-        data = json.loads(resp.read())
-    parts = data["candidates"][0]["content"]["parts"]
-    return "".join(p.get("text", "") for p in parts).strip()
+    # 서버 혼잡(503)이나 속도 제한(429) 등 일시적 오류는 재시도
+    last_err = None
+    for attempt in range(1, 6):  # 최대 5회, 대기 30초→60→120→240초
+        try:
+            req = request.Request(
+                f"https://generativelanguage.googleapis.com/v1beta/models/{GEMINI_MODEL}:generateContent",
+                data=body,
+                headers={
+                    "x-goog-api-key": api_key,
+                    "content-type": "application/json",
+                },
+                method="POST",
+            )
+            with request.urlopen(req, timeout=60) as resp:
+                data = json.loads(resp.read())
+            parts = data["candidates"][0]["content"]["parts"]
+            return "".join(p.get("text", "") for p in parts).strip()
+        except error.HTTPError as e:
+            if e.code in (429, 500, 502, 503) and attempt < 5:
+                wait = 30 * (2 ** (attempt - 1))
+                print(f"[warn] Gemini HTTP {e.code} — {wait}초 후 재시도 ({attempt}/5)")
+                time.sleep(wait)
+                last_err = e
+                continue
+            raise
+    raise last_err
 
 
 # ─────────────────────────────────────────────
