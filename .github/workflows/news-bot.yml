@@ -1,0 +1,34 @@
+name: Kakao News Briefing
+
+on:
+  schedule:
+    # 매일 KST 06:30 = UTC 22:00 (전날)
+    # 참고: GitHub Actions cron은 몇 분~수십 분 지연될 수 있음
+    - cron: "0 22 * * *"
+  workflow_dispatch: {} # Actions 탭에서 수동 실행 버튼 제공 (테스트용)
+
+jobs:
+  send-briefing:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install pynacl # refresh token 자동 갱신용 (선택)
+
+      - name: Run news bot
+        env:
+          KAKAO_REST_API_KEY: ${{ secrets.KAKAO_REST_API_KEY }}
+          KAKAO_REFRESH_TOKEN: ${{ secrets.KAKAO_REFRESH_TOKEN }}
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          GH_PAT: ${{ secrets.GH_PAT }}
+          GH_REPO: ${{ github.repository }}
+        run: python news_bot.py
