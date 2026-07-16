@@ -27,11 +27,10 @@ RSS_FEEDS = {
     "종합": "https://www.yna.co.kr/rss/news.xml",           # 연합뉴스 최신
     "경제": "https://www.yna.co.kr/rss/economy.xml",         # 연합뉴스 경제
     "국제": "https://www.yna.co.kr/rss/international.xml",   # 연합뉴스 국제
-    "IT과학": "https://www.yna.co.kr/rss/technology.xml",    # 연합뉴스 IT
 }
 
 MAX_ARTICLES_PER_FEED = 8      # 피드당 가져올 기사 수
-GEMINI_MODEL = "gemini-2.5-flash"  # 무료 등급 대상 모델
+GEMINI_MODEL = "gemini-3.5-flash"  # 무료 등급 대상 모델 (2026-05 출시)
 KST = datetime.timezone(datetime.timedelta(hours=9))
 
 
@@ -84,7 +83,7 @@ SYSTEM_PROMPT = """당신은 매일 아침 사용자에게 지난 하루의 주�
 
 [규칙]
 1. 전체 길이는 공백 포함 500~800자 이내.
-2. 실제 기사가 있는 카테고리만 포함하며, 카테고리 앞에 이모지 사용: 🌍 국제 / 💰 경제 / 📌 종합 / 💻 IT과학
+2. 실제 기사가 있는 카테고리만 포함하며, 카테고리 앞에 이모지 사용: 🌍 국제 / 💰 경제 / 📌 종합
 3. 카테고리별로 가장 중요한 기사 1~2개만 선정. 각 기사는 1줄 헤드라인 + 1~2줄 핵심 요약.
 4. 자극적이거나 클릭베이트성 표현 금지. 사실 위주로 담백하게.
 5. 중복되거나 사실상 같은 사건을 다루는 기사는 하나로 합침.
