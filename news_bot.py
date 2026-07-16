@@ -30,7 +30,7 @@ RSS_FEEDS = {
 }
 
 MAX_ARTICLES_PER_FEED = 8      # 피드당 가져올 기사 수
-GEMINI_MODEL = "gemini-3.5-flash"  # 무료 등급 대상 모델 (2026-05 출시)
+GEMINI_MODEL = "gemini-2.5-flash"  # 무료 등급 대상 모델 (2026-05 출시)
 KST = datetime.timezone(datetime.timedelta(hours=9))
 
 
