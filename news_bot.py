@@ -31,7 +31,12 @@ RSS_FEEDS = {
 }
 
 MAX_ARTICLES_PER_FEED = 8      # 피드당 가져올 기사 수
-GEMINI_MODEL = "gemini-3.5-flash"  # 무료 등급 대상 모델 (2026-05 출시)
+# 무료 등급 모델 목록. 앞의 모델이 과부하/오류면 다음 모델로 자동 전환
+GEMINI_MODELS = [
+    "gemini-3.5-flash",
+    "gemini-3-flash-preview",
+    "gemini-3.1-flash-lite-preview",
+]
 KST = datetime.timezone(datetime.timedelta(hours=9))
 
 
@@ -105,32 +110,46 @@ def summarize_with_gemini(news_text: str, now_kst: datetime.datetime) -> str:
         "generationConfig": {"maxOutputTokens": 2000},
     }).encode()
 
-    # 서버 혼잡(503)이나 속도 제한(429) 등 일시적 오류는 재시도
+    # 모델별로 최대 3회 재시도. 일시 오류(503/429/타임아웃)가 계속되면 다음 모델로 전환
     last_err = None
-    for attempt in range(1, 6):  # 최대 5회, 대기 30초→60→120→240초
-        try:
-            req = request.Request(
-                f"https://generativelanguage.googleapis.com/v1beta/models/{GEMINI_MODEL}:generateContent",
-                data=body,
-                headers={
-                    "x-goog-api-key": api_key,
-                    "content-type": "application/json",
-                },
-                method="POST",
-            )
-            with request.urlopen(req, timeout=60) as resp:
-                data = json.loads(resp.read())
-            parts = data["candidates"][0]["content"]["parts"]
-            return "".join(p.get("text", "") for p in parts).strip()
-        except error.HTTPError as e:
-            if e.code in (429, 500, 502, 503) and attempt < 5:
-                wait = 30 * (2 ** (attempt - 1))
-                print(f"[warn] Gemini HTTP {e.code} — {wait}초 후 재시도 ({attempt}/5)")
-                time.sleep(wait)
+    for model in GEMINI_MODELS:
+        for attempt in range(1, 4):
+            try:
+                req = request.Request(
+                    f"https://generativelanguage.googleapis.com/v1beta/models/{model}:generateContent",
+                    data=body,
+                    headers={
+                        "x-goog-api-key": api_key,
+                        "content-type": "application/json",
+                    },
+                    method="POST",
+                )
+                with request.urlopen(req, timeout=120) as resp:
+                    data = json.loads(resp.read())
+                parts = data["candidates"][0]["content"]["parts"]
+                text = "".join(p.get("text", "") for p in parts).strip()
+                print(f"[info] 요약 성공 (모델: {model})")
+                return text
+            except error.HTTPError as e:
                 last_err = e
+                if e.code == 404:
+                    print(f"[warn] {model} 사용 불가(404) — 다음 모델로 전환")
+                    break  # 이 모델은 포기, 다음 모델로
+                if e.code in (429, 500, 502, 503):
+                    wait = 20 * attempt
+                    print(f"[warn] {model} HTTP {e.code} — {wait}초 후 재시도 ({attempt}/3)")
+                    time.sleep(wait)
+                    continue
+                raise  # 그 외 에러(키 오류 등)는 즉시 실패
+            except (TimeoutError, OSError, error.URLError) as e:
+                last_err = e
+                wait = 20 * attempt
+                print(f"[warn] {model} 통신 오류({e}) — {wait}초 후 재시도 ({attempt}/3)")
+                time.sleep(wait)
                 continue
-            raise
-    raise last_err
+        else:
+            print(f"[warn] {model} 재시도 소진 — 다음 모델로 전환")
+    raise RuntimeError(f"모든 Gemini 모델 시도 실패. 마지막 오류: {last_err}")
 
 
 # ─────────────────────────────────────────────
