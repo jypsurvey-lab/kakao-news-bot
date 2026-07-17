@@ -4,7 +4,7 @@ on:
   schedule:
     # 매일 KST 06:30 = UTC 22:00 (전날)
     # 참고: GitHub Actions cron은 몇 분~수십 분 지연될 수 있음
-    - cron: "0 22 * * *"
+    - cron: "41 21 * * *"
   workflow_dispatch: {} # Actions 탭에서 수동 실행 버튼 제공 (테스트용)
 
 jobs:
