@@ -1,14 +1,14 @@
 """
-카카오톡 뉴스 브리핑 봇
-- RSS로 뉴스 수집 → Gemini API(무료)로 요약 → 카카오 "나에게 보내기"로 전송
-- GitHub Actions에서 8시간마다 실행되는 것을 전제로 작성됨
+카카오톡 아침 뉴스 봇 (전체보기 링크 방식)
+- RSS 수집 → Gemini(무료)로 풍성한 브리핑 생성 → 저장소에 briefings/latest.md 저장
+- 카카오톡에는 핵심 헤드라인 요약 1개 + "전체 브리핑 보기" 링크 버튼 전송
 
-필요 환경변수 (GitHub Secrets):
+필요 GitHub Secrets:
   KAKAO_REST_API_KEY   카카오 앱의 REST API 키
   KAKAO_REFRESH_TOKEN  최초 1회 발급받은 refresh token
   GEMINI_API_KEY       Google AI Studio에서 무료 발급한 Gemini API 키
   (선택) GH_PAT        refresh token 자동 갱신용 GitHub PAT (repo scope)
-  (선택) GH_REPO       "owner/repo" 형식, GH_PAT 사용 시 필요
+GH_REPO는 워크플로우가 자동으로 넣어줍니다.
 """
 
 import os
@@ -30,13 +30,14 @@ RSS_FEEDS = {
     "국제": "https://www.yna.co.kr/rss/international.xml",   # 연합뉴스 국제
 }
 
-MAX_ARTICLES_PER_FEED = 8      # 피드당 가져올 기사 수
+MAX_ARTICLES_PER_FEED = 10     # 피드당 가져올 기사 수
 # 무료 등급 모델 목록. 앞의 모델이 과부하/오류면 다음 모델로 자동 전환
 GEMINI_MODELS = [
     "gemini-3.5-flash",
     "gemini-3-flash-preview",
     "gemini-3.1-flash-lite-preview",
 ]
+BRIEFING_PATH = "briefings/latest.md"   # 저장소에 저장될 전체 브리핑 파일
 KST = datetime.timezone(datetime.timedelta(hours=9))
 
 
@@ -63,7 +64,6 @@ def fetch_rss(url: str, limit: int) -> list[dict]:
 
 
 def collect_news() -> str:
-    """모든 피드를 수집해 프롬프트에 넣을 텍스트 블록으로 변환"""
     blocks = []
     for category, url in RSS_FEEDS.items():
         try:
@@ -81,36 +81,17 @@ def collect_news() -> str:
 
 
 # ─────────────────────────────────────────────
-# 2. Gemini API 요약 (무료 등급)
+# 2. Gemini API 호출 (재시도 + 모델 폴백)
 # ─────────────────────────────────────────────
 
-SYSTEM_PROMPT = """당신은 매일 아침 사용자에게 지난 하루의 주요 뉴스를 요약해 보내주는 개인 뉴스 큐레이터입니다.
-제공된 뉴스 기사 목록을 바탕으로 하루를 시작하며 읽을 카카오톡 아침 브리핑을 작성하세요.
-
-[규칙]
-1. 전체 길이는 공백 포함 500~800자 이내.
-2. 실제 기사가 있는 카테고리만 포함하며, 카테고리 앞에 이모지 사용: 🌍 국제 / 💰 경제 / 📌 종합
-3. 카테고리별로 가장 중요한 기사 1~2개만 선정. 각 기사는 1줄 헤드라인 + 1~2줄 핵심 요약.
-4. 자극적이거나 클릭베이트성 표현 금지. 사실 위주로 담백하게.
-5. 중복되거나 사실상 같은 사건을 다루는 기사는 하나로 합침.
-6. 마크다운(**, #, - 등) 사용 금지. 순수 텍스트와 이모지만 사용. 줄바꿈으로 구분.
-7. 다른 설명이나 인사말 없이 브리핑 본문만 출력."""
-
-
-def summarize_with_gemini(news_text: str, now_kst: datetime.datetime) -> str:
+def call_gemini(system_prompt: str, user_prompt: str, max_tokens: int = 4000) -> str:
     api_key = os.environ["GEMINI_API_KEY"]
-    user_prompt = (
-        f"현재 시각: {now_kst.strftime('%m월 %d일 %H:%M')} (KST)\n"
-        f"맨 첫 줄은 \"☀️ 아침 뉴스 브리핑 ({now_kst.strftime('%m월 %d일')})\"으로 시작하세요.\n\n"
-        f"[입력 뉴스 데이터]\n{news_text}"
-    )
     body = json.dumps({
-        "system_instruction": {"parts": [{"text": SYSTEM_PROMPT}]},
+        "system_instruction": {"parts": [{"text": system_prompt}]},
         "contents": [{"parts": [{"text": user_prompt}]}],
-        "generationConfig": {"maxOutputTokens": 2000},
+        "generationConfig": {"maxOutputTokens": max_tokens},
     }).encode()
 
-    # 모델별로 최대 3회 재시도. 일시 오류(503/429/타임아웃)가 계속되면 다음 모델로 전환
     last_err = None
     for model in GEMINI_MODELS:
         for attempt in range(1, 4):
@@ -128,19 +109,19 @@ def summarize_with_gemini(news_text: str, now_kst: datetime.datetime) -> str:
                     data = json.loads(resp.read())
                 parts = data["candidates"][0]["content"]["parts"]
                 text = "".join(p.get("text", "") for p in parts).strip()
-                print(f"[info] 요약 성공 (모델: {model})")
+                print(f"[info] Gemini 호출 성공 (모델: {model})")
                 return text
             except error.HTTPError as e:
                 last_err = e
                 if e.code == 404:
                     print(f"[warn] {model} 사용 불가(404) — 다음 모델로 전환")
-                    break  # 이 모델은 포기, 다음 모델로
+                    break
                 if e.code in (429, 500, 502, 503):
                     wait = 20 * attempt
                     print(f"[warn] {model} HTTP {e.code} — {wait}초 후 재시도 ({attempt}/3)")
                     time.sleep(wait)
                     continue
-                raise  # 그 외 에러(키 오류 등)는 즉시 실패
+                raise
             except (TimeoutError, OSError, error.URLError) as e:
                 last_err = e
                 wait = 20 * attempt
@@ -152,12 +133,50 @@ def summarize_with_gemini(news_text: str, now_kst: datetime.datetime) -> str:
     raise RuntimeError(f"모든 Gemini 모델 시도 실패. 마지막 오류: {last_err}")
 
 
+FULL_BRIEFING_PROMPT = """당신은 매일 아침 사용자에게 지난 하루의 주요 뉴스를 정리해 주는 개인 뉴스 큐레이터입니다.
+제공된 뉴스 기사 목록으로 마크다운 형식의 아침 뉴스 브리핑을 작성하세요.
+
+[규칙]
+1. 실제 기사가 있는 카테고리만 포함하며 카테고리는 "## 📌 종합", "## 💰 경제", "## 🌍 국제" 형식의 제목으로 구분.
+2. 카테고리별로 중요한 기사 2~3건 선정. 각 기사는 "**헤드라인**" 한 줄 + 핵심 내용 2~3문장 요약 + 기사 원문 링크 한 줄로 구성.
+3. 중복되거나 사실상 같은 사건을 다루는 기사는 하나로 합침.
+4. 자극적이거나 클릭베이트성 표현 금지. 사실 위주로 담백하게.
+5. 절대 금지: 글자 수 표기, "(90 chars)" 같은 메타 주석, 작성 과정 설명, 인사말. 브리핑 본문만 출력.
+6. 맨 마지막 줄에 "---" 아래 "연합뉴스 RSS 기반 · 자동 생성 브리핑" 표기."""
+
+DIGEST_PROMPT = """아래 뉴스 브리핑에서 가장 중요한 헤드라인 3개를 뽑아 카카오톡 알림용 초간단 요약을 만드세요.
+
+[규칙]
+1. 전체 길이 공백 포함 150자 이내. 절대 초과 금지.
+2. 형식: 각 줄에 "· 헤드라인" (한 줄당 30자 이내), 마크다운 금지, 이모지는 첫 줄 제목에만.
+3. 첫 줄은 "☀️ 오늘의 뉴스" 로 시작.
+4. 글자 수 표기나 설명 없이 요약만 출력."""
+
+
 # ─────────────────────────────────────────────
-# 3. 카카오 토큰 갱신 + 메시지 전송
+# 3. 브리핑 파일 저장
+# ─────────────────────────────────────────────
+
+def save_briefing(briefing_md: str, now_kst: datetime.datetime):
+    os.makedirs(os.path.dirname(BRIEFING_PATH), exist_ok=True)
+    header = f"# ☀️ 아침 뉴스 브리핑 — {now_kst.strftime('%Y년 %m월 %d일')}\n\n"
+    with open(BRIEFING_PATH, "w", encoding="utf-8") as f:
+        f.write(header + briefing_md + "\n")
+    print(f"[info] 브리핑 저장 완료: {BRIEFING_PATH}")
+
+
+def briefing_url() -> str:
+    repo = os.environ.get("GH_REPO", "")
+    if repo:
+        return f"https://github.com/{repo}/blob/main/{BRIEFING_PATH}"
+    return "https://news.naver.com"
+
+
+# ─────────────────────────────────────────────
+# 4. 카카오 토큰 갱신 + 메시지 전송 (단일 메시지)
 # ─────────────────────────────────────────────
 
 def refresh_kakao_token() -> tuple[str, str | None]:
-    """refresh token으로 access token 발급. 새 refresh token이 오면 함께 반환."""
     payload = parse.urlencode({
         "grant_type": "refresh_token",
         "client_id": os.environ["KAKAO_REST_API_KEY"],
@@ -169,40 +188,38 @@ def refresh_kakao_token() -> tuple[str, str | None]:
     return data["access_token"], data.get("refresh_token")
 
 
-def send_kakao_memo(access_token: str, text: str, link_url: str = "https://news.naver.com"):
-    # 기본 텍스트 템플릿은 text 최대 200자 → 초과분은 잘라서 전송하고 전문은 링크 유도 대신
-    # 여러 개로 나눠 보낸다.
-    chunks = [text[i:i + 190] for i in range(0, len(text), 190)]
-    for chunk in chunks:
-        template = {
-            "object_type": "text",
-            "text": chunk,
-            "link": {"web_url": link_url, "mobile_web_url": link_url},
-        }
-        payload = parse.urlencode({"template_object": json.dumps(template, ensure_ascii=False)}).encode()
-        req = request.Request(
-            "https://kapi.kakao.com/v2/api/talk/memo/default/send",
-            data=payload,
-            headers={"Authorization": f"Bearer {access_token}"},
-            method="POST",
-        )
-        with request.urlopen(req, timeout=15) as resp:
-            result = json.loads(resp.read())
-            if result.get("result_code") != 0:
-                raise RuntimeError(f"카카오 전송 실패: {result}")
+def send_kakao_memo(access_token: str, text: str, link_url: str):
+    # 안전장치: 카카오 제한(200자)을 넘지 않도록 자름
+    if len(text) > 190:
+        text = text[:187] + "..."
+    template = {
+        "object_type": "text",
+        "text": text,
+        "link": {"web_url": link_url, "mobile_web_url": link_url},
+        "button_title": "전체 브리핑 보기",
+    }
+    payload = parse.urlencode({"template_object": json.dumps(template, ensure_ascii=False)}).encode()
+    req = request.Request(
+        "https://kapi.kakao.com/v2/api/talk/memo/default/send",
+        data=payload,
+        headers={"Authorization": f"Bearer {access_token}"},
+        method="POST",
+    )
+    with request.urlopen(req, timeout=15) as resp:
+        result = json.loads(resp.read())
+        if result.get("result_code") != 0:
+            raise RuntimeError(f"카카오 전송 실패: {result}")
 
 
 # ─────────────────────────────────────────────
-# 4. (선택) 새 refresh token을 GitHub Secret에 저장
+# 5. (선택) 새 refresh token을 GitHub Secret에 저장
 # ─────────────────────────────────────────────
 
 def update_github_secret(new_refresh_token: str):
-    """GH_PAT와 GH_REPO가 설정된 경우에만 동작. libsodium 암호화가 필요해
-    PyNaCl(pip install pynacl)에 의존한다. 미설치 시 경고만 출력."""
     pat = os.environ.get("GH_PAT")
     repo = os.environ.get("GH_REPO")
     if not pat or not repo:
-        print("[warn] 새 refresh token이 발급되었지만 GH_PAT/GH_REPO 미설정으로 자동 저장 불가.")
+        print("[warn] 새 refresh token 발급됨. GH_PAT/GH_REPO 미설정으로 자동 저장 불가.")
         print("[warn] KAKAO_REFRESH_TOKEN 시크릿을 수동으로 갱신하세요.")
         return
     try:
@@ -250,15 +267,21 @@ def main():
     print("[info] 뉴스 수집 중...")
     news_text = collect_news()
 
-    print("[info] Gemini 요약 중...")
-    briefing = summarize_with_gemini(news_text, now_kst)
-    print(f"[info] 브리핑 생성 완료 ({len(briefing)}자)")
+    print("[info] 전체 브리핑 생성 중...")
+    briefing = call_gemini(
+        FULL_BRIEFING_PROMPT,
+        f"오늘 날짜: {now_kst.strftime('%m월 %d일')}\n\n[입력 뉴스 데이터]\n{news_text}",
+    )
+    save_briefing(briefing, now_kst)
+
+    print("[info] 카톡용 요약 생성 중...")
+    digest = call_gemini(DIGEST_PROMPT, briefing, max_tokens=500)
 
     print("[info] 카카오 토큰 갱신 중...")
     access_token, new_refresh = refresh_kakao_token()
 
     print("[info] 카카오톡 전송 중...")
-    send_kakao_memo(access_token, briefing)
+    send_kakao_memo(access_token, digest, briefing_url())
     print("[info] 전송 완료 ✅")
 
     if new_refresh:
