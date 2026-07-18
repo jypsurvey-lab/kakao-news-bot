@@ -84,7 +84,7 @@ def collect_news() -> str:
 # 2. Gemini API 호출 (재시도 + 모델 폴백)
 # ─────────────────────────────────────────────
 
-def call_gemini(system_prompt: str, user_prompt: str, max_tokens: int = 32000) -> str:
+def call_gemini(system_prompt: str, user_prompt: str, max_tokens: int = 32000, min_len: int = 100) -> str:
     api_key = os.environ["GEMINI_API_KEY"]
     body = json.dumps({
         "system_instruction": {"parts": [{"text": system_prompt}]},
@@ -116,7 +116,7 @@ def call_gemini(system_prompt: str, user_prompt: str, max_tokens: int = 32000) -
                     if not p.get("thought")
                 ).strip()
                 print(f"[info] Gemini 호출 성공 (모델: {model}, 종료사유: {finish}, 길이: {len(text)}자)")
-                if finish == "MAX_TOKENS" or len(text) < 100:
+                if finish == "MAX_TOKENS" or len(text) < min_len:
                     # 한도 초과로 잘렸거나 비정상적으로 짧으면 재시도
                     print(f"[warn] 출력 비정상(사유: {finish}) — 재시도 ({attempt}/3)")
                     time.sleep(10)
@@ -299,7 +299,7 @@ def main():
     save_briefing(briefing, now_kst)
 
     print("[info] 카톡용 요약 생성 중...")
-    digest = build_digest(call_gemini(DIGEST_PROMPT, briefing))
+    digest = build_digest(call_gemini(DIGEST_PROMPT, briefing, min_len=15))
 
     print("[info] 카카오 토큰 갱신 중...")
     access_token, new_refresh = refresh_kakao_token()
