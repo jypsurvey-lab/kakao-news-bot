@@ -30,7 +30,7 @@ RSS_FEEDS = {
     "국제": "https://www.yna.co.kr/rss/international.xml",   # 연합뉴스 국제
 }
 
-MAX_ARTICLES_PER_FEED = 10     # 피드당 가져올 기사 수
+MAX_ARTICLES_PER_FEED = 15     # 피드당 가져올 기사 수
 # 무료 등급 모델 목록. 앞의 모델이 과부하/오류면 다음 모델로 자동 전환
 GEMINI_MODELS = [
     "gemini-3.5-flash",
@@ -138,19 +138,32 @@ FULL_BRIEFING_PROMPT = """당신은 매일 아침 사용자에게 지난 하루�
 
 [규칙]
 1. 실제 기사가 있는 카테고리만 포함하며 카테고리는 "## 📌 종합", "## 💰 경제", "## 🌍 국제" 형식의 제목으로 구분.
-2. 카테고리별로 중요한 기사 2~3건 선정. 각 기사는 "**헤드라인**" 한 줄 + 핵심 내용 2~3문장 요약 + 기사 원문 링크 한 줄로 구성.
+2. 카테고리별로 중요한 기사 5건 선정(기사가 부족하면 있는 만큼). 각 기사는 "**헤드라인**" 한 줄 + 핵심 내용 2~3문장 요약 + 기사 원문 링크 한 줄로 구성.
 3. 중복되거나 사실상 같은 사건을 다루는 기사는 하나로 합침.
 4. 자극적이거나 클릭베이트성 표현 금지. 사실 위주로 담백하게.
 5. 절대 금지: 글자 수 표기, "(90 chars)" 같은 메타 주석, 작성 과정 설명, 인사말. 브리핑 본문만 출력.
 6. 맨 마지막 줄에 "---" 아래 "연합뉴스 RSS 기반 · 자동 생성 브리핑" 표기."""
 
-DIGEST_PROMPT = """아래 뉴스 브리핑에서 가장 중요한 헤드라인 3개를 뽑아 카카오톡 알림용 초간단 요약을 만드세요.
+DIGEST_PROMPT = """아래 뉴스 브리핑에서 가장 중요한 서로 다른 헤드라인 3개를 뽑으세요.
 
 [규칙]
-1. 전체 길이 공백 포함 150자 이내. 절대 초과 금지.
-2. 형식: 각 줄에 "· 헤드라인" (한 줄당 30자 이내), 마크다운 금지, 이모지는 첫 줄 제목에만.
-3. 첫 줄은 "☀️ 오늘의 뉴스" 로 시작.
-4. 글자 수 표기나 설명 없이 요약만 출력."""
+1. 한 줄에 헤드라인 하나씩, 정확히 3줄만 출력.
+2. 각 헤드라인은 20자 이내로 압축.
+3. 기호(·, -, 숫자), 마크다운, 이모지, 설명, 글자 수 표기 일절 금지. 헤드라인 텍스트만."""
+
+
+def build_digest(raw: str) -> str:
+    """Gemini가 뽑은 헤드라인을 코드가 직접 조립해 길이를 보장한다."""
+    lines = []
+    for line in raw.splitlines():
+        clean = line.strip().lstrip("·-*0123456789. ").strip()
+        if clean:
+            lines.append(clean[:22])  # 헤드라인당 최대 22자로 강제
+        if len(lines) == 3:
+            break
+    if not lines:
+        lines = ["오늘의 주요 뉴스가 도착했습니다"]
+    return "☀️ 오늘의 뉴스\n" + "\n".join(f"· {l}" for l in lines)
 
 
 # ─────────────────────────────────────────────
@@ -275,7 +288,7 @@ def main():
     save_briefing(briefing, now_kst)
 
     print("[info] 카톡용 요약 생성 중...")
-    digest = call_gemini(DIGEST_PROMPT, briefing, max_tokens=500)
+    digest = build_digest(call_gemini(DIGEST_PROMPT, briefing, max_tokens=500))
 
     print("[info] 카카오 토큰 갱신 중...")
     access_token, new_refresh = refresh_kakao_token()
