@@ -25,15 +25,12 @@ from urllib import request, parse, error
 # ─────────────────────────────────────────────
 
 RSS_FEEDS = {
-    "종합": "https://www.yna.co.kr/rss/news.xml",
-    "경제": "https://www.yna.co.kr/rss/economy.xml",
-    "국제": "https://www.yna.co.kr/rss/international.xml",
-    "산업": "https://www.yna.co.kr/rss/industry.xml",
-    "사회": "https://www.yna.co.kr/rss/society.xml",
-    "문화": "https://www.yna.co.kr/rss/culture.xml",
+    "종합": "https://www.yna.co.kr/rss/news.xml",           # 연합뉴스 최신
+    "경제": "https://www.yna.co.kr/rss/economy.xml",         # 연합뉴스 경제
+    "국제": "https://www.yna.co.kr/rss/international.xml",   # 연합뉴스 국제
 }
 
-MAX_ARTICLES_PER_FEED = 15     # 피드당 가져올 기사 수
+MAX_ARTICLES_PER_FEED = 8      # 피드당 가져올 기사 수 (분야가 많아 입력 과대 방지)
 # 무료 등급 모델 목록. 앞의 모델이 과부하/오류면 다음 모델로 자동 전환
 GEMINI_MODELS = [
     "gemini-3.5-flash",
@@ -87,7 +84,7 @@ def collect_news() -> str:
 # 2. Gemini API 호출 (재시도 + 모델 폴백)
 # ─────────────────────────────────────────────
 
-def call_gemini(system_prompt: str, user_prompt: str, max_tokens: int = 8000) -> str:
+def call_gemini(system_prompt: str, user_prompt: str, max_tokens: int = 32000) -> str:
     api_key = os.environ["GEMINI_API_KEY"]
     body = json.dumps({
         "system_instruction": {"parts": [{"text": system_prompt}]},
@@ -108,11 +105,22 @@ def call_gemini(system_prompt: str, user_prompt: str, max_tokens: int = 8000) ->
                     },
                     method="POST",
                 )
-                with request.urlopen(req, timeout=120) as resp:
+                with request.urlopen(req, timeout=180) as resp:
                     data = json.loads(resp.read())
-                parts = data["candidates"][0]["content"]["parts"]
-                text = "".join(p.get("text", "") for p in parts).strip()
-                print(f"[info] Gemini 호출 성공 (모델: {model})")
+                cand = data["candidates"][0]
+                finish = cand.get("finishReason", "?")
+                # 모델의 내부 사고(thought) 파트는 제외하고 실제 답변 텍스트만 취합
+                text = "".join(
+                    p.get("text", "")
+                    for p in cand["content"]["parts"]
+                    if not p.get("thought")
+                ).strip()
+                print(f"[info] Gemini 호출 성공 (모델: {model}, 종료사유: {finish}, 길이: {len(text)}자)")
+                if finish == "MAX_TOKENS" or len(text) < 100:
+                    # 한도 초과로 잘렸거나 비정상적으로 짧으면 재시도
+                    print(f"[warn] 출력 비정상(사유: {finish}) — 재시도 ({attempt}/3)")
+                    time.sleep(10)
+                    continue
                 return text
             except error.HTTPError as e:
                 last_err = e
@@ -144,7 +152,7 @@ FULL_BRIEFING_PROMPT = """당신은 매일 아침 사용자에게 지난 하루�
 2. 카테고리별로 중요한 기사 5건 선정(기사가 부족하면 있는 만큼). 각 기사는 "**헤드라인**" 한 줄 + 핵심 내용 2~3문장 요약 + 기사 원문 링크 한 줄로 구성.
 3. 중복되거나 사실상 같은 사건을 다루는 기사는 하나로 합침.
 4. 자극적이거나 클릭베이트성 표현 금지. 사실 위주로 담백하게.
-5. 절대 금지: 글자 수 표기, "(90 chars)" 같은 메타 주석, 작성 과정 설명, 인사말. 브리핑 본문만 출력.
+5. 절대 금지: 글자 수 표기, 괄호 안 영어 메타 주석(예: "(Only 3 news)"), 작성 과정 설명, 인사말. 어떤 언어로든 브리핑 본문 외의 말은 한 글자도 출력하지 말 것. 기사가 5건보다 적은 분야는 조용히 있는 만큼만 쓸 것.
 6. 맨 마지막 줄에 "---" 아래 "연합뉴스 RSS 기반 · 자동 생성 브리핑" 표기."""
 
 DIGEST_PROMPT = """아래 뉴스 브리핑에서 가장 중요한 서로 다른 헤드라인 3개를 뽑으세요.
