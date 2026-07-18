@@ -25,10 +25,12 @@ from urllib import request, parse, error
 # ─────────────────────────────────────────────
 
 RSS_FEEDS = {
-    "종합": "https://www.yna.co.kr/rss/news.xml",           # 연합뉴스 최신
-    "경제": "https://www.yna.co.kr/rss/economy.xml",         # 연합뉴스 경제
-    "국제": "https://www.yna.co.kr/rss/international.xml",   # 연합뉴스 국제
-}
+    "종합": "https://www.yna.co.kr/rss/news.xml",
+    "경제": "https://www.yna.co.kr/rss/economy.xml",
+    "국제": "https://www.yna.co.kr/rss/international.xml",
+    "산업": "https://www.yna.co.kr/rss/industry.xml",
+    "사회": "https://www.yna.co.kr/rss/society.xml",
+    "문화": "https://www.yna.co.kr/rss/culture.xml",
 
 MAX_ARTICLES_PER_FEED = 15     # 피드당 가져올 기사 수
 # 무료 등급 모델 목록. 앞의 모델이 과부하/오류면 다음 모델로 자동 전환
