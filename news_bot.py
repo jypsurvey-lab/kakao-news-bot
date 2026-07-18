@@ -31,6 +31,7 @@ RSS_FEEDS = {
     "산업": "https://www.yna.co.kr/rss/industry.xml",
     "사회": "https://www.yna.co.kr/rss/society.xml",
     "문화": "https://www.yna.co.kr/rss/culture.xml",
+}
 
 MAX_ARTICLES_PER_FEED = 15     # 피드당 가져올 기사 수
 # 무료 등급 모델 목록. 앞의 모델이 과부하/오류면 다음 모델로 자동 전환
