@@ -84,7 +84,7 @@ def collect_news() -> str:
 # 2. Gemini API 호출 (재시도 + 모델 폴백)
 # ─────────────────────────────────────────────
 
-def call_gemini(system_prompt: str, user_prompt: str, max_tokens: int = 4000) -> str:
+def call_gemini(system_prompt: str, user_prompt: str, max_tokens: int = 8000) -> str:
     api_key = os.environ["GEMINI_API_KEY"]
     body = json.dumps({
         "system_instruction": {"parts": [{"text": system_prompt}]},
@@ -288,7 +288,7 @@ def main():
     save_briefing(briefing, now_kst)
 
     print("[info] 카톡용 요약 생성 중...")
-    digest = build_digest(call_gemini(DIGEST_PROMPT, briefing, max_tokens=500))
+    digest = build_digest(call_gemini(DIGEST_PROMPT, briefing))
 
     print("[info] 카카오 토큰 갱신 중...")
     access_token, new_refresh = refresh_kakao_token()
