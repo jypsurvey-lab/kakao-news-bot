@@ -31,6 +31,8 @@ RSS_FEEDS = {
     "산업": "https://www.yna.co.kr/rss/industry.xml",        # 연합뉴스 산업
     "사회": "https://www.yna.co.kr/rss/society.xml",         # 연합뉴스 사회
     "문화": "https://www.yna.co.kr/rss/culture.xml",         # 연합뉴스 문화
+    "미국경제": "https://news.google.com/rss/search?q=%28%22%EC%97%B0%EC%A4%80%22%20OR%20%22%EB%89%B4%EC%9A%95%EC%A6%9D%EC%8B%9C%22%20OR%20%22%EB%AF%B8%EA%B5%AD%20%EA%B8%B0%EC%A4%80%EA%B8%88%EB%A6%AC%22%20OR%20%22%EB%AF%B8%EA%B5%AD%20%EB%AC%BC%EA%B0%80%22%20OR%20%22%EB%AF%B8%EA%B5%AD%20%EA%B3%A0%EC%9A%A9%EC%A7%80%ED%91%9C%22%20OR%20%22%EB%AF%B8%EA%B5%AD%20%EA%B4%80%EC%84%B8%22%29%20when%3A1d&hl=ko&gl=KR&ceid=KR%3Ako",
+    "부동산": "https://news.google.com/rss/search?q=%28%22%EC%95%84%ED%8C%8C%ED%8A%B8%20%EB%A7%A4%EB%A7%A4%EA%B0%80%22%20OR%20%22%EC%A0%84%EC%84%B8%22%20OR%20%22%EB%B6%80%EB%8F%99%EC%82%B0%20%EB%8C%80%EC%B1%85%22%20OR%20%22%EC%9E%AC%EA%B1%B4%EC%B6%95%22%20OR%20%22%EC%B2%AD%EC%95%BD%22%20OR%20%22%EC%A3%BC%ED%83%9D%EB%8B%B4%EB%B3%B4%EB%8C%80%EC%B6%9C%22%29%20when%3A1d&hl=ko&gl=KR&ceid=KR%3Ako",
 }
 
 MAX_ARTICLES_PER_FEED = 8      # 피드당 가져올 기사 수 (분야가 많아 입력 과대 방지)
@@ -151,7 +153,7 @@ FULL_BRIEFING_PROMPT = """당신은 매일 아침 사용자에게 지난 하루�
 제공된 뉴스 기사 목록으로 마크다운 형식의 아침 뉴스 브리핑을 작성하세요.
 
 [규칙]
-1. 입력에 존재하는 모든 카테고리를 하나도 빠짐없이 포함할 것. 카테고리는 "## 📌 종합", "## 💰 경제", "## 🌍 국제", "## 🏭 산업", "## ⚖️ 사회", "## 🎭 문화" 형식의 제목으로 구분.
+1. 입력에 존재하는 모든 카테고리를 하나도 빠짐없이 포함할 것. 카테고리는 "## 📌 종합", "## 💰 경제", "## 🌍 국제", "## 🏭 산업", "## ⚖️ 사회", "## 🎭 문화", "## 🇺🇸 미국경제", "## 🏠 부동산", 형식의 제목으로 구분.
 2. 카테고리별로 중요한 기사 5건 선정(기사가 부족하면 있는 만큼). 각 기사는 "**헤드라인**" 한 줄 + 핵심 내용 2~3문장 요약 + 기사 원문 링크 한 줄로 구성.
 3. 중복되거나 사실상 같은 사건을 다루는 기사는 하나로 합침.
 4. 자극적이거나 클릭베이트성 표현 금지. 사실 위주로 담백하게.
