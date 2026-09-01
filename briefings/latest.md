@@ -1,182 +1,174 @@
-# ☀️ 아침 뉴스 브리핑 — 2026년 08월 31일
+# ☀️ 아침 뉴스 브리핑 — 2026년 09월 01일
 
 ## 📌 종합
 
-**식품업계, 용량·메뉴 줄이고 가격 낮추는 '불황형 가성비' 확산**
-고물가 기조가 이어지면서 식품 및 외식업계가 상품의 용량이나 메뉴 가짓수를 줄이는 대신 가격을 낮추는 전략을 취하고 있습니다. 지출을 줄이려는 소비 트렌드에 맞춘 이른바 '불황형 가성비' 마케팅이 업계 전반으로 확산하는 모양새입니다.
-기사 원문: https://www.yna.co.kr/view/AKR20260831014700030
+**하나카드·산림조합, 연 8.0% 금리의 특판 적금 및 예금 상품 출시**
+하나카드는 산림조합중앙회와 협력하여 높은 금리를 제공하는 '하나더 정기적금Ⅱ'와 '하나더 정기예금Ⅱ' 상품을 출시했습니다. 이번 적금 상품은 월 납입 금액 10만 원에서 최대 금액까지 가입할 수 있도록 설계되어 고금리 혜택을 찾는 금융 소비자들의 관심을 모으고 있습니다.
+기사 원문: [https://www.yna.co.kr/view/AKR20260901054700002](https://www.yna.co.kr/view/AKR20260901054700002)
 
-**이영준, 스위스 그라스호퍼서 시즌 2호 골 기록**
-스위스 프로축구 그라스호퍼 클럽 취리히의 공격수 이영준이 정규리그 첫 출전 경기에서 시즌 2호 골을 터뜨렸습니다. 하지만 소속 팀인 그라스호퍼는 파두츠에 2-5로 완패하며 아쉬움을 남겼습니다.
-기사 원문: https://www.yna.co.kr/view/AKR20260831026000007
+**에어부산, 부산∼광저우 노선 주 2회 단독 운항으로 정기편 취항 추진**
+에어부산이 부산과 중국 광저우를 잇는 노선의 부정기편 운항을 시작으로 연내 정기편 취항을 본격적으로 추진한다고 밝혔습니다. 영남 지역 이용객들의 중국 남부 지역 이동 편의성이 크게 개선될 것으로 기대됩니다.
+기사 원문: [https://www.yna.co.kr/view/AKR20260901054200051](https://www.yna.co.kr/view/AKR20260901054200051)
 
-**롯데온, 연간 최대 규모 뷰티 행사 '뷰세라' 개최**
-롯데온이 다음 달 13일까지 2주 동안 연간 가장 큰 혜택을 제공하는 뷰티 행사 '뷰세라'를 진행합니다. 가을 맞이 뷰티 수요를 겨냥해 다양한 브랜드 제품을 특별가에 선보일 예정입니다.
-기사 원문: https://www.yna.co.kr/view/AKR20260831020800030
+**의료 인력난 겪는 속초의료원, 토사 매몰 중증환자 초기 처치 후 헬기 이송 성공**
+응급의료 인력 부족으로 응급실을 단축 운영 중인 강원 속초의료원이 토사에 매몰되어 큰 부상을 입은 60대 중증외상환자의 초기 응급처치를 성공적으로 마쳤습니다. 이후 환자는 닥터헬기를 통해 대형 병원으로 안전하게 이송되었습니다.
+기사 원문: [https://www.yna.co.kr/view/AKR20260901051500062](https://www.yna.co.kr/view/AKR20260901051500062)
 
-**전북 정읍 호우경보 및 전주 호우주의보 발효**
-기상청은 31일 오전 8시 20분을 기해 전북 정읍 지역에 호우경보를 발효했습니다. 전주를 비롯한 인근 지역에도 호우주의보가 내려지며 강한 비에 대한 주의가 요구됩니다.
-기사 원문: https://www.yna.co.kr/view/AKR20260831022900527
+**SK온의 1.5조 규모 미국 ESS 배터리 수주 소식에 SK이노베이션 주가 급등**
+SK이노베이션의 주가가 자회사인 SK온의 대규모 미국 에너지저장장치(ESS)용 배터리셀 수주 소식에 따라 장 초반 급등세를 보이고 있습니다. 이번 수주는 SK온의 배터리 사업 경쟁력을 다시 한번 입증하는 계기가 되었습니다.
+기사 원문: [https://www.yna.co.kr/view/AKR20260901052000008](https://www.yna.co.kr/view/AKR20260901052000008)
 
-**김시우, PGA 투어챔피언십 14위…한국 선수 최초 시즌 상금 1천만 달러 돌파**
-김시우가 미국프로골프(PGA) 투어 플레이오프 최종전인 투어 챔피언십에서 공동 14위에 올랐습니다. 이번 성적으로 김시우는 한국 선수 최초로 단일 시즌 누적 상금 1,000만 달러를 돌파하는 이정표를 세웠습니다.
-기사 원문: https://www.yna.co.kr/view/AKR20260831016651007
+**한국 정부, 대규모 홍수 피해 입은 네팔에 44명 규모 긴급구호대 파견**
+정부는 최근 심각한 홍수 피해를 입은 네팔을 지원하기 위해 44명 규모의 대한민국 긴급구호대(KDRT)를 현지로 출발시켰습니다. 구호대는 현지에서 수색 구조 및 긴급 의료 활동을 전개할 예정입니다.
+기사 원문: [https://www.yna.co.kr/view/AKR20260901054100504](https://www.yna.co.kr/view/AKR20260901054100504)
 
 ---
 
 ## 💰 경제
 
-**7월 소비 2.4% 감소…설비투자는 5개월 만에 최대폭 증가**
-7월 산업생산이 전월 수준에 머물렀으며, 소비(소매판매)는 2.4% 감소한 것으로 나타났습니다. 반면 설비투자는 7.5% 증가하며 두 달 연속 강세를 보였고, 이는 5개월 만에 가장 큰 폭의 증가세입니다.
-기사 원문: https://www.yna.co.kr/view/AKR20260831014451002
+**LH, 용인 첨단시스템반도체 국가산업단지 1공구 부지 조성공사 10월 조기 착공**
+한국토지주택공사(LH)는 용인 첨단시스템반도체 국가산업단지의 일정을 단축하여 오는 10월에 1공구 부지 조성공사를 착공한다고 발표했습니다. 반도체 메가 클러스터 구축에 속도가 붙을 전망입니다.
+기사 원문: [https://www.yna.co.kr/view/AKR20260901049800003](https://www.yna.co.kr/view/AKR20260901049800003)
 
-**KB증권, 대한전선 목표가 상향…북미 수주 가속화 기대**
-KB증권은 대한전선에 대해 내년부터 북미 지역 중심의 수주 가속화가 기대된다며 투자의견 '매수'와 함께 목표주가를 상향 조정했습니다. 북미 전력망 교체 수요 증가가 실적 성장을 견인할 것이라는 분석입니다.
-기사 원문: https://www.yna.co.kr/view/AKR20260831023400008
+**미래에셋 '맵스리얼티', 일본 도쿄 임대주택 4개 자산 신규 매입**
+상장 부동산 공모펀드인 '맵스리얼티'가 일본 도쿄 지역의 멀티패밀리(임대주택) 자산 4개를 매입하며 글로벌 포트폴리오를 다각화했습니다. 안정적인 임대 수익 확보를 목표로 한 적극적인 해외 부동산 투자 행보로 풀이됩니다.
+기사 원문: [https://www.yna.co.kr/view/AKR20260901051000008](https://www.yna.co.kr/view/AKR20260901051000008)
 
-**DS증권, 삼성바이오로직스 목표가 하향 조정**
-DS투자증권은 삼성바이오로직스의 목표주가를 기존 195만 원에서 185만 원으로 내렸습니다. 다만 하반기에는 실적 개선과 함께 투자 심리가 회복될 것이라는 긍정적인 전망을 유지했습니다.
-기사 원문: https://www.yna.co.kr/view/AKR20260831022700008
+**롯데칠성음료, 처음처럼 알코올 도수 15.7도로 낮추며 저도주 경쟁 본격화**
+롯데칠성음료가 대표 소주 브랜드인 '처음처럼'의 알코올 도수를 기존 16도에서 15.7도로 낮추기로 결정했습니다. 부드러운 목 넘김을 선호하는 소비자 트렌드에 맞춘 변화로, 주류 시장 내 저도주 경쟁이 한층 더 치열해질 예정입니다.
+기사 원문: [https://www.yna.co.kr/view/AKR20260901036200030](https://www.yna.co.kr/view/AKR20260901036200030)
 
-**SK에너지-네이버페이, 주유소 혜택 연동 업무 협약 체결**
-SK에너지가 네이버페이와 손잡고 주유소 현장 결제 및 포인트 적립 서비스를 대폭 강화합니다. 이번 협약에 따라 내년부터 SK 주유소에서 주유할 때 네이버페이 포인트를 적립하고 사용할 수 있게 됩니다.
-기사 원문: https://www.yna.co.kr/view/AKR20260831022500003
-
-**낮은 공사비 여파에 공공공사 기술형입찰 유찰 지속**
-난도가 높은 대형 국책사업에 적용되는 기술형 입찰의 절반 이상이 유찰되고 있는 것으로 조사되었습니다. 원자재 가격 상승 대비 책정된 공사비가 낮아 건설사들이 참여를 꺼리는 것이 주요 원인으로 지목됩니다.
-기사 원문: https://www.yna.co.kr/view/AKR20260831007400003
+**정부, 중국산 아크릴산 부틸에 5년간 최대 19.17% 덤핑방지관세 부과**
+기획재정부는 국내 산업 보호를 위해 수입산 중국 아크릴산 부틸 제품에 대해 향후 5년간 최대 19.17%의 덤핑방지관세를 부과하기로 결정했습니다. 이는 국내 화학 업계의 공정한 경쟁 환경 조성을 돕기 위한 조치입니다.
+기사 원문: [https://www.yna.co.kr/view/AKR20260901050900002](https://www.yna.co.kr/view/AKR20260901050900002)
 
 ---
 
 ## 🌍 국제
 
-**이란, 호르무즈 해협에서 미군 함정 향해 미사일 발사**
-이란군이 호르무즈 해협을 통과하던 미국 군함을 겨냥해 미사일을 발사했다고 이란 국영 프레스TV가 보도했습니다. 미국의 선제 공격에 대한 보복 차원의 군사 조치로 해석되어 역내 긴장감이 고조되고 있습니다.
-기사 원문: https://www.yna.co.kr/view/AKR20260831012600009
+**프랑스 90년대 민영화 이끈 우파 거물 정치인 에두아르 발라뒤르 전 총리 별세**
+프랑스의 중도우파 정계를 대표하며 대대적인 국영기업 민영화를 주도했던 에두아르 발라뒤르 전 총리가 향년 97세를 일기로 타계했습니다. 고인은 프랑스 현대 경제 정책의 기틀을 닦은 인물로 평가받습니다.
+기사 원문: [https://www.yna.co.kr/view/AKR20260901050500009](https://www.yna.co.kr/view/AKR20260901050500009)
 
-**미국 그랜드캐니언 돌발 홍수로 최소 15명 실종**
-미국 애리조나주 그랜드캐니언 국립공원 일대에 갑작스러운 폭우가 내리면서 돌발 홍수가 발생했습니다. 이로 인해 관광객과 야영객 등 최소 15명이 실종되어 수색 당국이 구조 작업에 나섰습니다.
-기사 원문: https://www.yna.co.kr/view/AKR20260831012700075
+**미국 정보당국 주시하는 이란의 신형 기뢰, 로켓포 활용 투하 방식 추정**
+이란이 지상에서 로켓포를 발사해 바다로 기뢰를 투하하는 새로운 형태의 부설 수단을 확보한 것으로 전해졌습니다. 미 정보당국은 해상 교통로 안전에 새로운 위협이 될 수 있어 예의주시하고 있습니다.
+기사 원문: [https://www.yna.co.kr/view/AKR20260901038100009](https://www.yna.co.kr/view/AKR20260901038100009)
 
-**스페이스X, 전력난 해결 위해 가스터빈 블레이드 공장 직접 건립 추진**
-일론 머스크의 우주 기업 스페이스X가 데이터센터의 안정적인 전력 공급을 위해 가스터빈용 블레이드 공장을 직접 건설하는 방안을 추진 중입니다. 인공지능 분야 확장 등에 따른 전력 수요 급증에 선제적으로 대응하려는 움직임입니다.
-기사 원문: https://www.yna.co.kr/view/AKR20260831017700009
+**중국 창신메모리테크놀로지스, HBM3E 소량 생산 및 자국 팹리스 테스트 돌입**
+중국의 메모리 반도체 기업 창신메모리테크놀로지스(CXMT)가 첨단 고대역폭메모리인 HBM3E 제품의 소량 생산에 성공했습니다. 현재 중국 내 주요 팹리스 기업 두 곳과 함께 성능 테스트를 진행 중인 것으로 알려졌습니다.
+기사 원문: [https://www.yna.co.kr/view/AKR20260901039400009](https://www.yna.co.kr/view/AKR20260901039400009)
 
-**헝가리서 탈취된 경비행기 원전 접근하다 전투기에 가로막혀**
-헝가리의 한 비행장에서 신원 미상의 인물이 경비행기를 훔쳐 타고 인근 원자력 발전소 방향으로 접근하는 소동이 벌어졌습니다. 군 전투기가 즉각 출격해 비행기를 저지했으며 경찰이 테러 가능성 등을 수사 중입니다.
-기사 원문: https://www.yna.co.kr/view/AKR20260831022000009
+**미국 법원, 이스라엘 비판 및 팔레스타인 옹호 유학생에 대한 행정부의 추방 조치 제동**
+미국 법원이 이스라엘 정부를 비판하거나 팔레스타인 지지 입장을 밝혔다는 이유로 유학생들을 추방하려 한 행정부의 조치에 제동을 걸었습니다. 법원은 유학생들의 표현의 자유를 인정하며 유학생들의 손을 들어주었습니다.
+기사 원문: [https://www.yna.co.kr/view/AKR20260901041400075](https://www.yna.co.kr/view/AKR20260901041400075)
 
-**스위스 야외 댄스 파티장 총기난사로 6명 사상**
-스위스에서 열린 한 야외 댄스 파티장에서 괴한이 총기를 난사해 1명이 숨지고 5명이 다치는 참사가 일어났습니다. 현지 경찰은 달아난 용의자의 신원을 파악하고 추적을 이어가고 있습니다.
-기사 원문: https://www.yna.co.kr/view/AKR20260831017200009
+**도널드 트럼프 미국 대통령, 요르단 미군 기지 공격한 이란에 "강력 타격" 보복 예고**
+도널드 트럼프 대통령은 요르단 소재 미군 기지에 가해진 공격의 배후로 이란을 지목하고, 이에 대해 강력한 군사적 보복 조치를 단행할 것을 강력히 경고했습니다. 중동 지역의 군사적 긴장감이 다시 고조되고 있습니다.
+기사 원문: [https://www.yna.co.kr/view/AKR20260901006051071](https://www.yna.co.kr/view/AKR20260901006051071)
 
 ---
 
 ## 🏭 산업
 
-**NC AI, 사우디 'LEAP 2026' 참가 및 공동관 운영**
-NC AI가 사우디아라비아 리야드에서 개최되는 중동 최대 규모의 IT 전시회 'LEAP 2026'에 참가합니다. 회사는 이번 전시회에서 자체 구축한 풀스택 AI 솔루션을 소개하는 공동관을 마련해 기술력을 홍보합니다.
-기사 원문: https://www.yna.co.kr/view/AKR20260831022300017
+**인하대학교 연구팀과 국내 조선 3사, 극지 운항 선박 핵심 기술 개발 착수**
+인하대학교 조선해양공학과 연구팀이 국내 대형 조선 3사와 손잡고 빙해 등 극한 환경에서 운항 가능한 극지 선박의 핵심 엔지니어링 기술 공동 개발에 돌입했습니다. 친환경·고부가가치 선박 시장에서의 기술 격차를 더욱 벌릴 계획입니다.
+기사 원문: [https://www.yna.co.kr/view/AKR20260901053500065](https://www.yna.co.kr/view/AKR20260901053500065)
 
-**충남 당진 리튬배터리 공장 창고에서 화재 발생**
-31일 오전 충남 당진시 합덕읍에 위치한 리튬배터리 제조 공장의 창고동에서 불이 났습니다. 소방 당국은 인력과 장비를 대거 투입해 배터리 열폭주 등 추가 피해를 막으며 진화 작업을 벌이고 있습니다.
-기사 원문: https://www.yna.co.kr/view/AKR20260831021700063
+**KISA, 기종 무관한 물리보안 시스템 간 원활한 연동 위한 표준 상호운용성 시험 도입**
+한국인터넷진흥원(KISA)은 서로 다른 제조사와 기종의 물리보안 시스템들이 원활하게 상호 연동될 수 있도록 표준 검증 시험 제도를 도입합니다. 이를 통해 보안 시스템 구축 비용을 절감하고 비효율성을 해소할 방침입니다.
+기사 원문: [https://www.yna.co.kr/view/AKR20260901045600017](https://www.yna.co.kr/view/AKR20260901045600017)
 
-**식약처, 9월 7일 '화장품의 날' 기념식 개최**
-식품의약품안전처가 법정기념일인 '화장품의 날'을 맞아 다음 달 7일 서울 중구 더 플라자호텔에서 기념행사를 엽니다. 이번 행사를 통해 K-뷰티의 글로벌 성과를 조명하고 수출 활성화 방안을 모색할 예정입니다.
-기사 원문: https://www.yna.co.kr/view/AKR20260831021000017
+**LG유플러스, 글로벌 AI 관리 기업 어라이즈 AI와 AI 에이전트 안전성 검증 협력**
+LG유플러스는 인공지능 운영 관리 전문 기업인 어라이즈 AI와 협력하여 자사 AI 에이전트 서비스의 신뢰성과 안전성을 모니터링하고 성능을 개선하기로 했습니다. 고도화된 AI 서비스를 안전하게 사용자에게 제공하기 위한 조치입니다.
+기사 원문: [https://www.yna.co.kr/view/AKR20260901044500017](https://www.yna.co.kr/view/AKR20260901044500017)
+
+**대우건설, 글로벌 디자인 그룹 '어반 에이전시'와 목동8단지 재건축 외관 설계 협업**
+대우건설이 서울 양천구 목동8단지 재건축 사업 수주를 위해 덴마크 기반의 글로벌 건축 디자인 그룹 '어반 에이전시'와 손을 잡았습니다. 차별화된 외관 디자인 제안을 통해 수주 경쟁력을 극대화할 계획입니다.
+기사 원문: [https://www.yna.co.kr/view/AKR20260901044200003](https://www.yna.co.kr/view/AKR20260901044200003)
 
 ---
 
 ## ⚖️ 사회
 
-**기후 위기 경각심 일깨우는 '하나뿐인 지구영상제' 9월 3일 개막**
-전 세계적인 기후 변화의 심각성을 공유하는 환경 영화제 '하나뿐인 지구영상제'가 다음 달 3일 부산 영화의전당에서 막을 올립니다. 5일 동안 진행되는 이번 행사에서는 환경을 주제로 한 다채로운 영상 작품들이 상영됩니다.
-기사 원문: https://www.yna.co.kr/view/AKR20260831022600051
+**인천국제공항공사, 대홍수 피해를 입은 네팔 이재민 위해 긴급구호금 1억 원 기탁**
+인천국제공항공사는 최근 히말라야 산악지대 대홍수로 심각한 재해를 입은 네팔 수해 지역 주민들의 일상 회복을 돕고자 대한적십자사를 통해 긴급 구호 기금 1억 원을 전달했습니다.
+기사 원문: [https://www.yna.co.kr/view/AKR20260901049500065](https://www.yna.co.kr/view/AKR20260901049500065)
 
-**충북도교육청 교직원들, 급여 우수리 기부로 제자 장학금 전달**
-충청북도교육청 소속 교직원들이 매월 급여에서 자발적으로 참여하는 기부를 통해 기금을 모았습니다. 이를 바탕으로 올해 도내 학생 140명에게 따뜻한 장학금을 지원하게 되었습니다.
-기사 원문: https://www.yna.co.kr/view/AKR20260831022800064
+**강원 양구군, 농촌 인력난 해소 위해 최초로 베트남 국적 외국인 계절근로자 21명 유치**
+강원 양구군에 농번기 일손 부족 문제를 해결하기 위한 공공형 외국인 계절근로자 21명이 처음으로 입국했습니다. 이들은 지역 농가에 배치되어 고령화와 인력난으로 어려움을 겪는 농업 현장에 큰 힘이 될 예정입니다.
+기사 원문: [https://www.yna.co.kr/view/AKR20260901050300062](https://www.yna.co.kr/view/AKR20260901050300062)
 
-**부산시, 오는 10월부터 일부 시내버스 대상 '현금 없는 버스' 시범 도입**
-부산시가 카드 결제 비율 증가와 안전성 향상을 위해 오는 10월부터 3개월 동안 '현금 없는 시내버스'를 시범 운행합니다. 현금 수납함 대신 카드 단말기 중심의 탑승 환경을 구축해 갈 계획입니다.
-기사 원문: https://www.yna.co.kr/view/AKR20260831016700051
+**서울시, 120다산콜재단 신임 이사장에 송주범 전 서울시 정무부시장 임명**
+서울시의 민원 소통 창구인 120다산콜재단을 이끌 신임 이사장에 송주범 전 서울시 정무부시장이 임명되었습니다. 신임 이사장은 행정 경험을 바탕으로 공공 콜센터 서비스의 수준을 한 단계 높일 예정입니다.
+기사 원문: [https://www.yna.co.kr/view/AKR20260831175300004](https://www.yna.co.kr/view/AKR20260831175300004)
 
-**조희대 대법원장 부친상…조용히 가족장 치르기로**
-조희대 대법원장이 부친상을 당했습니다. 대법원 측은 고인과 유족의 뜻에 따라 조의금과 화환을 사절하며 차분하게 장례를 치를 예정이라고 전했습니다.
-기사 원문: https://www.yna.co.kr/view/AKR20260831024900004
-
-**식약처, 추석 맞이 제수용·선물용 식품 위생 실태 특별 점검**
-식품의약품안전처는 추석 명절을 대비해 명절 성수식품 제조 및 판매 업체를 대상으로 일제 점검을 실시합니다. 제수용 음식과 건강기능식품 등의 안전한 유통을 보장하기 위해 선제적 조치에 나섭니다.
-기사 원문: https://www.yna.co.kr/view/AKR20260831023700017
+**경기 화성시, 동탄구청 내 스마트워크센터 개소로 유연한 공직 근무 환경 조성**
+화성시가 소속 공무원들의 장거리 출퇴근 불편을 줄이고 유연한 근무 형태를 지원하기 위해 동탄구청에 스마트워크센터를 마련했습니다. 원격 근무 인프라 확충을 통해 공직 사회의 일하는 방식이 크게 개선될 것으로 보입니다.
+기사 원문: [https://www.yna.co.kr/view/AKR20260901048100061](https://www.yna.co.kr/view/AKR20260901048100061)
 
 ---
 
 ## 🎭 문화
 
-**그룹 엔하이픈, 미니 8집으로 빌보드 메인 앨범 차트 첫 정상 등극**
-그룹 엔하이픈이 미니 8집 '더 신 : 블리스'를 통해 데뷔 6년 만에 처음으로 미국 빌보드 메인 앨범 차트인 '빌보드 200' 1위에 올랐습니다. 글로벌 음악 시장에서 입지를 굳건히 다지는 계기가 되었습니다.
-기사 원문: https://www.yna.co.kr/view/AKR20260828000600005
+**배우 정해인과 신세경, 오랜 연인 연기하는 드라마 '러브 바이러스' 캐스팅**
+배우 정해인과 신세경이 9년 차 장수 커플의 이야기를 다룬 새 로맨스 드라마 '러브 바이러스'의 남녀 주인공으로 낙점되었습니다. 이들이 선보일 현실감 넘치는 로맨스는 내년에 안방극장을 찾아갈 예정입니다.
+기사 원문: [https://www.yna.co.kr/view/AKR20260901050600005](https://www.yna.co.kr/view/AKR20260901050600005)
 
-**'올해의 양성평등문화상'에 영화감독 윤가은 및 프로그램 선정**
-문화체육관광부는 양성평등 의식 확산에 기여한 공로로 영화감독 윤가은과 다큐멘터리 프로그램 '눈에 띄는 그녀들' 등을 '올해의 양성평등문화상' 수상자로 선정했습니다. 
-기사 원문: https://www.yna.co.kr/view/AKR20260831019400005
+**대한항공, 가을철 연휴 제주 노선에 마일리지 전용 특별 임시편 운항**
+대한항공은 다가오는 추석과 개천절, 한글날 연휴 동안 제주를 찾는 귀성객과 관광객들을 위해 김포~제주 노선에 보너스 항공권 전용 특별기를 띄웁니다. 마일리지를 쌓아둔 고객들의 여행 편의가 향상될 전망입니다.
+기사 원문: [https://www.yna.co.kr/view/AKR20260901048000003](https://www.yna.co.kr/view/AKR20260901048000003)
 
-**유럽 최대 가전전시회 'IFA 2026' 다음 달 독일 베를린서 개막**
-글로벌 기술 트렌드를 조망할 수 있는 유럽 최대 가전·IT 전시회 'IFA 2026'이 오는 9월 독일 베를린에서 개최됩니다. 올해 전시에서는 우리 삶 속에 깊숙이 파고든 인공지능과 로봇 기술이 주요 화두가 될 전망입니다.
-기사 원문: https://www.yna.co.kr/view/AKR20260828038400003
+**군산시, 새만금컨벤션센터에서 4일부터 사흘간 '오토레저캠핑쇼' 개최**
+전북 군산시는 오는 4일부터 6일까지 캠핑카와 아웃도어 용품 등 레저 문화의 최신 트렌드를 한눈에 볼 수 있는 '2026 새만금 오토레저캠핑쇼'를 개최합니다. 다양한 부대행사와 체험 기회가 마련되어 캠핑 마니아들의 기대를 모읍니다.
+기사 원문: [https://www.yna.co.kr/view/AKR20260901047300055](https://www.yna.co.kr/view/AKR20260901047300055)
 
-**부산 다대포해수욕장, 낙조 배경으로 한 야간관광 콘텐츠 선보여**
-천혜의 낙조 명소인 부산 다대포 해변 일대에서 음악과 노을, 캠핑이 어우러진 다채로운 야간 체험형 관광 프로그램이 펼쳐집니다. 지역 상권 활성화와 더불어 관광객들에게 특별한 가을밤의 추억을 선사할 계획입니다.
-기사 원문: https://www.yna.co.kr/view/AKR20260831020700051
+**강원 평창군, 청소년 e스포츠 페스티벌 성황리에 종료**
+청소년들의 건전한 게임 문화 정착과 화합을 위해 평창군이 주최한 '2026 평창군 청소년 e스포츠 페스티벌'이 대단원의 막을 내렸습니다. 리그 오브 레전드(LOL) 등 인기 종목에서 본선에 진출한 40명의 선수가 치열한 승부를 펼쳤습니다.
+기사 원문: [https://www.yna.co.kr/view/AKR20260901049700062](https://www.yna.co.kr/view/AKR20260901049700062)
 
-**GS칼텍스, 서울숲에서 어린이 생태드로잉 교실 진행**
-GS칼텍스는 서울숲 배움정원에서 어린이를 대상으로 환경의 중요성을 배우고 직접 그림으로 그려보는 생태드로잉 교실을 열었습니다. 정원박람회와 연계한 도심 속 생태 체험 교육의 일환입니다.
-기사 원문: https://www.yna.co.kr/view/AKR20260828149600003
+**11번가, '월간 십일절' 개막하며 가전 및 가을 제철 먹거리 최대 55% 파격 할인**
+온라인 쇼핑몰 11번가가 9월 '월간 십일절' 행사를 시작했습니다. 환절기 필수 가전 제품과 가을 맞이 제철 농수산물 등 인기 상품을 대상으로 최대 55% 할인된 특별한 혜택을 제공합니다.
+기사 원문: [https://www.yna.co.kr/view/AKR20260901030000030](https://www.yna.co.kr/view/AKR20260901030000030)
 
 ---
 
 ## 🇺🇸 미국경제
 
-**케빈 워시 연준 의장의 9월 금리 인상 시사 및 시장 영향 분석**
-미국 연방준비제도(Fed·연준)의 케빈 워시 의장이 인플레이션 억제에 대한 확고한 통화 긴축 의지를 다시 한번 내비쳤습니다. 주말 사이 나온 그의 매파적 발언은 시장의 금리 인상 경계감을 극대화시켰으며, 트럼프 행정부와의 정책적 갈등 가능성도 함께 부각되고 있습니다.
-기사 원문: https://news.google.com/rss/articles/CBMic0FVX3lxTFBkbDQwa01URGxrT1RBdzNCUVlnQVZ6TkxLazJtVkZFYlBRbXNfM25rS0ZNNmNkc0kyazRmeUZDMTZqTEljUWUwQnczYWxyVnNieXlrNEtjZlVnMW1XUjRBYjJKUHpibUZsMWNwRVhpeDRGYUXSAWZBVV95cUxNVVlDZXRXSUJSZUhJZVQ3ZG1KRjBtcGpKYkp2ZTBIcWNxYlhzU3JJM05aZGNleDdOQzQ2OEhlUnduSEJ1eYo3X1ByMldvLThORHM3YklVdF9xMTZ1NzVWY3VIYkllWnc?oc=5
+**미국과 이란의 지정학적 무력 충돌 재개로 뉴욕증시 3대 지수 하락 및 국제유가 급등**
+미국과 이란 간의 지정학적 무력 갈등이 재개되면서 금융시장의 불안감이 고조되었습니다. 이에 따라 뉴욕증시 3대 지수가 일제히 하락 마감했으며, 국제 유가는 시장 불안 우려 속에 2%대 급등세를 나타냈습니다.
+기사 원문: [https://news.google.com/rss/articles/CBMiYEFVX3lxTE15TGgwbVdpdUlVUm1TVjFYTU1UN2xVdGFyek1NM2FrZXIyem1BQ21nWUhGcDM2SmVoSzZWQXBpZmZ0ekkxZTZyX2M4UHoxbG9ZaFhmUmlzMHk0eVI4YlRCVtIBYEFVX3lxTE15TGgwbVdpdUlVUm1TVjFYTU1UN2xVdGFyek1NM2FrZXIyem1BQ21nWUhGcDM2SmVoSzZWQXBpZmZ0ekkxZTZyX2M4UHoxbG9ZaFhmUmlzMHk0eVI4YlRCVg?oc=5](https://news.google.com/rss/articles/CBMiYEFVX3lxTE15TGgwbVdpdUlVUm1TVjFYTU1UN2xVdGFyek1NM2FrZXIyem1BQ21nWUhGcDM2SmVoSzZWQXBpZmZ0ekkxZTZyX2M4UHoxbG9ZaFhmUmlzMHk0eVI4YlRCVtIBYEFVX3lxTE15TGgwbVdpdUlVUm1TVjFYTU1UN2xVdGFyek1NM2FrZXIyem1BQ21nWUhGcDM2SmVoSzZWQXBpZmZ0ekkxZTZyX2M4UHoxbG9ZaFhmUmlzMHk0eVI4YlRCVg?oc=5)
 
-**뉴욕증시, 매파적 연준 스탠스에 긴축 경계감 번지며 기술주 중심 하락**
-미 연준의 추가 금리 인상 가능성이 급부상함에 따라 투자 심리가 빠르게 위축되었습니다. 기준금리 고공행진 우려가 재점화되며 뉴욕 주요 지수는 기술주를 중심으로 하방 압력을 받으며 하락 마감했습니다.
-기사 원문: https://news.google.com/rss/articles/CBMibkFVX3lxTE55LVdzWXlEQlZ5MFZWQjhEWXZ3RG5OMG81eDRwcDNVLTNCbXhId2IwQ1BldzNZX2M3RUtrN29qMVZGSjQ2WkxrU1Nxa2RMT3V6WVY0T2FtSldSVkJfU19nMGlWSVUyXzB2ME04QmZn?oc=5
+**도널드 트럼프 대통령, 미국 연방준비제도에 "금리가 너무 높다"며 적극적인 금리 인하 압박**
+도널드 트럼프 대통령은 미국의 기준금리가 전 세계 주요국에 비해 지나치게 높다고 비판하며 금리를 세계 최저 수준으로 낮추어야 한다고 연준을 압박했습니다. 연준 내부의 매파적 금리 인상 시그널에 강한 거부감을 보인 것입니다.
+기사 원문: [https://news.google.com/rss/articles/CBMiXEFVX3lxTE1ydlpUX3J6NG9EZzV3bzFZSnNuLUZVaXJXcnV4bUVnd2hqeGUxZktSNl82UW9xVXQ1eDVsRmk1LU5NaXlkdGliVUlWNFJxNnh4QlN0S2VWTFJjVnpB?oc=5](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1ydlpUX3J6NG9EZzV3bzFZSnNuLUZVaXJXcnV4bUVnd2hqeGUxZktSNl82UW9xVXQ1eDVsRmk1LU5NaXlkdGliVUlWNFJxNnh4QlN0S2VWTFJjVnpB?oc=5)
 
-**뉴욕 주간전망: 8월 고용 보고서가 연준 통화정책 방향의 가늠자 될 듯**
-시장의 시선은 이번 주 발표될 미국의 8월 고용 보고서에 일제히 쏠려 있습니다. 고용 시장의 열기가 식지 않았을 경우 9월 연준의 금리 인상 결정이 굳어질 수 있어 지표 발표 결과에 따라 증시 변동성이 확대될 것으로 보입니다.
-기사 원문: https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZV9Zd25QbWRLcTVQS0FyR1dYWENVbEl6b1RiclhDMFBpZkRQNW9sMENRZFU4REV6N2ExX3N0Y1NQMTBUTlF0YzZIZWRXblpPeHZLZ1p0bnM2ZnJTMTJzWWRWeGFXblRXZHV5UGdCTVNvTWdPRmxwdGZJX0xHZ0JvSHRkbTBOeTg0?oc=5
-
-**역외 환율(NDF) 상승세…원/달러 환율 추가 반등 가능성**
-미국의 추가 긴축 경계감이 작용하면서 뉴욕 차외가공환율(NDF) 시장에서 원/달러 환율이 상승세를 보였습니다. 달러화 강세 압력이 높아짐에 따라 국내 외환시장에서도 원화 약세 흐름이 나타날 것으로 전망됩니다.
-기사 원문: https://news.google.com/rss/articles/CBMidEFVX3lxTE1zZzdIVWFIZTVJelZBenpmdGFhUTEzVEdsOGQ5Q1RFTzVKM1ByTG03V2xrU2VDWHlrZVE0dHFpcG1EMzYtQXVJSFpmTFdOdDA5MzVsN1BlRm1sazZkYUE1Z0w1c1FobzZMLUhNWDR0NmRv?oc=5
+**한국의 연속 금리 인상 및 미국 연준의 매파적 기조 유지로 금융권 은행주 강세 지속**
+한국은행의 2개월 연속 기준금리 인상 조치와 미 연준의 매파적 통화 긴축 기조 지속 전망이 이어지면서 금융 시장에서 수혜주로 분류되는 은행주들이 강세를 나타내고 있습니다. 고금리 환경이 장기화될 것이라는 분석이 힘을 얻고 있습니다.
+기사 원문: [https://news.google.com/rss/articles/CBMiiAFBVV95cUxNS0s2eGk5SnQ5Nkl4am9feGFyblZ2by1aOTVpRVBOTlg5YXp3SkE3Y1UzNlBWbmdkcUd5b0dEb002cGx1NUJXYy1FZXl3eEpEcVRkZGdBUGItdG1NczRDSFRtanVsQnRMSFFQLXJNLWZNN1FFZnRSX21Qem9oRGNMdTJUOGxnSk5Y0gGcAUFVX3lxTE10SkxRNTJWUmdaUDdNVTF3SF9uVmFLVktkQ25IeG84WHVJc3h0SjJJR0ktUk03Yno2alpqd0JHLUx3OElBLXNsb0JwZ2RaVEhmTDRtM2UzNXJMMDdETkhTT3Y1aHNoemNTZnlQZXBZbE02dEZjbndiU0d0MjhaYTZTVXp1aktjRFdJOGNTOXE1Mk5Ya3ViNWpXaWh1UA?oc=5](https://news.google.com/rss/articles/CBMiiAFBVV95cUxNS0s2eGk5SnQ5Nkl4am9feGFyblZ2by1aOTVpRVBOTlg5YXp3SkE3Y1UzNlBWbmdkcUd5b0dEb002cGx1NUJXYy1FZXl3eEpEcVRkZGdBUGItdG1NczRDSFRtanVsQnRMSFFQLXJNLWZNN1FFZnRSX21Qem9oRGNMdTJUOGxnSk5Y0gGcAUFVX3lxTE10SkxRNTJWUmdaUDdNVTF3SF9uVmFLVktkQ25IeG84WHVJc3h0SjJJR0ktUk03Yno2alpqd0JHLUx3OElBLXNsb0JwZ2RaVEhmTDRtM2UzNXJMMDdETkhTT3Y1aHNoemNTZnlQZXBZbE02dEZjbndiU0d0MjhaYTZTVXp1aktjRFdJOGNTOXE1Mk5Ya3ViNWpXaWh1UA?oc=5)
 
 ---
 
 ## 🏠 부동산
 
-**서울시 장기전세 '20년 거주 한도' 만료 임박…기존 입주민 퇴거 요구 갈등**
-서울시의 시프트(장기전세) 도입 초기 입주민들의 20년 거주 기한 만료가 다가오면서 마찰이 불거지고 있습니다. 입주민들은 안정적인 주거권 보장을 위해 계속 거주하게 해달라고 요구하는 반면, 서울시는 대기 수요자와 형평성을 고려해 퇴거가 불가피하다는 방침입니다.
-기사 원문: https://news.google.com/rss/articles/CBMiXkFVX3lxTE0tWlJ4ck52SG1kMlBEdGhBam1mbUo2aUtkaUhlSXRXeDZSTTg0ZERnYVNPNGZjZVdVeVE0cmwyak1VRkZqYjNXTFFkX0ZlNmltWHVxYnJ1NXhPZGNBMlE?oc=5
+**치솟는 추가 분담금 부담에 재건축 사업성 급락… 구축 매입 후 손실 우려**
+공사비와 원자재 가격 상승으로 인해 재건축 조합원들이 부담해야 할 추가 분담금이 급격히 늘어나고 있습니다. 구축 아파트 가격에 분담금을 더하면 주변 신축 시세를 웃도는 경우가 속출해, 재건축 추진 단지들의 고심이 깊어집니다.
+기사 원문: [https://news.google.com/rss/articles/CBMimAFBVV95cUxOZjd0REFOUkg5RzZoUzdVTklHSVFxNkxicUtMeXlPd1FzZkFHYnBjOWVZelgxSXpMUUNKdWswcFFLZHhualdCeEZhVXdLbGFPMmJfMTlGQkVSeWRPVjlaeVREeXBVZC1UU2VHaUpKT3pXSXVhZjBNVm9KLXpFaU5NMHgxcXVFVkQ2b21mUVN0Nkw5T3JJbDV2Y9IBrAFBVV95cUxQNUkzZmliRXZMQ2xNUUM1OW5XQzZZdXFmSWhYTlgwSm5VblZXNjVHUHpFcW1YY0xma3BwelBzWUpkU191X0ZDeWpCeUtwZnd5TDJtcUg5UXItOUxrQVFldUZVWmZxd2w4dXl6QUVDNkhicmlnSS1KbTdObU5KalFoLVJZOUFfcU9LMkI0U2xqbE5IbUdQU2x0NTd5cnE1c3lwY1lYcUIzYmxsajN0?oc=5](https://news.google.com/rss/articles/CBMimAFBVV95cUxOZjd0REFOUkg5RzZoUzdVTklHSVFxNkxicUtMeXlPd1FzZkFHYnBjOWVZelgxSXpMUUNKdWswcFFLZHhualdCeEZhVXdLbGFPMmJfMTlGQkVSeWRPVjlaeVREeXBVZC1UU2VHaUpKT3pXSXVhZjBNVm9KLXpFaU5NMHgxcXVFVkQ2b21mUVN0Nkw5T3JJbDV2Y9IBrAFBVV95cUxQNUkzZmliRXZMQ2xNUUM1OW5XQzZZdXFmSWhYTlgwSm5VblZXNjVHUHpFcW1YY0xma3BwelBzWUpkU191X0ZDeWpCeUtwZnd5TDJtcUg5UXItOUxrQVFldUZVWmZxd2w4dXl6QUVDNkhicmlnSS1KbTdObU5KalFoLVJZOUFfcU9LMkI0U2xqbE5IbUdQU2x0NTd5cnE1c3lwY1lYcUIzYmxsajN0?oc=5)
 
-**국토교통부, 지자체 릴레이 정비사업 정책 설명회 개최**
-국토교통부는 재건축 및 재개발 규제 완화 대책을 지자체와 주민들에게 상세히 설명하기 위해 다음 달 초 서울과 대전 등에서 릴레이 설명회를 개최합니다. 복잡한 정비사업 절차를 간소화하는 정책적 안착을 지원하기 위한 목적입니다.
-기사 원문: https://news.google.com/rss/articles/CBMiY0FVX3lxTE5ncWFycXVlZUhMb2hkNnRWRXB1c3lNb1o0TGNTWk8zWHBqaGZBMm5LN3NoZkxqcFFBOW1rX0FfVVVKM2M5MHB2T25PRjVpMGctVjB2YXl6b3RqN3NEbHREOGhpUQ?oc=5
+**매물 잠기고 전셋값 역대 최고가 돌파… 서울 주택 시장에 심각한 전세 대란 엄습**
+부동산 세제 개편안 발표 이후 서울 전역에서 전세 매물이 약 13% 감소하며 전셋값이 치솟고 있습니다. 서울 평균 전셋값이 역대 최고 수준인 7억 원대를 넘어서며, 전세 보증금을 마련하지 못해 외곽으로 밀려나는 세입자들의 비명이 커지고 있습니다.
+기사 원문: [https://news.google.com/rss/articles/CBMiW0FVX3lxTE9Sa1haNHROSEdvRmo5a1ZSUk5ucUpLRkRQY2JRaGRmYnBrQVBzTmc3VE82S3AzYVNiRUk4eDQyeVAtUzJnZm44ZnRVVnp1MFptaWN2UVFoS2FveWPSAWBBVV95cUxQMGszRG1iVTNWWDNGb3Y1cUFCYkpPRXNKVUlRSXkzbkQxT3YxSzJNMFFjcUxROTBHOUZYSmRFNFZWR0dGUmlDNFBjcmNaelUxMEJHSWxvWHFIanNUSXJ5dnU?oc=5](https://news.google.com/rss/articles/CBMiW0FVX3lxTE9Sa1haNHROSEdvRmo5a1ZSUk5ucUpLRkRQY2JRaGRmYnBrQVBzTmc3VE82S3AzYVNiRUk4eDQyeVAtUzJnZm44ZnRVVnp1MFptaWN2UVFoS2FveWPSAWBBVV95cUxQMGszRG1iVTNWWDNGb3Y1cUFCYkpPRXNKVUlRSXkzbkQxT3YxSzJNMFFjcUxROTBHOUZYSmRFNFZWR0dGUmlDNFBjcmNaelUxMEJHSWxvWHFIanNUSXJ5dnU?oc=5)
 
-**수도권 분양 양극화…서울 '완판' 지속 속 인천·경기 청약통장 이탈**
-서울 주요 단지들이 잇따라 완판 행진을 이어가는 것과 대조적으로, 경기와 인천 지역에서는 당첨 포기 및 청약 통장 해지 사례가 늘고 있습니다. 무순위 줍줍 물량을 기대하는 대기 수요와 비서울 지역 공급 과잉 우려가 작용한 탓으로 풀이됩니다.
-기사 원문: https://news.google.com/rss/articles/CBMiUkFVX3lxTE5Qamc2WXQyMnA3MzNnWEVHSzFTN3cyV1ZWc1VVbURwSFRoZU9kWVZyQk1XaTh6eDZqaEFvVFpBb2d3UXdoOHlzdHI1enF4TGJ1dHc?oc=5
+**서울 빌라 시장, 전세 거래 줄고 월세 선호 현상 지속… 서초구 월세 최고**
+전세 사기 예방 여파 등으로 임차인들이 전세를 기피하고 월세를 선호하는 현상이 지속되고 있습니다. 특히 서초구 등 주요 지역 빌라의 경우 평균 월세 가격이 역대 높은 수치를 기록하며 서민 가계의 임대료 부담을 가중시키고 있습니다.
+기사 원문: [https://news.google.com/rss/articles/CBMiakFVX3lxTE5YNGZQd2wxcnRqdl9FX2VoQ3E4VFlGMkg4RUtoWGV1TllXaW50R054UmFYR3ZIcFFrSUhDbmpqR2dnS091M09XOVcteXpndnMwcHAwSVBhOVl0VW10VjVGZjJXdUhoZlFIYWfSAW9BVV95cUxOSXh5cWdFS0FXRnhqaWJzNEpFbGZyUUl5NUNscl85ajdKNjRFRXZqMi0tdW1manFlLXBabF9EelpKM1ROTWxUM0pxZ0paNF85R1V2a0tYNVZqS29CaURrdzFxb21TdHdyQkJqdGczY0E?oc=5](https://news.google.com/rss/articles/CBMiakFVX3lxTE5YNGZQd2wxcnRqdl9FX2VoQ3E4VFlGMkg4RUtoWGV1TllXaW50R054UmFYR3ZIcFFrSUhDbmpqR2dnS091M09XOVcteXpndnMwcHAwSVBhOVl0VW10VjVGZjJXdUhoZlFIYWfSAW9BVV95cUxOSXh5cWdFS0FXRnhqaWJzNEpFbGZyUUl5NUNscl85ajdKNjRFRXZqMi0tdW1manFlLXBabF9EelpKM1ROTWxUM0pxZ0paNF85R1V2a0tYNVZqS29CaURrdzFxb21TdHdyQkJqdGczY0E?oc=5)
 
-**금융권 가계대출 옥죄기 여파에 전세 및 주담대 '대출 지옥' 장기화 우려**
-가계대출 급증세를 막기 위해 시중은행들이 전세 대출과 주택담보대출 한도를 크게 제한하면서 실수요자들의 숨통이 막히고 있습니다. 상환 능력에 맞춘 규제라지만 전세 계약 만기 등을 앞둔 무주택 서민들의 혼란은 당분간 가중될 전망입니다.
-기사 원문: https://news.google.com/rss/articles/CBMiWkFVX3lxTE9ZVnVnUjFGZFk5M3FXQm1jQmsxVzFlYTE3ZmNycnlfNXRWR1JNS1ZWVHNyel9FeXB0MjQ2MXNJYjJWYkExMjhkdEh1Rk02VHBEeTE2UmUtWVRPZ9IBX0FVX3lxTE5UTDZUVjdxRkVlVT?oc=5
+**주택 시장 냉각과 분양가 상승 여파에 4050 세대 청약통장 대거 해지**
+과거 내 집 마련의 필수품으로 여겨졌던 주택청약종합저축 통장을 해지하는 40대와 50대 가입자가 최근 7개월 새 23만 명을 넘어섰습니다. 높아진 분양가 탓에 '청약 무용론'이 확산된 영향으로 풀이됩니다.
+기사 원문: [https://news.google.com/rss/articles/CBMiYEFVX3lxTE5wNnRYU28wRlZPYnJpWjJDMEt0akl4WnhRUngwbWhNbFE3Zko0NTVxb3JXTFBVVjVSQ05JX0lxcVg5ZkZVMnlyMDF5blZqbXhLYlRfOFVWSlZBVk1sWmVQdw?oc=5](https://news.google.com/rss/articles/CBMiYEFVX3lxTE5wNnRYU28wRlZPYnJpWjJDMEt0akl4WnhRUngwbWhNbFE3Zko0NTVxb3JXTFBVVjVSQ05JX0lxcVg5ZkZVMnlyMDF5blZqbXhLYlRfOFVWSlZBVk1sWmVQdw?oc=5)
 
-**전셋값 고공행진 속 저리 버팀목전세자금 신규대출은 되레 42% 감소**
-전국적인 전셋값 상승 기조 속에서도 서민용 저금리 대출 상품인 '버팀목전세자금대출'의 지난해 신규 취급액이 전년 대비 42%가량 줄어든 것으로 집계되었습니다. 까다로워진 심사 조건과 소득 제한 기준이 현실적인 자금난을 온전히 보장하지 못하고 있다는 비판이 제기됩니다.
-기사 원문: https://news.google.com/rss/articles/CBMiZEFVX3lxTE1fakpzZHlTOF9FNWlwQ3FhQjVQMVVXcVR3TkV4dHY0VFFrOWRpdVVaRVNsZFVza000c1lFTzNRZFVEYUJOLWI2dE9la0JUUmxRa1lxN1J0QlhOUGVwQXFMMGZ5T3g?oc=5
+**인천 연수구 원도심 재건축 '기대감' 속, 송도 분구 논의에 따른 지역 주민들의 '불안감' 가중**
+인천 연수구의 노후화된 원도심 지역은 재건축 규제 완화에 따른 개발 기대감이 높지만, 행정 구역 분할(송도국제도시 분구) 논의가 나오면서 원도심 공동화와 자산 가치 하락을 걱정하는 지역 주민들의 우려가 커지고 있습니다.
+기사 원문: [https://news.google.com/rss/articles/CBMib0FVX3lxTE9YRmJYNVZZcUZITEkwak5VQmxiZjdzNkhTNjFMQTk3M28xVy1RRVJMLUljMFY3ZXFLWjJ0dnFiT3RuTmlGY3RZTmRqWF9VbWx3TU5BMnRWb0lYRTZRNk1yTXRoOGV6d3BJUFdUT25Dcw?oc=5](https://news.google.com/rss/articles/CBMib0FVX3lxTE9YRmJYNVZZcUZITEkwak5VQmxiZjdzNkhTNjFMQTk3M28xVy1RRVJMLUljMFY3ZXFLWjJ0dnFiT3RuTmlGY3RZTmRqWF9VbWx3TU5BMnRWb0lYRTZRNk1yTXRoOGV6d3BJUFdUT25Dcw?oc=5)
 
 ---
 연합뉴스 RSS 기반 · 자동 생성 브리핑
