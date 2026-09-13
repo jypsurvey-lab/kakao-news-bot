@@ -1,174 +1,170 @@
-# ☀️ 아침 뉴스 브리핑 — 2026년 09월 13일
+# ☀️ 아침 뉴스 브리핑 — 2026년 09월 14일
 
 ## 📌 종합
 
-**무안 군공항 건설 선결 과제 윤곽…'해상매립·미군협상'**
-전남광주 무안 군공항 건설을 신속히 추진하기 위해 해결해야 할 핵심 과제들이 윤곽을 드러냈습니다. 해상매립 방안의 검토와 함께 미군 시설 이전 협상 등이 주요 과제로 꼽히며 사업 추진을 위한 관계 기관과의 협조가 중요해질 전망입니다.
-https://www.yna.co.kr/view/AKR20260911101800054
+**편의점·무인판매점 3천600곳 집중 점검…조리식품도 검사**
+식품의약품안전처는 14일부터 18일까지 지자체와 함께 어린이와 청소년들이 자주 이용하는 편의점과 무인판매점 등 3천600여 곳을 집중 점검합니다. 어린이 기호식품의 위생 상태를 확인하고, 편의점 내 조리식품에 대한 미생물 검사도 함께 진행할 예정입니다.
+링크: https://www.yna.co.kr/view/AKR20260914018200017
 
-**"등기 왔습니다"…해운대구, 집배원 치매 노인 관리 사업**
-부산 해운대구는 해운대우체국과 협력하여 취약계층 치매 환자를 돕는 '치매 안심 등기 우편서비스'를 시행합니다. 집배원들이 우편물을 배달하며 치매 노인의 안부를 확인하고 관리함으로써 지역 사회 안전망을 강화할 것으로 기대됩니다.
-https://www.yna.co.kr/view/AKR20260911110000051
+**경기 부천 심곡동 모텔서 불…60대 1명 연기 흡입**
+경기도 부천시 심곡동의 한 모텔에서 화재가 발생하여 투숙객 1명이 연기를 흡입하는 부상을 입었습니다. 불은 모텔 객실 내부 일부를 태운 뒤 소방 당국에 의해 진화되었으며, 자세한 화재 원인 조사가 진행 중입니다.
+링크: https://www.yna.co.kr/view/AKR20260914017700065
 
-**강릉 시골 초등학교의 계엄 수업, 미국서 학술 논문으로 출간**
-2년 전 강원 강릉의 한 시골 초등학교에서 진행되어 주목을 받았던 역사적 '계엄 수업' 사례가 미국 학술 논문으로 공식 출간되었습니다. 이 수업은 독창적인 교육 방식으로 평가받으며 국내외 교육계의 관심을 다시금 모으고 있습니다.
-https://www.yna.co.kr/view/AKR20260911138100062
+**부산서 벌초하던 50대 등 2명 벌에 쏘여…1명 호흡곤란 증상**
+부산에서 벌초 작업을 하던 시민들이 벌에 쏘여 병원으로 이송되는 등 최근 벌 쏘임 사고가 잇따르고 있습니다. 소방 당국은 가을철 벌초 및 성묘 활동 시 안전 수칙을 준수하고 벌의 공격에 각별히 유의할 것을 당부했습니다.
+링크: https://www.yna.co.kr/view/AKR20260914017200051
 
-**학봉장학회 이사장 "인구감소·돌봄, 한일 함께 난제 풀어야"**
-학봉장학회 이사장은 한국과 일본 양국이 직면한 인구 감소와 돌봄 공백 문제를 공동으로 해결해야 할 과제로 제시했습니다. 양국 간의 공조와 협력을 통해 한일 미래 세대를 위한 구체적인 대안 마련이 필요하다고 강조했습니다.
-https://www.yna.co.kr/view/AKR20260910117300073
+**CU, 한국조리과학고 학생 레시피로 만든 간편식 출시**
+편의점 CU가 한국조리과학고등학교 학생들이 개발한 참신한 레시피를 바탕으로 편의점 간편식 상품을 선보입니다. 고등학생들의 독창적인 아이디어가 담긴 메뉴를 고품질 편의점 상품으로 구현하여 젊은 소비자들을 공략할 계획입니다.
+링크: https://www.yna.co.kr/view/AKR20260914016900030
 
-**공범들과 고의 교통사고 낸 보험사기 일당 실형 선고**
-공격수, 수비수, 마네킹 등 역할을 철저히 분담해 계획적으로 고의 교통사고를 일으키고 보험금을 편취한 일당에게 실형이 선고되었습니다. 사법부는 이들의 조직적이고 반복적인 범행의 위험성을 지적하며 엄중한 처벌을 내렸습니다.
-https://www.yna.co.kr/view/AKR20260911131700052
+**DS증권 "오리온, 실적안정성·주주환원에 리레이팅 기대"**
+DS투자증권은 오리온에 대해 견조한 실적 안정성과 주주 환원 정책 강화가 예상된다며 기업 가치 재평가가 기대된다고 분석했습니다. 이에 따라 목표주가를 기존보다 상향한 18만 원으로 제시했습니다.
+링크: https://www.yna.co.kr/view/AKR20260914017100008
 
 ---
 
 ## 💰 경제
 
-**1,200만 원 고액 취업코칭까지…구직 청년들 부담 가중**
-대기업 채용을 대비하는 구직 청년들 사이에서 현직자 연계 취업 학원의 고액 코칭 프로그램이 성행하여 우려를 낳고 있습니다. 수백만 원에서 수천만 원에 달하는 비용 부담에도 불구하고, 정보 격차에서 뒤처질까 우려하는 취업 준비생들의 한숨이 깊어지고 있습니다.
-https://www.yna.co.kr/view/AKR20260912039600004
+**KB금융 이재근 "나이 아닌 역량·전문성 중심 세대교체"**
+KB금융지주 차기 회장 후보로 추천된 이재근 부문장은 나이가 아닌 역량과 전문성을 최우선 기준으로 삼아 세대교체를 단행하겠다고 밝혔습니다. 이와 함께 국내 시장을 넘어 글로벌 시장에서의 경쟁력을 한층 더 강화하겠다는 포부를 전했습니다.
+링크: https://www.yna.co.kr/view/AKR20260914014900002
 
-**인천경제자유구역청, 9개월 만에 수장 공백 해소 전망**
-수장 부재 상태가 장기화되던 인천경제자유구역청장에 산업통상자원부 고위 간부의 취임이 임박했습니다. 청장 임명을 계기로 주요 대형 사업들의 추진 속도가 빨라질 것이라는 기대와 함께 관료 출신 인사에 대한 우려가 동시에 제기됩니다.
-https://www.yna.co.kr/view/AKR20260911070100065
+**[마켓뷰] 중동 악재 지속…코스피 하방 압력 계속되나**
+호르무즈 해협 문제를 논의하기 위한 중동 국가들 간의 회의가 연기되었다는 소식이 전해지면서 국내 증시에 하방 압력이 더해지고 있습니다. 지정학적 리스크 지속과 유가 변동성이 코스피의 단기 흐름에 부정적인 요인으로 작용할 전망입니다.
+링크: https://www.yna.co.kr/view/AKR20260914009400008
 
-**국내 첫 북극항로 시범운항 컨테이너선, 네덜란드 로테르담 도착 임박**
-국내 컨테이너선 최초로 북극항로 시범 운항에 나선 팬스타 아크로호가 목적지인 로테르담에 도착할 예정입니다. 이번 운항의 성공으로 기존 수에즈 운하 노선 대비 시간과 비용을 단축하는 상업적 대안 항로로서의 가능성이 열릴지 주목됩니다.
-https://www.yna.co.kr/view/AKR20260911127800051
+**트럼프 "연준 금리 안내리면 몇몇 나라와 무역중단" 또 위협**
+도널드 트럼프 미국 대통령은 미 연방준비제도가 기준금리를 신속히 내리지 않을 경우 일부 국가들과 무역 관계를 중단하겠다며 연준에 대한 압박 수위를 높였습니다. 이는 금리 결정을 둘러싼 국제 무역 전반의 불안을 가중하고 있습니다.
+링크: https://www.yna.co.kr/view/AKR20260914010300071
 
-**김해국제공항, 이용객 최대에도 은행 유치 난항**
-김해국제공항의 이용객 수가 역대 최대치를 기록하고 있음에도 불구하고, 공항 내 입점할 후속 은행을 구하는 데 난항을 겪고 있습니다. 금융권의 비대면 거래 전환과 지점 수익성 악화 우려가 맞물려 시중은행들의 입찰 참여가 저조한 상황입니다.
-https://www.yna.co.kr/view/AKR20260911065300051
+**부산서 국제금융센터세계연합 연차총회…금융환경 변화 논의**
+부산시는 15일 부산국제금융센터 일대에서 '2026 국제금융센터세계연합 연차총회'를 개최한다고 밝혔습니다. 세계 주요 금융도시 관계자들이 모여 기후금융 및 디지털 전환 등 최신 글로벌 금융 환경 변화에 대해 논의할 계획입니다.
+링크: https://www.yna.co.kr/view/AKR20260914013700051
 
-**가요계, AI 창작물 급증에 대응하는 'AI 탐지 프로그램' 도입**
-인공지능(AI)이 대중음악 산업 전반에 침투함에 따라 가요계 주요 단체들이 공동으로 AI 생성 음원 탐지 프로그램을 도입하기로 했습니다. 저작권 침해 우려와 인간 창작자의 권익 보호를 위한 선제적인 조치로 해석됩니다.
-https://www.yna.co.kr/view/AKR20260912037800005
+**한투증권 "FOMC 앞두고 금융주로 방어…수출 증가 업종에도 관심"**
+한국투자증권은 이번 주 미국 연방공개시장위원회 회의를 앞두고 변동성에 대비해 배당 매력이 높은 금융주 중심의 방어 포트폴리오를 제안했습니다. 이와 더불어 수출 물량이 꾸준히 증가하고 있는 핵심 업종에 대해서도 긍정적인 접근을 권장했습니다.
+링크: https://www.yna.co.kr/view/AKR20260914016200008
 
 ---
 
 ## 🌍 국제
 
-**가자지구 학살 고발한 다큐멘터리, 베네치아 영화제 심사위원특별상 수상**
-이스라엘의 가자지구 폭격 체계를 고발하고 비판한 다큐멘터리 영화 '나자'가 베네치아국제영화제에서 심사위원특별상을 받았습니다. 제작진은 수상 소감을 통해 가자지구 내 무력 충돌의 참상을 고발하며 국제사회의 관심을 호구했습니다.
-https://www.yna.co.kr/view/AKR20260913006400009
+**AI 4대 수장 "속도 늦춰야"…경쟁사끼리 이례적 한목소리**
+앤트로픽, 오픈AI, xAI, 구글 딥마인드 등 인공지능 기술 개발을 선도하는 글로벌 4개 기업의 수장들이 AI의 발전 속도를 조절해야 한다는 데 의견을 모았습니다. 인공지능이 가져올 수 있는 잠재적 위험에 대비하고 안전장치를 우선 마련해야 한다는 위기감이 작용한 조치입니다.
+링크: https://www.yna.co.kr/view/AKR20260914013200009
 
-**블리자드, '스타크래프트' 신작 넥슨 공동 개발설 부인…단독 개발 확인**
-블리자드 엔터테인먼트가 향후 선보일 스타크래프트 신작과 관련해 국내 게임사 넥슨과의 공동 개발설에 선을 그었습니다. 블리자드 측은 현재 신작 프로젝트를 자체적으로 단독 개발하고 있음을 명확히 밝혔습니다.
-https://www.yna.co.kr/view/AKR20260913005900075
+**'AI 속도조절론' 못마땅한 트럼프…中 추격 속 '죄수의 딜레마'**
+인공지능의 통제 불능 가능성에 따른 규제 목소리가 힘을 얻고 있으나, 도널드 트럼프 미국 대통령은 기술 경쟁에서 중국에 뒤처질 수 있다며 우려를 제기했습니다. 양국의 주도권 싸움으로 인해 전 세계적인 AI 속도 조절 공조가 난항을 겪을 것이라는 분석이 나옵니다.
+링크: https://www.yna.co.kr/view/AKR20260914001651071
 
-**예멘 내전 격화…정부군, 반군 후티에 대대적인 반격 개시**
-예멘 정부군이 홍해 일대 통제권을 강화하려는 친란 반군 후티에 맞서 주요 요충지 탈환을 위한 반격에 나섰습니다. 미국의 군사적 지원 제안을 거절한 가운데 사우디아라비아의 지원 하에 전투가 심화되고 있습니다.
-https://www.yna.co.kr/view/AKR20260913006300009
+**기후 변화에 따른 온난화와 대규모 기후재난 지속 발생**
+지구 온난화 현상으로 인해 전 세계 곳곳에서 이례적인 자연재해가 속출하고 있습니다. 특히 중국과 네팔 접경지대의 빙하 붕괴에 따른 대홍수 등 대형 기후재난의 발생 빈도가 급증해 인류를 위협하는 심각한 문제로 대두되었습니다.
+링크: https://www.yna.co.kr/view/AKR20260911040700089
 
-**북·중 위협 고조 속 미 해군 하와이 진주만 태평양 전략 점검**
-북한과 중국의 군사적 위협이 확대되는 상황에서 하와이 진주만을 중심으로 한 미국의 태평양 해군 전략에 이목이 쏠리고 있습니다. 미군은 동맹국들과의 연대를 강화하며 아시아·태평양 지역 내 억지력을 강화하겠다는 구상입니다.
-https://www.yna.co.kr/view/AKR20260912050700071
+**日정부 발간 세계유산책자, 군함도·사도 조선인강제동원 '삭제'**
+일본 정부가 최근 제작한 근현대 산업유산 관련 세계유산 안내 책자에서 조선인 강제 동원과 강제 노동에 관한 역사적 사실을 배제한 것으로 드러났습니다. 이는 유네스코 등재 당시 일본이 약속했던 '전체 역사 반영' 의무를 저버린 행위라는 논란을 낳고 있습니다.
+링크: https://www.yna.co.kr/view/AKR20260912027600073
 
-**샘 올트먼, AI 안전성 우려 속에 "2026년 내 오픈AI 상장은 없다" 선언**
-샘 올트먼 오픈AI CEO는 인공지능의 안전성과 기술적 정교함 조율을 이유로 2026년까지는 기업공개(IPO)를 진행할 계획이 없다고 밝혔습니다. 무리한 상장보다는 시장 신뢰 확보와 AI 리스크 관리에 먼저 주력하겠다는 의지로 분석됩니다.
-https://www.yna.co.kr/view/AKR20260913005100072
+**해리스 美 전 부통령 자택에 무단침입 시도…체포 없이 훈방**
+카멀라 해리스 전 미국 부통령의 사저에 무단으로 침입을 시도하려던 용의자가 경비 인력에 의해 신속히 적발되었습니다. 침입을 시도한 자는 심각한 위해 우려가 없었던 것으로 파악되어 정식 체포 과정 없이 훈방 조치되었습니다.
+링크: https://www.yna.co.kr/view/AKR20260914006800075
 
 ---
 
 ## 🏭 산업
 
-**최태원 SK 회장, "AI를 비즈니스 모델로 수익 내는 지속가능 구조로 유도해야"**
-최태원 SK그룹 회장은 울산에서 열린 포럼을 통해 제조업의 AI 전환(AX) 경쟁력 강화의 중요성을 강조했습니다. 최 회장은 기술 자체의 고도화를 넘어 실질적인 비즈니스 모델로 지속해서 이익을 창출하는 선순환 구조를 만들어야 한다고 제언했습니다.
-https://www.yna.co.kr/view/AKR20260912036600003
+**부산서 국제환경에너지산업전…국내외 판로개척 지원**
+부산시는 오는 16일부터 벡스코에서 '2026 국제환경에너지산업전'을 개막해 다양한 친환경 에너지 산업 기술을 선보입니다. 참가 중소기업들에게 유망한 국내외 구매자들과의 매칭 기회를 제공해 해외 수출 판로 개척을 중점적으로 도울 예정입니다.
+링크: https://www.yna.co.kr/view/AKR20260914013800051
 
-**충주시, 새로운 도시 브랜드 슬로건 '아이 러브 충주' 공식 발표**
-충북 충주시는 지역 경제 활성화와 대외 홍보를 위해 신규 도시 슬로건으로 '아이 러브 충주'를 확정했습니다. 시는 관련 조례 정비를 마치고 본격적인 도시 브랜드 이미지 마케팅 활동에 나설 계획입니다.
-https://www.yna.co.kr/view/AKR20260911090100064
+**부산시, 해양과학기술 협력센터 개소…다양한 협업공간**
+부산시 영도구 동삼혁신지구에 해양과학기술 분야의 산학연 연계를 위한 협력 센터가 새롭게 개소합니다. 센터는 혁신적인 연구 개발과 비즈니스 창출을 유도하기 위해 기업 입주 공간과 공용 시험 장비 등 다양한 비즈니스 인프라를 제공할 계획입니다.
+링크: https://www.yna.co.kr/view/AKR20260914013400051
 
-**거제 수해 피해 상인들, 추석 대목 앞두고 피해 보상 지연에 시름**
-최근 집중호우 피해를 입은 거제 지역 상인들이 다가오는 추석 대목을 앞두고 제대로 된 보상을 받지 못해 극심한 생활고를 호소하고 있습니다. 정상 영업 재개가 불투명해지고 직원들이 이탈하는 등 이중고를 겪고 있는 것으로 나타났습니다.
-https://www.yna.co.kr/view/AKR20260911105400052
-
-**부산시, 지방정부 AI 행정 우수사례 발표대회서 장관상 수상**
-부산시가 행정안전부가 주최한 지방정부 AI 우수사례 발표대회에서 혁신적인 행정 인공지능 도입 성과를 인정받아 장관상을 안았습니다. 시는 첨단 기술을 활용한 대시민 서비스 질 향상에 지속 투자할 방침입니다.
-https://www.yna.co.kr/view/AKR20260913007300051
+**부산시, 플랫폼노동자 4천명에 산재보험료 최대 20만원 지원**
+부산시가 고용 안전망에 취약한 관내 플랫폼 노동자 4천 명을 대상으로 산재보험료를 특별 지원하는 복지 사업을 시행합니다. 요건을 갖춘 대상자에게는 이미 납부한 보험료에 대해 최대 20만 원까지 환급 지원이 이뤄집니다.
+링크: https://www.yna.co.kr/view/AKR20260914013600051
 
 ---
 
 ## ⚖️ 사회
 
-**사망에 이르게 한 이른바 '야차룰' 격투 강요…단순 합의로는 처벌 면할 수 없어**
-청주에서 젊은 여성이 격투 규칙인 '야차룰' 적용을 강요받으며 강제로 싸우다 사망한 사건이 발생해 충격을 주고 있습니다. 법조계는 가해자들이 싸움에 사전 동의했더라도 상해나 사망이라는 무거운 결과에 대해서는 형사 처벌을 면할 수 없다고 강조했습니다.
-https://www.yna.co.kr/view/AKR20260909171900518
+**[10대 마약의덫] 마약 투약을 넘어 배달책 '드라퍼'로 나서는 청소년들**
+최근 10대들 사이에서 SNS를 통한 마약류 노출이 잦아지면서, 투약에 그치지 않고 유통 및 배달 행위에 가담하는 청소년들이 늘고 있어 우려를 낳고 있습니다. 친구를 통해 중독이 급격히 전파되며 이들이 범죄 집단의 하부 조직원 역할을 수행하는 악순환이 이어지고 있습니다.
+링크: https://www.yna.co.kr/view/AKR20260911159800004
+
+**부천 모텔 화재로 투숙객 60대 남성 병원 이송**
+경기도 부천시 심곡동에 있는 모텔 건물에서 화재가 발생하여 투숙객 중 1명이 연기를 과다 흡입해 인근 병원으로 이송되었습니다. 소방대원들의 신속한 화재 진압 및 대피 유도로 대형 인명 피해는 피할 수 있었으며, 소방 당국이 화인 조사를 진행하고 있습니다.
+링크: https://www.yna.co.kr/view/AKR20260914017700065
+
+**부산 도심 및 인근 지역 벌초 작업 시 벌 쏘임 사고 빈발**
+가을철 조상의 묘를 정리하는 벌초 및 성묘 시즌을 맞아 부산 인근 야외에서 말벌 등에 쏘이는 사고가 집중 발생하고 있습니다. 현장에 출동한 구급 대원들은 벌 독에 민감할 경우 호흡 곤란 등 중증 알레르기 쇼크가 일어날 수 있어 방호 조치에 철저해야 한다고 조언했습니다.
+링크: https://www.yna.co.kr/view/AKR20260914017200051
 
 ---
 
 ## 🎭 문화
 
-**문화체육관광부 장관, 베네치아 심사위원대상 이창동 감독에게 축전 전달**
-최휘영 문화체육관광부 장관은 베네치아국제영화제에서 심사위원대상을 수상한 이창동 감독에게 대한민국 영화 역사에 위대한 이정표를 세웠다며 축하의 메시지를 전했습니다. 이번 수상은 한국 영화의 예술적 위상을 다시 한번 세계에 입증한 쾌거로 평가됩니다.
-https://www.yna.co.kr/view/AKR20260913006500005
+**새 주인 찾는 문학동네…출판업계 '지각 변동' 촉각**
+국내 대형 출판사인 문학동네의 최대 주주 지분이 시장 매물로 나오면서 경영권 양도 여부에 문화계의 이목이 집중되고 있습니다. 매각 결과와 지분 구도에 따라 향후 국내 단행본 출판 및 문학계 전체의 유통 지형과 흐름이 크게 바뀔 전망입니다.
+링크: https://www.yna.co.kr/view/AKR20260913059700005
 
-**외국인 관광객 쇼핑, 성수·여의도 방문 늘어도 명동 집중 현상은 지속**
-최근 방한 외국인들의 방문지가 성수동이나 여의도 등으로 다양해졌음에도 불구하고, 실제 쇼핑 지출액은 여전히 명동과 소공동 일대에 과도하게 몰려 있는 것으로 나타났습니다. 관광 인프라 분산에도 불구하고 쇼핑 중심지로서의 명동 입지는 굳건합니다.
-https://www.yna.co.kr/view/AKR20260912025200030
+**내 최애 국밥집은…부산돼지국밥대전 시민추천 20곳 공개**
+부산시와 부산관광공사가 오랜 기간 많은 사랑을 받아온 지역 대표 향토 음식인 돼지국밥 우수 맛집 20곳의 목록을 선별해 공개했습니다. 시민들이 직접 투표하고 참여한 이벤트를 기반으로 구축된 지도를 활용해 관광 콘텐츠 다변화에 박차를 가할 예정입니다.
+링크: https://www.yna.co.kr/view/AKR20260914014100051
 
-**강원 영월서 한국-가나 수교 50주년 기념 '가나의 날' 축제 개최**
-강원 영월군에서 서아프리카의 문화 예술을 만나볼 수 있는 '가나의 날' 축제가 성공적으로 마무리되었습니다. 다가오는 수교 50주년을 기념해 양국 간의 문화적 교류와 우호 관계를 다지는 계기가 되었습니다.
-https://www.yna.co.kr/view/AKR20260912035900898
+**집앞 공원서 바른 운동법 배운다…강남구 '공원으로 찾아가짐'**
+서울 강남구 세곡보건지소는 실외 생활체육 활성화를 도모하기 위해 야외 공원을 돌며 전문적인 맞춤형 피트니스를 지도해 주는 운동 교실을 운영합니다. 주민들이 동네 인근에서 안전하고 효과적인 전신 운동 기법을 수강할 기회를 누리게 됩니다.
+링크: https://www.yna.co.kr/view/AKR20260914008800004
 
-**유기동물 보호소 곳곳에 관리 부실 구멍…장흥 사태로 드러난 실태**
-최근 전남 장흥의 직영 동물보호소에서 사체 방치 문제가 대두된 이후, 전국 공공 동물보호소들의 전반적인 관리 소홀 행태가 도마 위에 올랐습니다. 전문가들은 열악한 환경 개선과 정기적인 행정 감독 체계 구축이 시급하다고 조언합니다.
-https://www.yna.co.kr/view/AKR20260911169800030
-
-**연극계, 테네시 윌리엄스의 명작 재해석해 현대의 소외 문제 재조명**
-대공황기 절망을 그렸던 극작가 테네시 윌리엄스의 작품이 현대 연극 무대로 다시 돌아와 오늘날 소외되고 뒤처진 인물들의 비극을 비춥니다. 관객들에게 물질문명 속 현대 사회의 폭력성에 대한 묵직한 메시지를 던지고 있습니다.
-https://www.yna.co.kr/view/AKR20260912042200005
+**[부고] 박상현(헤럴드 기자)씨 조모상**
+정영숙(향년 93세) 씨가 별세했습니다. 빈소는 마련되어 조문객을 맞이하고 있으며, ㈜헤럴드 기획조정실 박상현 기자의 조모상입니다.
+링크: https://www.yna.co.kr/view/AKR20260914018500704
 
 ---
 
 ## 🇺🇸 미국경제
 
-**미국 물가 지표 예상치 상회하며 연준 금리 결정 고심 깊어져**
-미국의 근원물가 상승률이 예상보다 높게 나타나면서 다가오는 연방공개시장위원회(FOMC) 회의를 앞두고 연준의 고심이 깊어지고 있습니다. 시장에서는 기준금리 동결 여부와 매파적 기조 유지 가능성을 경계하고 있습니다.
-https://news.google.com/rss/articles/CBMidEFVX3lxTFBBVV9MVGV1N1Ntc2VNMGJrTkU0bG40a25iVEZvR0V4Uzl1Ri1nams3eVh3QjdyVW9uV0dqN0I4T1BJaUROS21OUXFweDFXanhQYlkwYU9LdXItcFY3WjA3Wk90Ukh4NXM4Y2Z0MjlGdFl3b3hU?oc=5
+**트럼프, 기준금리 세계 최저 수준 적용 강조하며 연준 재압박**
+도널드 트럼프 미국 대통령이 연방준비제도의 기존 통화긴축 기준 등 공식에 구애받지 않고 미국이 세계에서 가장 낮은 저금리를 유지해야 한다고 주장했습니다. 트럼프 대통령은 연준의 금리 결정을 겨냥해 전방위적인 금리 인하 요구와 무역 보복성 발언을 거듭 쏟아내고 있습니다.
+링크: https://news.google.com/rss/articles/CBMiW0FVX3lxTE1HaUtZR2lXWEJIVmZ3UDRZMU5VZ1FodGhURDBDNVQxeEpKa0VZVEtUSGpBVkluejNjaS1LQzc3X3A1a3pZNXFMOU85eGNibVo0Y3E4YXZwbzhsdHfSAWBBVV95cUxQd2tSTGJMQ1dtT2Z4d2VTYTNzOWZGVXVndXZlSk9vODhYMU5WdmI4SGhLNzNpS3RGUnZSZzNvU3g0MTA4b3l3cTBkb2NUZ3RpZTdKdmhlTDhMWmljOWdvQkI?oc=5
 
-**월가, 美 연준 9월 금리 인상 확률 86% 수준으로 관측**
-월가 분석가들은 연준이 3년 만에 기준금리 인상을 단행할 확률을 80% 이상으로 평가하며 긴장감을 높이고 있습니다. 가파른 물가 압력에 대응하기 위해 긴축 카드를 적극 검토할 수 있다는 분석이 지배적입니다.
-https://news.google.com/rss/articles/CBMiXkFVX3lxTFB3clhNVXVkNGNOdVRpakE5VU5QTldyUEx1QUItc3dwdzQ5NjVqOGI4dmVwR1Ftd1FnQXpCOThWY1pDd3RVazI5LVh0eTF5NHUzUzY3dzZtRnNKdm5ScXc?oc=5
+**백악관, 연준 금리 결정 전 독립성 존중 및 정치적 부담 지적**
+백악관은 다가올 9월 미국 연방준비제도의 추가적인 통화 긴축 기조 전환 방향에 대해 정책적 결정을 전적으로 존중한다고 공언했습니다. 하지만 대선이 바로 앞으로 다가온 시점인 만큼 경기 둔화를 자극할 수 있는 중대한 통화 조치는 신중해야 한다는 견해를 보였습니다.
+링크: https://news.google.com/rss/articles/CBMidEFVX3lxTE9oRzlLa2ZQV0ZSZXRlRW9iZVpoWG9iaEpQVzh5MXRlbXkydTJhNW15aHNGN2lTMFE4eFBoZUFQT3lUX0RydmxscnJwbGY3M3E1bzVRWVBQc0RlRm5FV3k3OFpHWEJtWDFLaW01WkhTRDdvWWRD?oc=5
 
-**8월 PCE 전망치 상향 조정에 가상자산 시장 및 증시 초긴장**
-미국의 8월 개인소비지출(PCE) 물가지수 전망치가 상향 조정되면서 암호화폐 등 위험자산 시장에 하방 압력이 커지고 있습니다. 자산 운용사들은 유동성 위축 가능성에 대비하며 포트폴리오 재조정에 돌입했습니다.
-https://news.google.com/rss/articles/CBMiiAFBVV95cUxPTXVLN0taQnRQYVpRemE5Z3V6SmttQ1VxQm1tZG80a295R0w3aHk3RHJ0ZXBBa2QzRGFqeG9rTTNwakxMMEFVWVBqVE5KZGNkSkpKODcwN3NmaHFhY0NpeGN3ZzdYNHhBQWdya0U1S1RYNFhjNno1MV9DRFl1N2swdnpxRDNWYmc5?oc=5
+**[뉴욕증시 주간전망] 9월 FOMC 기준금리 인상 가능성에 불안감 확산**
+이달 열릴 예정인 미국 연방공개시장위원회 회의의 통화 긴축 유지 및 인상 확률 시나리오에 따라 시장 전반의 긴장 상태가 해소되지 않고 있습니다. 시장 관계자들은 긴축 리스크 잔존과 금리 고공행진 지속 여부를 주목하며 신중한 투자 포지션을 구상하는 양상입니다.
+링크: https://news.google.com/rss/articles/CBMiiAFBVV95cUxQaTJsaTYwdnVSTGdtVW0yN2xBdlh5UWU0V2pCLUdBZHFUVUZsdHFNV1NMTDNFWnRQNV9icnBZWVU5RjltaUVCR3pCR2RXbHRsOHlBdm5xUjloQkpqdkVPbU9TWTdPZXg3bFRmUktHTkdleHFHbDhsazdxbWNtcTF3ZDZlQ185YTJ3?oc=5
 
-**연준 결정 결과에 따라 유로/달러 환율 요동칠 전망**
-씨티그룹 분석에 따르면 연준의 긴축 기조 발표 방식에 따라 유로/달러 환율이 지지선 재테스트에 나서는 등 외환시장의 변동성이 크게 확대될 수 있습니다. 달러화 강세 추이가 계속 이어질지 외환 딜러들의 눈길이 쏠려 있습니다.
-https://news.google.com/rss/articles/CBMiZ0FVX3lxTE91Uk55RFV3VWJKeXVqdVJ4bE5zZ21kSWhBT2I1WUtaRV8wNzd4dUl5djZ5OUwwcDhEdTZ3aENYUC1QUGhhSk5wdmxPZUdkVDd2eUlfQVV2Ums5bVNiNmhiVi1CczJvdHM?oc=5
-
-**정부 금융당국, 미 연준 정책 변화 대비 'F4 회의' 등 긴급 대응반 가동**
-글로벌 금리 인상 가능성이 제기되자 국내 거시경제금융당국도 긴급 시장점검 및 F4(거시경제금융회의) 가동 등 대응 체계를 서두르고 있습니다. 미 금융 긴축 흐름이 원/달러 환율 상승과 국내 증시에 미칠 악영향을 최소화하겠다는 취지입니다.
-https://news.google.com/rss/articles/CBMiYEFVX3lxTFAtaHcxaW9NczlVTHMyTFVRbmpHY1JDSnNBTHZQTmlRWlRQeGswOWNfeWNwR3VEN3dFbWprX29ZUko1RFMweUpwcldSY05hVHdIVm1aX2szWUxrWURFdFJRMtIBYEFVX3lxTFAtaHcxaW9NczlVTHMyTFVRbmpHY1JDSnNBTHZQTmlRWlRQeGswOWNfeWNwR3VEN3dFbWprX29ZUko1RFMweUpwcldSY05hVHdIVm1aX2szWUxrWURFdFJRMg?oc=5
+**유가 급상승 장세 및 대외 악재 겹쳐 금융 불안 심화**
+안팎의 대외 요인들로 인해 원유 수급 문제가 제기되는 가운데 국제 유가가 요동치며 추가적인 경제 압박 요인으로 떠올랐습니다. 연준 정책 변화 우려와 맞물려 원자재 물가 재급등 가능성이 고조되자 금리 조정을 눈앞에 둔 시장에 전반적인 먹구름이 끼고 있습니다.
+링크: https://news.google.com/rss/articles/CBMiXkFVX3lxTE1tYkc0ZVc4eU9MOXFoV3NER1N5VmJ1alY3QUM3cVpLMHZQdjAwQXM0MVhqcXZ4YlNwbmxZTGhWTGlfV0gtcmVWSUV6TnZBSmh5VUp6bzNZYVQ1ckZKekE?oc=5
 
 ---
 
 ## 🏠 부동산
 
-**전세사기 피해자 채무조정 누적 4천 명 육박…2030 세대가 대다수**
-전세사기로 어려움을 겪는 피해자 중 금융당국의 채무조정을 신청한 건수가 가파르게 늘고 있습니다. 특히 조정 신청자의 약 90%가 청년층인 20·30대로 나타나 주거 불안정이 세대적 문제로 대두되고 있습니다.
-https://news.google.com/rss/articles/CBMiYEFVX3lxTE1uWmdHLVNhQWh0eFUtZVM3dFYyaWkxNTZRVzVkamNySkp1aExITEE2T1VvaWxwNDNjbVBEV1VRNUlIVnU1cHRLTTREWDBlalNDWUdtX2hNM3V3MmtPaVhtOA?oc=5
+**재건축 가시화에도 은마아파트 내 상가 세입자 생존권 연대 반발**
+대형 재건축 구역인 서울 강남구 은마아파트에서 개발 계획 정비가 한창이지만, 상가 점포 세입자들이 실질적인 영업 보상안 마련 등을 촉구하고 나섰습니다. 상가 소유주 측과의 보상 조율 문제가 해소되지 않을 시 향후 재건축 진행 속도에도 큰 변수가 될 가능성이 농후합니다.
+링크: https://news.google.com/rss/articles/CBMiWEFVX3lxTE9ISTVmeS04Rl9ycW5zOVU2cURTLUlLSThRVmhMSy1pSmVPQm5xRUk5eHhxLXRjSkRZenh0TnRGNUFpRmV5aXcyc3VIaWtCTVpCQlRyVmp4Yzg?oc=5
 
-**서울 전세 매물 고갈로 외곽 아파트값까지 급등하는 '생존 매수' 확산**
-임대차 시장 내 전세 매물이 바닥을 보이자 세입자들이 비자발적으로 매매 시장으로 돌아서며 아파트를 매수하는 현상이 늘고 있습니다. 이로 인해 서울 외곽 지역 아파트 가격조차 연이어 최고가를 갱신 중입니다.
-https://news.google.com/rss/articles/CBMiYEFVX3lxTE5DMGpxYjRNTWdIaE9QV3Rqa3p4NzdLd2xUREV1SmxUWXFfcnBwbTZsbS1yNFJCVHlPU2Vmd2pmZ2syUXdRNXh3bF9OQ295dS1hQkhGTXR3LXY0NnhuX0ZkUtIBeEFVX3lxTE5sUGdudzBCZUdZaVRMMGZRV0daV3lOd1htSnpVdGRyMlRTWGM1ZnFJd0tPWXlQMHhDeGlrZTg2ajhkLU02cmhRRGhTRi11R0h5VGdXWkVMQWppZ2g1T2lYTC1wQ0dkWHlScjZENXFTQlVDYWh5dGZhSA?oc=5
+**재건축 조합원 덮칠 '금리 청구서'…정비사업 속도 늦춰지나**
+지속되는 높은 대출 이자 기조로 정비 사업 자금 조달에 부담을 느끼는 초기 재개발 및 재건축 구역이 점차 확대되고 있습니다. 조합원 분담금 폭증 공포와 건설 조달 비용 상승 국면이 지속되면서 주요 예정 구역들의 추진 일정이 장기 표류할 우려가 제기되고 있습니다.
+링크: https://news.google.com/rss/articles/CBMiYEFVX3lxTE1zam5pRzVNV2t2WWhZWFhJemhSN2lYbE4tZFhQWWNidktFbzlYRmwzZFhXbDE2dTEzQm1YanVNekE4bVJtNkhLUjJEeHdsV3I1aEJpR0FlUXdiWEhlT3JLNtIBYEFVX3lxTE1zam5pRzVNV2t2WWhZWFhJemhSN2lYbE4tZFhQWWNidktFbzlYRmwzZFhXbDE2dTEzQm1YanVNekE4bVJtNkhLUjJEeHdsV3I1aEJpR0FlUXdiWEhlT3JLNg?oc=5
 
-**LH 매입임대 '중복 신청' 제한…청약 무력화 및 투기 행위 차단**
-LH(한국토지주택공사)가 매입임대주택 모집 시 당첨 결과가 나오기 전 동일한 유형에 다른 단지로 중복 신청하는 이른바 '골라 담기' 편법을 차단하기로 규정을 손질했습니다. 이로써 청약 공정성을 제고할 수 있을지 기대를 모읍니다.
-https://news.google.com/rss/articles/CBMiW0FVX3lxTFBRa3p1U2N4RGdVRmM2SEdMQ0FkLTVwN214cW9hU3JrNV9TczVvZFBQWl9GNlZVa0ZOMWNFM0N3TUhYOE04eHFYT0pqYnBnU2FBd01KMThJZ3NjZ0nSAWBBVV95cUxNYmF2YTRIYlItcFZUQWU0RVdlTmxjZFpfem40NTV1X0otNDU1N2llbkxlcVhITGczU0g5ZnFuT3QxV0QySkljc1BnQVZsY0wxcUtVM2dpX21ZQnRqM0l3MFA?oc=5
+**박성훈 "전세사기 피해자 채무 4000억원 육박…20·30대 89%"**
+국회 국토교통위원회 소속 박성훈 의원실에 따르면 전세 피해 지원 대책에도 불구하고 피해 가구들의 미상환 채무가 총 4천억 원 수준까지 근접했습니다. 충격적인 것은 해당 피해 금액 채무를 떠안은 차주의 절대 다수인 약 89%가 이삼십대 사회 초년 청년층이라는 대목입니다.
+링크: https://news.google.com/rss/articles/CBMiZEFVX3lxTE9fVV9HbGE2NHJ4OVFQSE9GTWZ2dlRUTG5DbHlPaWtYN3p2NnotS3RjMGpoT0cwVlhWMm9Hd2pnaVFYUTdURDBuNEdmeEFSckFBT0pZZkJaa0V4SHpjSXk0NXcteXI?oc=5
 
-**KB국민은행 여의도 본관, 초고층 랜드마크로 재건축 추진 본격화**
-KB국민은행이 서울 영등포구 여의도 본관 건물을 전면 철거하고 새로운 여의도 금융가 초고층 랜드마크 빌딩으로 재건축하는 사업을 시작합니다. 이번 프로젝트를 통해 금융 중심지인 여의도 스카이라인에 큰 변화가 예상됩니다.
-https://news.google.com/rss/articles/CBMigAFBVV95cUxNQW5lYWVZUVIyLWd0cEhOZzRyMFdNdVR5ZncwaHBLWE1ESEVPamZrSF9CTmx0dmJ0VlpWckxZT21kUEFYWEdCdGJnRGJDU2I5NmV5X1JsU3ZhYTNIRG5TczhlWlNZQnRqQXNDeUxYQTdXWFRZVzBzR2tRbmlja3J2MNIBlAFBVV95cUxPSWd4ak9JQS0zc2VEN1VJWXhaVnMweGpPUllQTXQ5QXRXa09SLXhycU9Fd3FtRzZyNkRSTFF0TWdrX0l0alMwTUJGOHpleFlubVNlRUl5QkJpTWVBV2ozdWhtNjcyNXZiNTZkcm11cVNnUzhRc1BpZDVfdGpVMTJFVjQxMFhGekxWZzFicE9XeWRjSjV6?oc=5
+**군포시, 재개발·재건축 전담 '도시정비국' 신설**
+경기도 군포시는 낙후된 구도심 정비와 노후화된 1기 신도시 아파트 리모델링, 재건축 절차를 일원화해 속도감 있게 처리하기 위한 전담 행정 부서인 '도시정비국'을 꾸렸습니다. 관내 대규모 개발 수요에 맞춰 주민 만족도가 높은 맞춤형 정비 행정 서비스를 구축하겠다는 복안입니다.
+링크: https://news.google.com/rss/articles/CBMiaEFVX3lxTFA3eVRSNHdQOHUxeXhpY2J3MklxLVk1WVEtWG1MNUpoQ3hXT21xaW9wajFLOWNRM2ViY0MwYVB2V3paREppUFpkeXVhdHdlWHVabDNMalE1LVNDUFY3NXMzLVZ1c1NhSThC?oc=5
 
-**주택담보대출 연체액 폭증…부실 차주 구제할 선제 조치 촉구**
-최근 고금리 여파가 지속되면서 가계 주택담보대출 연체율이 대폭 증가해 금융 시장의 잠재적 리스크로 부상했습니다. 채무 상환 능력을 잃어가는 한계 차주들을 보호하고 금융 안정을 지키기 위해 정책적 안전판 마련이 요구됩니다.
-https://news.google.com/rss/articles/CBMiaEFVX3lxTE5UdmRZZDNFSmtEekpuLVJvOWlJelRoYnhPMDE0VUg1M3JERHBVblFSZ0V0MzNxMnNtNFBsMzhJWXhUaVE4bXFmOHhPTDFKaHFOSTlKU3V6NXE4czJsOVhwSjE0clNoSzBX?oc=5
+**"전세사기 예방 주력" 송파구, 관내 공인중개사 대상 연수교육**
+서울 송파구청은 중개사고와 임차인 피해 예방 차원에서 지역 내 업소 개업 중개업자 1천3백여 명을 집결해 선제적 사고 예방 전문 직무 연수를 개최했습니다. 현장에서 일어날 수 있는 이중 거래나 시세 왜곡 의심 건에 대한 정기 자정 결의도 이뤄졌습니다.
+링크: https://news.google.com/rss/articles/CBMia0FVX3lxTFBPUXpzNkJ0d3lRNFhqRmxQZFhscUMyaDZhQ0xqM1JJYzJFN2tEOGZFUklIaC1EU1E2QmVDbEN1RWxGX1RWVkpIcVFDcDAyX0tRdGUxS3BGZUR0WGd4b2xzVElsUXhYemxLQU04?oc=5
 
 ---
 연합뉴스 RSS 기반 · 자동 생성 브리핑
