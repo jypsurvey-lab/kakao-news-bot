@@ -1,180 +1,160 @@
-# ☀️ 아침 뉴스 브리핑 — 2026년 10월 27일
+# ☀️ 아침 뉴스 브리핑 — 2026년 10월 28일
 
 ## 📌 종합
 
-**러시아, 유럽 내 우방 정치인 연속 실권에 난감**
-러시아 정부의 유럽 내 주요 우방 정치인들이 최근 선거에서 잇따라 패배하면서 정치적 입지가 줄어들고 있습니다. 헝가리와 세르비아 등 기존 친러 성향 지도자들의 영향력 약화로 러시아의 대유럽 외교 전략에 차질이 예상됩니다.
-링크: https://www.yna.co.kr/view/AKR20261027050700009
+**승자 없는 이스라엘 총선… 반네타냐후 앞서지만 과반 미달 전망**
+이스라엘 총선 개표 결과 베냐민 네타냐후 현 총리가 이끄는 우파 연합이 과반 확보에 실패할 것으로 보입니다. 야권인 반네타냐후 진영이 근소하게 앞서고 있으나 역시 과반에는 미치지 못할 것으로 예상되어 정국 혼란이 지속될 전망입니다.
+https://www.yna.co.kr/view/AKR20261028007552099
 
-**경기도, '극저신용대출 2.0' 내년 폐지 결정**
-경기도는 김동연 지사 재임 시 추진했던 '극저신용대출 2.0' 사업을 내년에 종료한다고 발표했습니다. 취약계층 금융 지원 정책의 효율성과 예산 배분을 고려해 사업 개편을 진행할 예정입니다.
-링크: https://www.yna.co.kr/view/AKR20261027049400061
+**코스피, 앤트로픽·하이닉스 호실적 훈풍에 3%대 급등**
+코스피 지수가 28일 장 초반 3% 넘게 급등하며 5,800대 안착을 시도하고 있습니다. 인공지능 기업 앤트로픽과 SK하이닉스의 기록적인 실적 발표가 투자 심리를 자극하며 반도체주를 중심으로 강한 매수세가 유입되었습니다.
+https://www.yna.co.kr/view/AKR20261028041851008
 
-**뷰티·패션 앱 이용자 수 1위 올리브영…에이블리·무신사 뒤이어**
-주요 뷰티 및 패션 애플리케이션 사용자 조사 결과 올리브영이 가장 많은 이용자 수를 기록했습니다. 에이블리와 무신사가 각각 2위와 3위를 차지하며 국내 모바일 쇼핑 시장을 이끌고 있습니다.
-링크: https://www.yna.co.kr/view/AKR20261027042800030
+**롯데이노베이트, 현대모비스와 손잡고 AI 커넥티드카 사업 확대**
+롯데이노베이트는 인천시, 한국자동차연구원, 현대모비스 등과 협력하여 인공지능 기반의 커넥티드카 사업을 확장합니다. 이번 협력을 통해 자율주행 및 차량 통신 기술 분야에서 가시적인 성과를 낸다는 계획입니다.
+https://www.yna.co.kr/view/AKR20261028037500017
 
-**바이낸스, 가짜 가상자산 결제 사기 주의 당부**
-가상자산 거래소 바이낸스가 유명 가상자산을 사칭한 위조 토큰 사기 피해가 발생하고 있다며 주의를 당부했습니다. 거래 시 반드시 스마트 컨트랙트 주소를 정밀 확인해야 사기 피해를 예방할 수 있다고 강조했습니다.
-링크: https://www.yna.co.kr/view/AKR20261027050300002
+**정진영 작가, 소설 '간신' 통해 유자광의 삶 재조명**
+정진영 작가가 역사 속에서 '간신'으로 각인된 유자광을 주인공으로 한 신작을 출간하며 그의 인간적인 고뇌와 연민을 다뤘습니다. 작가는 유자광이 가졌던 이욕과 그를 따르던 무리들의 모습을 통해 현대 사회에도 시사점을 던지고자 했습니다.
+https://www.yna.co.kr/view/AKR20261028002800005
 
-**인천 검단구 상가 건물서 가스 폭발 추정 사고…4명 부상**
-인천시 검단구 마전동의 한 상가 건물 1층에서 가스 폭발로 추정되는 사고가 발생해 4명이 다쳤습니다. 소방 당국과 경찰은 정확한 사고 원인과 피해 규모를 조사하고 있습니다.
-링크: https://www.yna.co.kr/view/AKR20261027052000065
+**토스플레이스·경남은행, 지역 소상공인 결제 인프라 지원 강화**
+비바리퍼블리카의 자회사 토스플레이스가 BNK경남은행과 협력하여 경남 지역 소상공인을 위한 포스 설루션 보급에 나섭니다. 양사는 이번 협력을 통해 지역 경제 활성화와 소상공인의 디지털 결제 환경 개선을 도모할 예정입니다.
+https://www.yna.co.kr/view/AKR20261028032900017
 
 ## 💰 경제
 
-**NH농협은행, 연 3.9% 금리 특판예금 2차 판매 시작**
-NH농협은행은 최고 연 3.9% 금리를 제공하는 'NH올원뱅크 10주년 기념 예금'의 2차 판매를 진행합니다. 지난 1차 판매 호조에 이어 고객 수요에 부응하기 위해 추가 특판을 실시합니다.
-링크: https://www.yna.co.kr/view/AKR20261027053100002
+**LS마린솔루션, SK브로드밴드와 해저통신망 유지보수 협력**
+LS마린솔루션은 SK브로드밴드와 국제 해저통신케이블의 긴급 복구 및 유지보수를 위한 업무협약을 체결했습니다. 양사는 해저망 사고 발생 시 신속한 대응 체계를 구축하여 글로벌 통신 서비스의 안정성을 높이기로 했습니다.
+https://www.yna.co.kr/view/AKR20261028047100003
 
-**두나무, 대한적십자사 창립 기념식서 대통령표창 수상**
-가상자산 거래소 업비트 운영사인 두나무가 대한적십자사 창립 121주년 기념식에서 대통령표창을 받았습니다. 국가 재난 상황에서의 구호 활동 및 사회공헌 노력을 인정받은 결과입니다.
-링크: https://www.yna.co.kr/view/AKR20261027049900002
+**삼성전자, 한국품질만족지수 18년 연속 최다 부문 1위**
+삼성전자가 한국표준협회 주관 '2026 한국품질만족지수' 조사에서 18년 연속으로 가장 많은 부문에서 1위를 차지했습니다. 가전과 IT 기기 전반에서 제품 우수성과 고객 만족도를 인정받으며 품질 경영의 성과를 입증했습니다.
+https://www.yna.co.kr/view/AKR20261028044400003
 
-**하이트진로, AI 업무혁신 핵심 인재 26명 양성**
-하이트진로가 인공지능(AI) 기술을 실무에 도입하기 위한 전문 인재 26명을 양성했습니다. 사내 공모를 통해 선정된 우수 AI 적용 과제 5건을 실제 업무 프로세스에 반영할 계획입니다.
-링크: https://www.yna.co.kr/view/AKR20261027039900030
+**식약처, 디지털의료기기 산업계 대상 새 허가·심사 제도 설명회 개최**
+식품의약품안전평가원은 디지털의료기기 분야의 최신 심사 기준과 새롭게 도입되는 허가 제도를 알리는 설명회를 열었습니다. 이를 통해 관련 기업들이 변화하는 규제 환경에 빠르게 적응하고 혁신 제품을 시장에 출시할 수 있도록 지원합니다.
+https://www.yna.co.kr/view/AKR20261028029900017
 
-**광주은행, 곡성·구례·진도지점 연내 개설 무산**
-광주은행이 전남 지역 금융 접근성 강화를 위해 추진했던 곡성, 구례, 진도군 지점 신설이 올해 사실상 어려워졌습니다. 지자체 합병 일정 및 점포 운영 효율성 검토에 따라 개설 일정이 지연되고 있습니다.
-링크: https://www.yna.co.kr/view/AKR20261027047800054
+**신은정 STEPI 센터장, OECD 글로벌과학포럼 부의장 선출**
+과학기술정책연구원(STEPI)의 신은정 기초연구정책센터장이 영국 런던에서 열린 OECD 글로벌과학포럼에서 부의장으로 선출되었습니다. 한국 과학기술 정책의 국제적 위상을 높이고 글로벌 과학 협력 논의에서 주도적인 역할을 할 것으로 기대됩니다.
+https://www.yna.co.kr/view/AKR20261028047800017
 
-**토스증권, 청년 대상 글로벌 산업 트렌드 특강 진행**
-토스증권이 청년층을 대상으로 글로벌 산업 흐름과 금융 지식을 전달하는 특강을 개최했습니다. 리서치센터 전문가가 직접 나서 최신 시장 동향과 투자 인사이트를 공유했습니다.
-링크: https://www.yna.co.kr/view/AKR20261027049300008
+**bhc치킨, 필리핀 마닐라 국제공항에 2호점 출점하며 해외 사업 가속**
+다이닝브랜즈그룹의 bhc가 필리핀 마닐라 국제공항 내에 현지 2호 매장을 열었습니다. 공항 이용객을 대상으로 K-치킨의 맛을 알리며 동남아시아 시장을 중심으로 글로벌 매장 확대를 지속할 방침입니다.
+https://www.yna.co.kr/view/AKR20261028048700030
 
 ## 🌍 국제
 
-**미국, 캐나다산 철강·자동차 관세 완화 협상 추진**
-미국 정부가 캐나다산 철강 및 자동차 부품에 적용하던 수입 관세를 낮추기 위한 양국 협상을 진행 중입니다. 조기 타결 가능성이 거론되며 북미 지역 무역 갈등 완화 기대감이 커지고 있습니다.
-링크: https://www.yna.co.kr/view/AKR20261027041100009
+**오라클 클라우드, 구글 TPU 및 엔비디아 최신 AI 칩 탑재 확대**
+오라클은 자사 클라우드 서비스에 구글의 텐서처리장치(TPU)와 엔비디아의 최신 AI 칩을 대거 도입한다고 발표했습니다. 인공지능 연산 수요 급증에 대응하기 위해 다양한 하드웨어 가속기를 확보하여 경쟁력을 강화하고 있습니다.
+https://www.yna.co.kr/view/AKR20261028045300009
 
-**EU, 중국 겨냥 해외 직구 소포에 2유로 수수료 부과 검토**
-유럽연합(EU)이 유통 대목을 앞두고 역외에서 직접 배송되는 소포에 대해 개당 2유로의 수수료를 부과하는 방안을 추진합니다. 이는 저가 상품을 앞세운 중국 이커머스 업체들을 견제하기 위한 조치로 풀이됩니다.
-링크: https://www.yna.co.kr/view/AKR20261027045700089
+**일본 정부, 적국 공격 저지 위한 '거부력' 중심 안보 전략 개정 추진**
+일본 정부가 적의 침공을 물리적으로 저지하는 '거부력' 강화를 핵심으로 하는 안보 문서 개정을 추진 중입니다. 연내 개정을 통해 방위력을 획기적으로 증강하고 주변국 위협에 대응하는 안보 태세를 재정비할 계획입니다.
+https://www.yna.co.kr/view/AKR20261028037800073
 
-**교황, 암 수술 회복 후 내달 남미 순방 일정 정상 소화**
-최근 암 수술을 받고 회복 중인 레오 14세 교황이 의료진의 승인에 따라 예정된 남미 순방을 진행합니다. 내달 6일부터 17일까지 진행되는 순방 기간 동안 여러 국가를 방문해 메시지를 전할 예정입니다.
-링크: https://www.yna.co.kr/view/AKR20261027042100009
+**트럼프 미 대통령 "베네수엘라에서 확보한 첫 원유 물량 미국 도착"**
+도널드 트럼프 미국 대통령은 자신이 베네수엘라와의 협상을 통해 확보한 무상 원유 첫 인도분이 미국에 도착했다고 밝혔습니다. 중간선거를 앞두고 에너지 가격 안정과 외교적 성과를 강조하려는 행보로 풀이됩니다.
+https://www.yna.co.kr/view/AKR20261028037700009
 
-**마이크로소프트, AI 투자 재원 확보 위해 대규모 인력 감원**
-마이크로소프트가 인공지능 분야에 대한 투자를 늘리는 한편 비용 절감을 위해 최대 6만 명 규모의 희망퇴직을 실시합니다. 이는 전체 인력의 4분의 1에 해당하는 대규모 조직 개편입니다.
-링크: https://www.yna.co.kr/view/AKR20261027026400091
+**교황 레오 14세 "세상에 성전은 없다"… 종교적 명분 전쟁 강력 비판**
+교황 레오 14세는 전 세계에서 벌어지는 무력 충돌을 규탄하며 종교의 이름으로 행해지는 전쟁을 비판했습니다. 교황은 어떤 전쟁도 신성할 수 없음을 강조하며 인류가 평화를 위해 대화에 나설 것을 촉구했습니다.
+https://www.yna.co.kr/view/AKR20261028033200009
 
-**이스라엘, 요르단강 서안서 반인도범죄 자행 지적 제기**
-이스라엘 정부가 팔레스타인 자치 구역인 요르단강 서안지구에서 인권 침해 및 말살 행위를 저질렀다는 국제 보고서가 발표됐습니다. 해당 보고서는 이스라엘의 정책이 반인도적 범죄 수준에 해당한다고 비판했습니다.
-링크: https://www.yna.co.kr/view/AKR20261027030800009
+**룰라 브라질 대통령, 대선 패배 후 미국행 보우소나루에 "수치스럽다" 일갈**
+루이스 이나시우 룰라 다시우바 브라질 대통령이 대선 패배 직후 국외로 떠난 전 대통령 측근들을 향해 강한 비판을 쏟아냈습니다. 룰라 대통령은 이러한 행위가 민주주의를 경시하는 수치스러운 행동이라고 지적했습니다.
+https://www.yna.co.kr/view/AKR20261028036700009
 
 ## 🏭 산업
 
-**셀트리온, 3분기 매출 1조5천755억·영업익 5천253억…역대 최대**
-셀트리온이 올해 3분기 연결 기준 역대 최대 실적을 달성했습니다. 주요 바이오시밀러 제품의 글로벌 판매 호조와 램시마SC 등의 성장세가 실적을 견인했습니다.
-링크: https://www.yna.co.kr/view/AKR20261027040500017
+**SK하이닉스, 3분기 영업이익 83조 원 '역대 최대'… 매출 100조 원 돌파**
+SK하이닉스가 인공지능 메모리 수요 폭발에 힘입어 3분기 매출 100조 원을 처음 돌파하고 83조 원이 넘는 영업이익을 기록했습니다. 회사는 이와 함께 60조 원 규모의 추가 주주환원책을 발표하며 시장의 기대를 모았습니다.
+https://www.yna.co.kr/view/AKR20261028028052527
 
-**삼성카드 3분기 순이익 1천398억원…전년比 13.5% 감소**
-삼성카드의 올해 3분기 당기순이익이 금융비용 증가 영향으로 전년 동기 대비 13.5% 줄어든 1,398억 원을 기록했습니다. 조달금리 상승에 따른 비용 부담이 실적 감소의 주요 원인으로 작용했습니다.
-링크: https://www.yna.co.kr/view/AKR20261027032651527
-
-**국내 반도체주, 미국발 호재에 장 초반 급등세**
-미국 증시의 AI 및 기술주 강세 영향으로 삼성전자와 SK하이닉스 등 국내 반도체 주가가 장 초반 5~7%대 상승했습니다. 글로벌 반도체 수요 회복 기대감이 주가에 적극 반영되고 있습니다.
-링크: https://www.yna.co.kr/view/AKR20261027045000008
-
-**제주 지역 잦은 비로 수확기 감귤 부패 피해 심화**
-제주 지역에 잦은 비가 내리고 고온 다습한 날씨가 이어지면서 수확을 앞둔 감귤의 부패 피해가 확대되고 있습니다. 농가에서는 수확 전 부패뿐만 아니라 유통 과정에서도 손실률이 크게 늘어 대책을 요구하고 있습니다.
-링크: https://www.yna.co.kr/view/AKR20261027049600056
-
-**스타벅스 코리아, 아태 바리스타 대회서 시그니처 음료 부문 수상**
-스타벅스 코리아가 아시아·태평양 지역 스타벅스 바리스타 챔피언십에서 '베스트 시그니처 음료' 부문 1위를 수상했습니다. 자체 개발한 음료의 독창성과 맛을 국제무대에서 인정받았습니다.
-링크: https://www.yna.co.kr/view/AKR20261027044700030
+**다이나핏, 스마트폰 연동 발열 제어 의류 5종 출시**
+스포츠 브랜드 다이나핏이 모바일 앱을 통해 온도를 조절할 수 있는 '스마트 웨어러블 웨어' 시리즈를 선보였습니다. 겨울철 야외 활동 시 사용자 편의를 극대화한 기능성 의류로 테크 웨어 시장 공략에 나섭니다.
+https://www.yna.co.kr/view/AKR20261028048900030
 
 ## ⚖️ 사회
 
-**천안교도소서 수형자 무단 정문 출입 해프닝 발생**
-충남 천안교도소에서 복역 중인 수형자가 교도관의 별다른 제지 없이 교도소 정문 밖으로 걸어나가는 일이 발생했습니다. 교도소 측은 즉시 신병을 확보했으며 담당 근무자들의 경계 태만을 조사하고 있습니다.
-링크: https://www.yna.co.kr/view/AKR20261027046700063
+**가상자산 거래소 빗썸, 해킹 공격으로 고객 개인정보 유출 사고 발생**
+빗썸의 사내 시스템이 외부 공격에 노출되어 일부 고객의 개인정보가 유출되었습니다. 회사 측은 즉시 차단 조치를 완료하고 정확한 유출 규모와 경로를 파악하기 위해 보안 당국과 협력하여 조사를 진행 중입니다.
+https://www.yna.co.kr/view/AKR20261028043952002
 
-**청주시, 125억원 투입해 공공산후조리원 건립 등 돌봄 확대**
-충북 청주시가 125억 원의 예산을 들여 공공산후조리원을 건립하는 등 출산 및 생애주기별 돌봄 서비스를 강화합니다. 지자체 차원의 보육 인프라 확충으로 출산율 저하에 대응한다는 방침입니다.
-링크: https://www.yna.co.kr/view/AKR20261027033800064
+**선관위 특검팀, 지방선거 투표지 공개 검증 착수**
+선거관리위원회 특별검사팀이 지난 지방선거의 투표용지 부족 사태 등을 규명하기 위해 서울 핸드볼경기장에서 투표지 실물 검증에 들어갔습니다. 특검은 투표 관리 과정의 위법성 여부를 집중적으로 들여다볼 예정입니다.
+https://www.yna.co.kr/view/AKR20261028046300004
 
-**강원 양구군, 가을철 산불예방진화대 조기 배치**
-강원 양구군이 건조한 가을철 산불 발생에 선제적으로 대응하기 위해 산불전문예방진화대를 조기 배치했습니다. 산림 인접 지역 단속과 초동 진화 체계를 구축해 피해를 최소화할 계획입니다.
-링크: https://www.yna.co.kr/view/AKR20261027044100062
+**호남권 5개 시·군, 서해안철도 국가철도망 계획 반영 공동 촉구**
+전남과 전북의 5개 시·군이 국회에서 공동 메시지를 발표하고 서해안철도 건설을 국가 계획에 포함할 것을 정부에 강력히 요구했습니다. 이들은 지역 소멸 위기 극복과 국토 균형 발전을 위해 철도 인프라 구축이 필수적임을 강조했습니다.
+https://www.yna.co.kr/view/AKR20261028043700055
 
-**골재 야적 목적으로 나무 700여 그루 무단 벌목한 업체 적발**
-건설폐기물 수집·운반 업체가 골재를 쌓아둘 부지를 확보하기 위해 입목 700여 그루를 무단 훼손하다 적발됐습니다. 산림 당국은 해당 업체를 산림자원법 위반 혐의로 조사 중입니다.
-링크: https://www.yna.co.kr/view/AKR20261027041900062
+**NH농협은행, 소상공인 자립 돕는 'NH미소금융재단' 출범**
+NH농협은행은 금융소외계층의 경제적 자립과 서민 생활 안정을 지원하기 위해 NH미소금융재단 창립총회를 열었습니다. 재단은 저소득·저신용층을 대상으로 한 저금리 대출과 경영 컨설팅 등 실질적인 지원을 제공할 계획입니다.
+https://www.yna.co.kr/view/AKR20261028043100002
 
-**서울 송파구, 서울복합물류센터서 재난대응 안전한국훈련 실시**
-서울 송파구가 내달 2일 장지동 서울복합물류센터에서 화재 발생 상황을 가정한 재난대응 훈련을 시행합니다. 민·관·군·경 합동으로 진행되는 이번 훈련을 통해 실전 대응 역량을 점검합니다.
-링크: https://www.yna.co.kr/view/AKR20261027052600004
+**창원 마산 앞바다에서 '하이드로플라이' 챔피언십 개최**
+마산국화축제 기간에 맞춰 31일부터 이틀간 해양레저스포츠 대회가 열립니다. 물의 수압을 이용해 하늘을 나는 하이드로플라이 경기가 펼쳐져 시민들에게 화려한 볼거리를 제공할 예정입니다.
+https://www.yna.co.kr/view/AKR20261028051200052
 
 ## 🎭 문화
 
-**BC카드, 한글날 제정 100주년 기념 '비씨네 한글가게' 운영**
-BC카드가 한글날 제정 100주년을 맞아 서울 중구 을지트윈타워에서 '비씨네 한글가게' 팝업스토어를 운영합니다. 한글의 미학적 가치를 알리고 관련 문화 콘텐츠를 시민들에게 제공합니다.
-링크: https://www.yna.co.kr/view/AKR20261027048900002
+**제2회 국립극단후원회 어워즈, '반야 아재' 등 작품상 선정**
+국립극단 후원회가 선정한 올해의 작품상에 연극 '반야 아재'와 '조씨고아, 복수의 씨앗'이 공동 수상의 영예를 안았습니다. 뛰어난 연출과 연기력으로 한국 연극의 품격을 높였다는 평가를 받았습니다.
+https://www.yna.co.kr/view/AKR20261028046200005
 
-**한국관광공사, '2026 하이커 미디어 아트 공모전' 시상식 개최**
-한국관광공사가 '2026 하이커 미디어 아트 공모전' 시상식을 열고 최우수상작 '모여, 한결'을 비롯한 수상작을 선정했습니다. 수상 작품들은 서울 청계천 하이커 그라운드 미디어월을 통해 전시됩니다.
-링크: https://www.yna.co.kr/view/AKR20261027027700030
+**아트코리아랩 페스티벌, AI 시대의 예술과 인간 감각 탐색**
+인공지능 기술과 예술적 창작이 만나는 '아트코리아랩 페스티벌'이 개최됩니다. 이번 행사는 전시와 강연을 통해 AI가 인간의 예술적 감각과 창의성에 어떤 영향을 미치는지 깊이 있게 논의하는 자리가 될 것입니다.
+https://www.yna.co.kr/view/AKR20261028042500005
 
-**군산 개사동 패총 내년 발굴 추진…서해안 고대사 규명 기대**
-전북 군산시와 국립완주문화유산연구소가 서해안 고대 해상 교류의 핵심 유적인 '군산 개사동 패총'을 내년부터 본격 발굴합니다. 이번 발굴을 통해 서해안 지역의 고대 생활상과 역사적 가치가 새롭게 조명될 전망입니다.
-링크: https://www.yna.co.kr/view/AKR20261027045200055
+**삼성전자, 걸그룹 리센느와 갤럭시 Z 폴드8 마케팅 협력**
+삼성전자가 신인 그룹 리센느와 협업하여 갤럭시 Z 폴드8 홍보에 나섭니다. 트렌디한 이미지의 아티스트를 통해 젊은 여성 고객층에게 폴더블폰의 매력을 소구한다는 전략입니다.
+https://www.yna.co.kr/view/AKR20261028045600017
 
-**하이브, 산하 레이블 지원 조직 '글로벌 서비스'로 통합**
-가요 기획사 하이브가 산하 레이블의 음원 유통과 마케팅을 전담 지원하는 통합 조직을 신설했습니다. 각 레이블의 유기적 성장과 해외 시장 진출을 돕기 위해 전문 인력 보강도 병행합니다.
-링크: https://www.yna.co.kr/view/AKR20261027043100005
+**충북 단양구경시장, 동대문 패션상인과 특화 기념품 개발 협약**
+단양의 대표 전통시장인 구경시장과 서울 동대문 패션상인연합회가 손을 잡고 시장 특화 굿즈 제작에 나섭니다. 지역 전통시장의 자원과 패션 상권의 노하우를 결합하여 새로운 관광 상품을 선보일 예정입니다.
+https://www.yna.co.kr/view/AKR20261028045000064
 
-**증평군, 남차지구에 귀농귀촌 임대주택 및 주민편의시설 조성**
-충북 증평군이 남차1리지구 농촌공간정비사업을 추진해 귀농귀촌인을 위한 임대주택과 편의시설을 구축합니다. 정주 여건을 개선하여 인구 유입을 도모하고 지역 활력을 높일 계획입니다.
-링크: https://www.yna.co.kr/view/AKR20261027036900064
+**[전통주 이야기] 하루 만에 빚어 마시는 조선의 속성주**
+조선시대 조상들이 급한 손님맞이를 위해 하루 만에 술을 빚어냈던 '속성주'의 제조 원리와 역사가 소개되었습니다. 기다림의 미학이 있는 전통주 세계에서 효율성을 찾았던 독특한 술 빚기 문화를 엿볼 수 있습니다.
+https://www.yna.co.kr/view/AKR20261028042700371
 
 ## 🇺🇸 미국경제
 
-**앤트로픽 IPO 신청 호재에 뉴욕증시 상승…나스닥 0.8% 대 급등**
-인공지능 스타트업 앤트로픽의 기업공개(IPO) 신청 소식과 주요 기술주 강세에 힘입어 뉴욕증시가 상승 마감했습니다. AI 테마에 대한 투자 심리가 회복되면서 나스닥 지수가 0.8% 이상 올랐습니다.
-링크: https://news.google.com/rss/articles/CBMiW0FVX3lxTE44WlhWdWVPYl9NbDc4OFprQmE5QzBxejZxdFhMRWFMMlZnektFQ1dCS2c1ODBUTWNycXRzOTEzUGVnV21ycjQwYUtYRWQzS3RQQXNkdvdmVzBkc0HSAWBBVV95cUxQT0NWNmNwUUtPYmw4cUNDWTUyb0NDbzdVbTNsT2o5TWd3bXVJRC1uNTJGT19uVFdDQzVuZ0FScUpIdnlVRnhzU3JHU3RTMGxwVVdkTkg5ZXNmMnBWOFU3SkU?oc=5
+**뉴욕증시, 기술주 강세 속 상승 마감… 나스닥 1.18%↑**
+메타의 대규모 증자 소식과 인공지능 기업 앤트로픽의 긍정적인 실적 전망에 힘입어 뉴욕증시가 상승 마감했습니다. 특히 브로드컴 등 반도체 및 AI 관련주에 매수세가 몰리며 나스닥 지수가 1.2% 가까이 올랐습니다.
+https://news.google.com/rss/articles/CBMiXEFVX3lxTE02MDNjQUllSk9YMVFIVF9KVXNMbEVoT19rY1g0MVRjWXNRcEF4V19YbEFWZmsyU19MT1QycURrdjQtZkx4c2V0Ti1vYTRFYXIzcWQxbHZRUHlydVFB?oc=5
 
-**무디스 잔디 "시장 금리 상승이 연준 역할 대신…추가 인상 불필요"**
-무디스 앤더슨 잔디 수석이코노미스트는 국채 금리 상승이 시중 유동성을 흡수하고 있어 연방준비제도(Fed)의 추가 금리 인상이 불필요하다고 분석했습니다. 채권 시장의 자율적 조율 기능이 긴축 효과를 내고 있다는 지적입니다.
-링크: https://news.google.com/rss/articles/CBMicEFVX3lxTFA1VXNwYWFFamxaYzFCMEFoQnhYQ0lnYUZXaWZoZUNXdjZDZnYwQkgwYkpYWEZGcko5SzlleDMxajFDVENUM18wa1NLeWdRYWxwWWZ0NzJwU2VpakZVUDk4eWplbG5KaVM3U3lValE2ck_SAXRBVV95cUxOY2N0R01lMlBDQ2Q2ZElwa01yS1pMcDJTNGRKVlFVUGs1N0lQYVpIYTVGNmVFSW0yVmxUNGtseWdnb0NmSHN2NDhpNGZ2WTNWR3ktVXdmaEtlT1JRMUFJQ0sxelFDUTY4cjhQb3cyUTFOakdvQw?oc=5
+**미 연준 금리 결정 앞두고 '정치적 중립성' 시험대**
+중간선거를 불과 엿새 앞두고 열리는 연방공개시장위원회(FOMC) 회의를 앞두고 시장의 긴장감이 높아지고 있습니다. 연준이 금리를 동결할 것이라는 관측이 우세한 가운데, 향후 추가 인상 가능성을 언급할지 여부가 초미의 관심사입니다.
+https://news.google.com/rss/articles/CBMiiAFBVV95cUxNOHRhTkJQVHdIc0JTcEUyTldyY0hiRFN6NmdUU0FFLVFRREF5eW4tcHk3cGRwYW5UOGJJTHdERHk3SUd3bUtaUjIwNnBwM1NCekZhRTZVcW4yNjVmSVA4S3NJSjkwWnR6WU1VSmdyNmJTQ0dXY19lNF9rbl9FX29ZNk1LeTNHZjBz?oc=5
 
-**미 연준, 이번 주 금리 동결 후 12월 추가 인상 가능성 거론**
-미국 연방준비제도가 이번 통화정책회의에서 기준금리를 동결할 것이라는 관망이 우세합니다. 다만 물가 상방 압력이 지속될 경우 12월 회비에서 추가 인상을 단행할 가능성은 열어두고 있습니다.
-링크: https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAxX21TU2VBN25mb3JQSUM3bjhtaHpOcndwYmM4SWV4ZHdmanNIak5lUzdtQXRkRUx4ZlAtYTdtRXlWUmxTTERZdXpZLWJRakRxX1d3Q0ViYk5iTHNKRFJ1YzNaa2lyWEk?oc=5
-
-**나틱시스 "연준 내 매파 위원들, 25bp 추가 인상 주장 지속 전망"**
-나틱시스 은행은 연준 내부의 매파 성향 위원들이 인플레이션 억제를 위해 이번 회의에서도 25bp 금리 인상을 강력히 요구할 것이라고 전망했습니다. 정책 위원들 간의 의견 대립이 지속될 것으로 보입니다.
-링크: https://news.google.com/rss/articles/CBMickFVX3lxTE96YW5XQzZyRUxUMjRodzRRbjhUUTZ3QmhrSFB6dlNGN0ZpV0luQ3FRTFN5cUF2TTZiSk9EVVlZVV9FWlhvZVV0Y3ptMWJnTG9OY3RUYmNfQWE5WGcxLUFfd01vNFF5Y3FEeFNpTE5xREY0UQ?oc=5
-
-**코스피, 미국 증시 강세에 힘입어 3%대 급등 출발**
-미국 증시 상승 호재에 힘입어 코스피가 장 개장 직후 3% 넘게 급등하며 5650선을 돌파했습니다. 외국인과 기관의 매수세가 집중되며 대형 기술주 위주로 강한 상승세를 보이고 있습니다.
-링크: https://news.google.com/rss/articles/CBMiiAFBVV95cUxOXzNwMF9tYnlpcFN4SjhzU2wwYVlDaEM3Y0FoelUxamdFRlBHVjlqN2xWN1FUaTdqenNVcjBpeV9GQlItRzRzaXowWXJhZTVHOGxkcW9fbkRfMTltcHRZaWI1UkFzTmhxc2Z3Qmc0NkNsOGtKdVBBYkZQbjBOZHNSQjAyTDZWSWEz0gGcAUFVX3lxTE52RVFwQmtybmhKTUIxcFB2cEpsZlFzQWRPMHpOSkFQcWVtSTQtZHBKZURteGVBemRuWUZSa2s2QkpCU0plUGk1UDBPUzNnMjI3TFM4MXZ6bGVMbWxFdmtGVDJFNGVRdlJsNVg2UDZEZUVqeHc1anozWXlKeTdMaGhhNnhEWXIyQmhIRmZVNWNoS2pIOXpUT2d6OUJrMg?oc=5
+**미 국채금리 일제히 상승… 연내 추가 긴축 우려 반영**
+미 국채 수익률이 연준의 통화 정책 방향을 주시하며 일제히 올랐습니다. 시장은 이번 회의에서의 동결보다는 이어지는 기자회견에서 나올 매파적 발언과 연내 추가 금리 인상 신호에 더 주목하고 있습니다.
+https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9oRS05VjRPdFBNR2dxcEVOYnRHU09LOURfb0hTeEhMaVN2THgwRnEzZ0YtbmRySkIxTFdqSUNuZktWbnZTZFNUeTVCam5BTDhDWnkxV19kbDcyUUZ0YnU2Ymt1YlpoQVU?oc=5
 
 ## 🏠 부동산
 
-**주택 시장 '월세 전환' 가속…전세 비중 감소 및 월세 선호 현상**
-고금리와 전세 사기 우려 등으로 인해 아파트 시장에서 월세 비중이 전세를 넘어서는 현상이 심화되고 있습니다. 전세 매물 감소와 월세 가격 상승이 이어지며 임대차 시장의 구조적 변화가 본격화되고 있습니다.
-링크: https://news.google.com/rss/articles/CBMiZ0FVX3lxTE55SXZUQ1hhVlJ6VHRPeTl6NVpqSS03cG9rZnpXUTQxN2pUbFhZVXF0R1R1cUpBcGZCT3Y2V0JzUzRCeVhjRnVkSzRNOVBTZFZIOEZ4c2VZWml4VTZBVXY0d3FySkFMbHc?oc=5
+**전국 9개 조합 재건축 초과이익 환수금 1.1조 원 육박**
+재건축 단지에 부과될 초과이익 환수금 규모가 예상을 뛰어넘으면서 정비업계에 비상이 걸렸습니다. 주요 단지에서 가구당 수억 원의 부담금이 발생할 것으로 보이면서 향후 재건축 사업 추진에 큰 걸림돌이 될 것이라는 우려가 나옵니다.
+https://news.google.com/rss/articles/CBMiYEFVX3lxTE1wUnZyZnVuZmJ6Z0dRZHp5dUFCVExqQVBKdUFnSVlQejV1U25JOEROaU00eE9uUzd2cmQ1azd1bE81NFNxOUtJTGQ3OU9uY0NKclktQ29XUnA5ZzNwWm9abA?oc=5
 
-**국토교통부, 전국 재개발·재건축 사업장 16곳 공사비 특별점검**
-국토교통부가 공사비 증액 갈등을 겪고 있는 정비사업장 16곳을 대상으로 특별 현장점검에 나섭니다. 산출 내역의 적정성을 검증해 공사비 분쟁으로 인한 사업 지연을 방지할 계획입니다.
-링크: https://news.google.com/rss/articles/CBMiaEFVX3lxTFBTTkJWX1hEaTR6WEludWxPZTQxN0lLcC1UNEtGSjNLVmFhOWRoZ3R0RGJkN1NDLUFVbU9iZlB6OTlXRGpNeXQwQ1VOS1Q1T1daMmIyYUdZMm1KbG9xbkpXcHl1M3BKcUMx?oc=5
+**반포부터 검단까지… 하반기 알짜 청약 단지에 관심 집중**
+서울 반포 등 상급지 재건축 단지와 인천 검단 신도시 등 주요 지역에서 청약 물량이 쏟아지며 예비 청약자들의 발길이 분주해지고 있습니다. 입지와 가격 경쟁력을 갖춘 단지를 중심으로 청약 시장의 쏠림 현상이 심화될 것으로 보입니다.
+https://news.google.com/rss/articles/CBMiiAFBVV95cUxOVnBOTzlZTmFMeXdjT0tUUGYwZndlOGFlbWJ6XzJpaVNCeXpMMHFEbGNXN09WSVRpMmRrWDgwUmtwVVVpeGdac2JEN041c0MyMmw2ZFNKUC1MR2pXZnUwSC1QNzQ2NUM2cGx6ZE1vNHJWdktFUWxxUU5Ua2dqOXllRGtLeVUyTDN4?oc=5
 
-**서초구, 28일 정비사업 세무·제도 안내 '재건축 정책 콘서트' 개최**
-서울 서초구가 오는 28일 구민들을 대상으로 재건축 정비제도와 관련 세무 지식을 전달하는 정책 콘서트를 진행합니다. 최근 개정된 정비사업 관련 법령과 세금 이슈를 전문가가 직접 설명합니다.
-링크: https://news.google.com/rss/articles/CBMibEFVX3lxTE92NGUyTEctREItZ0M2QWtTNVRnY2hOZEFXMS04dl9iQ3FTYjBCYUdORFA0bGhmQlBhNlptOGdrbGJPV29FeDFFZ0pSZFhmLU83OEdmNWp4bjd6b2lBeUZqbHZ0cklZb1VlOWw0dA?oc=5
+**재건축 이주 수요로 인한 전세난 심화 우려 확산**
+대규모 재건축 단지들의 이주 시기가 다가오면서 인근 지역의 전세 시장 불안이 가중되고 있습니다. 특히 학군지나 정주 여건이 좋은 지역을 중심으로 전세 물건 부족 현상이 나타나며 임대료 상승을 부추길 가능성이 제기됩니다.
+https://news.google.com/rss/articles/CBMiYEFVX3lxTE1SWUJaRHFaM3hQUVFvLXM5THhJQUxHZkc3bHZKX2x5b1V3cEtYWVlvRGc4dzRxMmJyMnZEY1o5Rk1iUWFlX2xuYUtENldQZ2xSS1k4eGMyY3RncVk5VzVxNtIBeEFVX3lxTFBkWkh1TWlKa2pXWUFwMkoyQ0FodGFrWHo5NDRWMXA5ZmZrbWlLU0NLSE95QmUwVDcyYlRfdlVNU1FRMGRSXzJOQk5oUV9lWlQwcGFFRHZyZWFpNUNWZWZzdFRmU3FFQ25VYjRNU3IzdHR4OFUzSWFOXw?oc=5
 
-**대보건설, 2천107억원 규모 대전 가오동 1구역 재건축 수주**
-대보건설이 공사비 2,107억 원 규모의 대전 가오동 1구역 재건축 정비사업을 수주했습니다. 해당 지역에 지하 2층~지상 33층 규모의 신축 아파트 단지가 들어설 예정입니다.
-링크: https://news.google.com/rss/articles/CBMiZEFVX3lxTE9aeTZmSTZmZkNQUmhOWW9KN1JYeGZEMW9JLTU3MzFLTi1RVGROdFNMYmVGakNyOFVDT3FvemFLTk43U3YwNTVmTWRKZGc0cEM0Q3NqejNabW5EWWp2MVl1eXg3N0g?oc=5
+**성남시, 국토부 지침에 따른 분당 재건축 일정 차질 우려 표명**
+신상진 성남시장은 정부의 새로운 교통영향평가 지침이 적용될 경우 분당 신도시 재건축 사업이 지연될 수 있다는 우려를 나타냈습니다. 시는 주민들의 기대가 큰 만큼 사업 속도를 높이기 위한 제도적 뒷받침을 건의할 예정입니다.
+https://news.google.com/rss/articles/CBMiW0FVX3lxTE55UF9qNlVETU9Oa0xxbnlpRkQ1bVpTNDFfaEpxaWJ3Tm1UcEV5UWJsbGMydUZjOWl4MXZpX2QwYTZUaGtLQ2ZDZEpUWUVRd3ZFTGozb0RvTUdDMWM?oc=5
 
-**의정부시, 정비사업 촉진 위한 맞춤형 주민설명회 개최**
-경기도 의정부시가 관내 재개발 및 재건축 사업의 추진 속도를 높이기 위해 구역별 맞춤형 주민설명회를 개최합니다. 사업 절차 단축 및 오해 해소를 위해 지자체 차원의 행정 지원을 확대합니다.
-링크: https://news.google.com/rss/articles/CBMiUEFVX3lxTE1tbW1RU1N6U1Njemk0bHhhNnRTOGhMZlpuaFpOaU5vck0tRl9Nc3dIUjNiU01jS3QzRUhLSkVYWVI5SlN3YVFycHpGaEJqakxF?oc=5
+**제주 도심 노후 아파트, 고도 완화와 맞물려 재건축 추진 '붐'**
+제주 시내 노후 아파트들이 최근 발표된 고도 제한 완화 조치에 힘입어 재건축 추진에 속도를 내고 있습니다. 도심 내 주거 환경 개선에 대한 기대감과 함께 자산 가치 상승을 노린 정비 사업 논의가 활발히 진행 중입니다.
+https://news.google.com/rss/articles/CBMibEFVX3lxTE5UUXSaenpwOGdNbm81ZzgyNlExQU01eGkzN2k0cUhtWl9XMExTdWZwaEZuanhWbkxoMEt6VFpzNmxmYU1TZ2h1VnltRzlVNllEdzBZQjFGWXhJUjE3cU9sYVNCTzdraU9EOHJKNA?oc=5
 
 ---
 연합뉴스 RSS 기반 · 자동 생성 브리핑
