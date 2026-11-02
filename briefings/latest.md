@@ -1,164 +1,172 @@
-# ☀️ 아침 뉴스 브리핑 — 2026년 11월 01일
+# ☀️ 아침 뉴스 브리핑 — 2026년 11월 02일
 
 ## 📌 종합
 
-**한국 수출 사상 첫 9,000억 달러 돌파…10월 1,153억 달러 기록**
-우리나라의 1∼10월 누적 수출액이 사상 처음으로 9,000억 달러를 돌파했다. 10월 한 달간 수출액은 1,153억 달러를 기록하며 견조한 성장세를 이어갔다.
-https://www.yna.co.kr/view/AKR20261101015300003
+**KT, 3G 신규 가입 전면 중단…LTE·5G 전환 지원**
+KT가 3G 서비스 신규 가입을 전면 중단하고 기존 이용자의 LTE 및 5G 전환 지원에 나선다. 기존 가입자에게는 무료 단말 제공 및 요금 할인 등의 혜택을 제공할 예정이다.
+https://www.yna.co.kr/view/AKR20261102044100017
 
-**외교부 "정상외교 친교·문화교류만 부각해 평가절하 부적절"**
-외교부는 대통령의 해외 순방 일정에 대해 전체 일정과 실질적 성과를 고려하지 않은 채 일부 교류만을 부각해 평가절하하는 것은 부적절하다고 밝혔다. 순방을 통한 다각적 성과를 종합적으로 평가해야 한다는 취지다.
-https://www.yna.co.kr/view/AKR20261101015200504
+**서산 부춘·동문·예천동 일원 하수도 정비 추진…954억원 투입**
+충남 서산시 부춘·동문·예천동 일대 3.92㎢가 기후에너지환경부 주관 하수도 정비 중점관리지역으로 지정됐다. 총 954억 원의 사업비가 투입되어 상습 침수 예방 및 하수 관로 정비 사업이 진행된다.
+https://www.yna.co.kr/view/AKR20261102048100063
 
-**정지민, 월드클라이밍 아시아 시리즈 스피드 금메달**
-2026 아이치·나고야 아시안게임 동메달리스트 정지민이 월드클라이밍 아시아 시리즈 스피드 종목에서 금메달을 획득했다. 이번 우승으로 국제 무대에서의 경쟁력을 다시 한번 입증했다.
-https://www.yna.co.kr/view/AKR20261101015100007
+**국민의힘, 대통령 시정연설 전 피켓 시위 진행**
+국민의힘은 이재명 대통령의 국회 시정연설에 앞서 열린 의원총회에서 피켓 시위를 진행하며 정국 현안에 대한 항의 의사를 밝혔다. 이번 시위로 국회 내 여야 간 대립 구도가 더욱 심화되는 모습이다.
+https://www.yna.co.kr/view/AKR20261102047800001
 
-**국내 제약사, 식음료 시장 진출 가속화…브랜드 인지도 활용**
-활명수 브랜드를 활용한 탄산음료와 박카스 향을 담은 젤리 등 국내 제약사들이 기존 대중적 인지도를 활용해 식품 사업 영역을 확대하고 있다. 의약품 외 새로운 매출원 확보 전략의 일환이다.
-https://www.yna.co.kr/view/AKR20261030123900017
+**대전시 공무원, 생성형 AI 활용해 행정 오류 복구 프로그램 개발**
+대전시청 소속 공무원이 생성형 인공지능(AI)을 활용하여 업무용 컴퓨터의 오류를 자동으로 복구하는 프로그램을 개발했다. 해당 프로그램 도입으로 행정 업무의 연속성과 효율성이 향상될 것으로 기대된다.
+https://www.yna.co.kr/view/AKR20261102041000063
 
-**강원도, 전국한우경진대회 지자체 부문 종합우승**
-강원도가 전국한우경진대회 지자체 부문에서 종합우승을 차지했다. 최고상인 대통령상은 영월의 한우 사육 농가에 돌아갔다.
-https://www.yna.co.kr/view/AKR20261101014900062
+**국제핵융합실험로 사무차장에 정천영 임명…11년 만의 한국인 선임**
+과학기술정보통신부는 정천영 ITER 품질관리부서장이 국제핵융합실험로(ITER) 기구 사무차장에 임명됐다고 밝혔다. 한국인이 ITER 기구의 사무차장 직위에 오른 것은 11년 만이다.
+https://www.yna.co.kr/view/AKR20261102035400017
 
 ## 💰 경제
 
-**10월 수출 1,153억 달러…반도체 호조 및 무역수지 흑자 지속**
-10월 수출이 1,153억 달러를 기록하며 2개월 연속 1,100억 달러대를 유지했다. 반도체 수출은 564억 달러를 달성했으며 무역수지는 425억 달러 흑자를 기록했다.
-https://www.yna.co.kr/view/AKR20261101013600003
+**금호타이어 함평공장 건설 순조…공정률 8% 달성**
+금호타이어 전남광주 함평공장 신축 공사가 차질 없이 진행되고 있다. 현재 전체 공정률은 8%를 기록하며 순항 중인 것으로 나타났다.
+https://www.yna.co.kr/view/AKR20261102046000054
 
-**KB국민은행, 국내 최초 GPU 파이낸싱 금융주선 총괄**
-KB국민은행이 글로벌 대체투자 운용사 브룩필드가 추진하는 약 12조 6천억 원 규모의 AI 컴퓨팅 인프라 사업 금융주선을 총괄한다. 국내 금융사 최초의 대규모 GPU 파이낸싱 주선 사례다.
-https://www.yna.co.kr/view/AKR20261030166300002
+**NH농협은행, 자금관리 돕는 'NH바로정산 서비스' 출시**
+NH농협은행이 선정산 자금거래의 안정성과 편의성을 강화한 'NH바로정산 서비스'를 선보였다. 이번 서비스는 소상공인과 기업 고객의 자금 흐름 관리를 원활하게 돕기 위해 마련됐다.
+https://www.yna.co.kr/view/AKR20261102047100002
 
-**현대홈쇼핑, 우수고객 대상 멤버십 개편…매월 5% 할인 적용**
-현대홈쇼핑이 오는 3일부터 구매 빈도와 금액이 높은 우수고객을 대상으로 멤버십 제도를 개편한다. 대상 고객에게는 매월 5% 할인 혜택이 자동으로 적용될 예정이다.
-https://www.yna.co.kr/view/AKR20261101015400030
+**한화금융계열 4개 사, 퇴직연금 비전 선포식 개최**
+한화생명, 한화손해보험, 한화투자증권, 한화자산운용 등 한화금융계열 4개 사가 정부의 퇴직연금 제도 개편에 발맞춰 비전 선포식을 열었다. 금융 계열사 간 협력을 통해 고객 신뢰 기반의 퇴직연금 서비스를 제공할 방침이다.
+https://www.yna.co.kr/view/AKR20261102046100002
 
-**평창 청소년, 판교·서울서 AI·로봇 미래직업 탐색**
-강원 평창지역 청소년들이 판교와 서울을 방문해 인공지능(AI)과 로봇 등 미래 첨단 산업 현장을 직접 체험했다. 지역 청소년들의 진로 탐색을 지원하는 프로그램의 일환으로 진행됐다.
-https://www.yna.co.kr/view/AKR20261030110200062
+**현대글로비스, 인천공항물류센터 본격 가동…특송 수입통관 승인**
+현대글로비스의 인천국제공항 물류센터가 관세청으로부터 특송 수입통관장 승인을 받아 본격 가동에 들어갔다. 이를 통해 해외직구 물품의 신속한 통관 및 물류 처리가 가능해질 전망이다.
+https://www.yna.co.kr/view/AKR20261102042500003
+
+**하나은행, 모바일 앱 '하나원큐'서 골드바 매매 서비스 제공**
+하나은행이 영업점 방문 없이 모바일 뱅킹을 통해 골드바를 구매할 수 있도록 서비스를 확대했다. 앱에서 구매 신청 후 지정한 영업점에서 실물 골드바를 수령하는 방식이다.
+https://www.yna.co.kr/view/AKR20261102044800002
 
 ## 🌍 국제
 
-**美 FBI "북한, 63억 달러 규모 가상화폐 탈취 배후"**
-미국 FBI는 세계 최대 가상화폐 거래소 바이낸스 해킹 사건의 배후로 북한을 지목했다. 탈취된 63억 달러 상당의 자산이 이더리움 등으로 전환되는 정황도 포착됐다.
-https://www.yna.co.kr/view/AKR20261101006451071
+**일본 정부, 공장부지 재활용 시 토양 오염 조사 면제 추진**
+일본 정부가 기존 공장부지를 산업용지로 재활용할 때 토양 오염 조사 절차를 면제해 주는 규제 완화를 추진한다. 기업들의 부지 재활용 절차를 단순화하여 산업 투자를 촉진하려는 목적이다.
+https://www.yna.co.kr/view/AKR20261102045200009
 
-**오픈AI, 투자 유치 목표액 절반 미달…AI 투자 열기 주춤**
-챗GPT 개발사인 오픈AI가 추진한 대규모 투자 유치가 당초 목표액의 절반 수준에 그쳤다. AI 분야 투자에 대한 시장의 엄격해진 평가 기준이 반영된 것으로 풀이된다.
-https://www.yna.co.kr/view/AKR20261101005900072
+**중국 공산당, 빅테크 내 당 조직 통제 강화…AI·빅데이터로 부패 감시**
+중국 공산당이 인터넷 플랫폼 및 첨단기술 기업 내에 설치된 당 조직에 대한 관리를 한층 강화한다. 인공지능(AI)과 빅데이터 기술을 내부 감시에 활용해 당원 및 기업의 부패를 철저히 관리할 방침이다.
+https://www.yna.co.kr/view/AKR20261102042200083
 
-**일본 아이치현 해역서 규모 6.1 지진 발생**
-1일 오전 7시 15분경 일본 아이치현 도요하시시 남남서쪽 122km 해역에서 규모 6.1의 지진이 발생했다. 국내외 관련 기관이 진원 및 영향 분석에 나섰다.
-https://www.yna.co.kr/view/AKR20261101007600530
+**젤렌스키 "튀르키예에서 푸틴과 직접 회담할 용의 있어"**
+볼로디미르 젤렌스키 우크라이나 대통령이 튀르키예를 중재 장소로 언급하며 블라디미르 푸틴 러시아 대통령과의 직접 회담 의향을 밝혔다. 이번 발언으로 양국 간 평화 협상 재개 가능성에 관심이 쏠리고 있다.
+https://www.yna.co.kr/view/AKR20261102033000009
 
-**美 법원, 스페이스X 대기오염 의혹 소송 진행 결정**
-미국 법원이 일론 머스크의 스페이스X가 제기한 환경 법률 위반 소송 기각 요청을 받아들이지 않았다. 이에 따라 데이터센터 관련 대기오염 의혹 소송 조사가 계속될 예정이다.
-https://www.yna.co.kr/view/AKR20261101012200091
+**美 중간선거 앞두고 민주당 7%p 우세…트럼프 부정평가 60%**
+미국 중간선거를 앞두고 실시된 최근 여론조사에서 민주당이 의회 다수당 선호도 선거구 조사에서 공화당에 7%포인트 앞선 것으로 나타났다. 도널드 트럼프 전 대통령에 대한 부정 평가는 60%를 기록했다.
+https://www.yna.co.kr/view/AKR20261102028800009
 
-**시리아, 사우디 주도 '메카 상호방위협정' 가입 검토**
-시리아 외무장관이 사우디아라비아가 주도하는 메카 상호방위협정 가입을 검토 중이라고 밝혔다. 중동 지역의 안보 지형 변화와 예멘 내전 관여 여부에 관심이 쏠리고 있다.
-https://www.yna.co.kr/view/AKR20261101008700009
+**전 세계 원전 건설 수 체르노빌 사고 이후 최대…AI 전력 수요 폭증 영향**
+AI 데이터센터 가동에 따른 전력 수요 급증과 탈탄소 기조에 맞물려 전 세계에서 건설 중인 원자력 발전소 수가 체르노빌 사고 이후 최대치를 나타냈다. 고유가 지속 역시 원전 건설 증가의 원인으로 분석된다.
+https://www.yna.co.kr/view/AKR20261102032100073
 
 ## 🏭 산업
 
-**삼성전자, 과불화화합물 저감 기술 개발…내년 평택사업장 적용**
-삼성전자가 국내에 배출 허용 기준이 아직 마련되지 않은 과불화화합물(PFAS) 등 오염물질을 저감하는 기술을 개발했다. 해당 기술은 내년부터 평택사업장에 우선 적용될 예정이다.
-https://www.yna.co.kr/view/AKR20261030130700061
+**'현대 N 페스티벌' 6개월 대장정 성료…누적 관람객 7만 명 돌파**
+현대자동차가 주최하는 국내 최대 규모의 단일 차종 모터스포츠 대회 '현대 N 페스티벌'이 최종 6라운드를 끝으로 막을 내렸다. 이번 시즌에는 누적 7만 명이 넘는 관람객이 경기장을 찾았다.
+https://www.yna.co.kr/view/AKR20261102040100003
 
-**경북도, 에너지 융복합단지 사업 풍력에서 원자력·수소로 확대**
-경북도가 에너지산업 융복합단지의 중점 사업 범위를 기존 풍력 중심에서 원자력과 수소 등으로 확대하는 전환 전략 수립에 착수했다.
-https://www.yna.co.kr/view/AKR20261101014700053
+**부산항만공사, 분산에너지 특화지역 전략 수립 착수**
+부산항만공사가 부산항의 친환경 전환과 에너지 자립 기반 강화를 위한 연구 용역에 착수했다. 분산에너지 특화지역 지정을 추진하여 지속가능한 항만 생태계를 구축한다는 계획이다.
+https://www.yna.co.kr/view/AKR20261102047500051
 
-**한섬 '시스템 파리', 일본 시장 진출…2030년까지 10개 매장 확대**
-현대백화점그룹 한섬이 유럽에서 경쟁력을 인정받은 '시스템 파리'를 일본 시장에 선보인다. 오는 2030년까지 현지 매장을 10개로 늘리며 해외 시장 공략을 가속화할 방침이다.
-https://www.yna.co.kr/view/AKR20261101013400030
+**전문건설공제조합, 경영지원 통합 플랫폼 '비즈니스 라운지' 개설**
+전문건설공제조합이 조합원사의 건설경영 활동을 종합 지원하는 통합 플랫폼 '비즈니스 라운지'를 오픈했다. 자금 지원 및 경영 솔루션 등 필요한 서비스를 일원화하여 제공한다.
+https://www.yna.co.kr/view/AKR20261102047600003
+
+**대만 타이베이에 '울주 팝업스토어' 오픈…지역 식품기업 5곳 참여**
+울산 울주군이 대만 타이베이 완자푸 네이후점에서 지역 식품기업 5곳이 참여하는 팝업스토어를 운영한다. 현지 소비자들에게 울주군의 우수한 농특산품과 식품을 적극 홍보할 예정이다.
+https://www.yna.co.kr/view/AKR20261102041400057
 
 ## ⚖️ 사회
 
-**"로또 당첨번호 예측" 66억 원 가로챈 사기 조직 총책 징역 7년**
-분석 시스템을 통해 로또 당첨 번호를 예측해 준다며 피해자들로부터 66억여 원을 가로챈 사기 조직 총책에게 징역 7년의 중형이 선고됐다.
-https://www.yna.co.kr/view/AKR20261030140100065
+**무인마트서 28차례 컵라면 훔친 20대 집행유예 선고**
+무인 마트에서 식료품을 상습적으로 절취한 20대에게 법원이 징역형의 집행유예를 선고했다. 재판부는 범행 횟수가 많으나 피고인이 반성하고 있는 점 등을 고려해 선처 조치했다고 밝혔다.
+https://www.yna.co.kr/view/AKR20261102044000052
 
-**광주 호남 반도체 국가산단 연결 주요 도로망 구축 추진**
-광주 군공항 이전 부지에 조성될 호남 반도체 국가산업단지를 동서남북으로 연결하는 도로 교통망 구축이 추진된다. 산단 접근성 향상과 물류 효율화가 기대된다.
-https://www.yna.co.kr/view/AKR20261030071000054
+**부산해상풍력발전, 지역 복지관과 주민 복지증진 협약 체결**
+다대포 해상풍력 사업자인 부산해상풍력발전이 지역 종합사회복지관들과 업무협약을 맺었다. 이들은 지역 주민들의 복지 향상과 상생을 위한 협력 사업을 추진하기로 뜻을 모았다.
+https://www.yna.co.kr/view/AKR20261102045600051
 
-**포스코노조, 7일 임금교섭 잠정 합의안 찬반투표 진행**
-한국노총 포스코노동조합이 도출된 임금교섭 잠정 합의안에 대해 오는 7일 전체 조합원을 대상으로 찬반투표를 실시한다.
-https://www.yna.co.kr/view/AKR20261101014100053
+**청주시, 노후 도시공원 4곳 맞춤형 테마공원으로 재정비**
+청주시가 조성된 지 오래된 도시공원 4곳을 어린이와 노인 등 이용 대상에 맞춘 테마공원으로 새단장한다. 시민들이 안전하고 편리하게 이용할 수 있도록 순차적으로 정비를 진행할 계획이다.
+https://www.yna.co.kr/view/AKR20261102045300064
 
-**시내버스 급정거로 승객 사망…운전기사 항소심서도 집유**
-갑작스러운 정차로 버스 내 승객을 넘어뜨려 사망에 이르게 한 시내버스 운전기사가 항소심에서도 금고형의 집행유예를 선고받았다.
-https://www.yna.co.kr/view/AKR20261029120500055
+**말다툼 중 만삭 아내 폭행한 30대 남편 경찰 입건…접근금지 조치**
+게임 문제로 말다툼을 하다 만삭의 임신부 아내를 폭행한 30대 남성이 경찰에 체포됐다. 경찰은 피해자 보호를 위해 피의자에 대한 접근금지 등 긴급임시조치를 취했다.
+https://www.yna.co.kr/view/AKR20261102038400065
 
-**유튜브서 전 교인 허위 사생활 유포한 목사 벌금형**
-온라인 방송을 통해 과거 교인의 사생활에 관한 허위 사실을 유포하고 모욕한 목사에 대해 법원이 벌금형을 선고했다.
-https://www.yna.co.kr/view/AKR20261030084800051
+**해양과학기술원, 공해 생물다양성 보전 위한 국제 해양 훈련센터 운영**
+한국해양과학기술원이 BBNJ 협정 발효에 대응해 국제 해양 전문훈련센터 가동에 나선다. 센터를 통해 공해상의 해양생물다양성 보전에 필요한 인재를 양성하고 국제적인 협력을 도모할 예정이다.
+https://www.yna.co.kr/view/AKR20261102043600051
 
 ## 🎭 문화
 
-**박경리 작가 탄생 100주년…하동 평사리 방문객 증가**
-대하소설 '토지'의 무대인 하동 평사리에 박경리 작가 탄생 100주년을 맞아 방문객 발길이 이어지고 있다. 올해 방문객 수는 전년 대비 4.8% 증가했다.
-https://www.yna.co.kr/view/AKR20261030124300052
+**AI가 구현한 '임권택 스타일' 영화 공개…2026 대한민국예술원 영화전 개막**
+대한민국예술원이 서울영화센터에서 영화전을 열고 생성형 AI로 임권택 감독의 연출 스타일을 재해석한 작품 등을 선보인다. 이번 행사에서는 한국 영화사를 대표하는 예술원 회원들의 작품과 연계 프로그램도 함께 진행된다.
+https://www.yna.co.kr/view/AKR20261102043400005
 
-**KF, 한불 수교 140주년 행사서 한국 VR 작품 선보여**
-한국국제교류재단(KF)이 한불 수교 140주년 기념 프로젝트 '2026 디지털 노벰버'를 통해 국내 우수 VR(가상현실) 창작 작품들을 선보인다.
-https://www.yna.co.kr/view/AKR20261030161400371
+**홍콩관광청, 영화 촬영지 따라 떠나는 '홍콩 굿테이크' 공개**
+홍콩관광청이 유명 영화와 드라마 속 배경이 된 장소들을 중심으로 구성한 여행 테마 '홍콩 굿테이크'를 발표했다. 영화 속 장소를 방문하고자 하는 여행객들에게 차별화된 관광 코스를 제시한다.
+https://www.yna.co.kr/view/AKR20261102043500542
 
-**해남군, 전라우수영 역사적 가치와 활용 학술대회 개최**
-전라남도 해남군이 오는 6일 전라우수영의 역사적 가치를 재조명하고 향후 복원 및 활용 방안을 모색하는 학술대회를 진행한다.
-https://www.yna.co.kr/view/AKR20261029159400054
+**세븐틴 유닛 정한X조슈아, 영종도서 2만 5천 관객과 단독 공연 성료**
+그룹 세븐틴의 유닛 정한X조슈아가 인천 영종도 인스파이어 아레나에서 열린 단독 공연을 성공적으로 마쳤다. 사흘간 열린 이번 콘서트에는 총 2만 5천 여 명의 팬들이 찾아 성원을 보냈다.
+https://www.yna.co.kr/view/AKR20261102038800005
 
-**CU, 아이돌 리센느 원이와 협업한 '덕연이 딸 도시락' 출시**
-편의점 CU가 걸그룹 리센느의 멤버 원이와 협업해 기획한 신제품 '덕연이 딸 도시락' 2종을 새로 출시했다.
-https://www.yna.co.kr/view/AKR20261101011500030
+**'극장판 치이카와', 4주 연속 주말 박스오피스 1위…누적 258만 명**
+일본 애니메이션 '극장판 치이카와: 인어 섬의 비밀'이 주말 극장가에서 4주 연속 흥행 정상을 유지했다. 현재 누적 관객 수 258만 명을 기록하며 장기 흥행을 이어가고 있다.
+https://www.yna.co.kr/view/AKR20261102035800030
 
-**현대백화점, 제41회 어린이 그림그리기 대회 수상작 특별전**
-현대백화점이 오는 22일까지 현대프리미엄아울렛 스페이스원에서 '제41회 어린이 그림그리기 대회' 주요 수상작을 선보이는 특별 전시를 연다.
-https://www.yna.co.kr/view/AKR20261101014600030
+**컬리, 연중 최대 할인 행사 '블랙위크' 진행…2천여 상품 최대 할인**
+리테일 테크 기업 컬리가 11월 9일까지 연중 최대 규모 프로모션인 '블랙위크'를 개최한다. 식품, 뷰티, 리빙 등 다양한 카테고리의 2,000여 개 상품을 특가로 판매한다.
+https://www.yna.co.kr/view/AKR20261102035800030
 
 ## 🇺🇸 미국경제
 
-**뉴욕증시, AI 매도세 및 중간선거·실적 발표 주시**
-AI 테마에 대한 투자 우려로 빅테크 기술주 변동성이 커지며 뉴욕증시가 주춤한 모습을 보였다. 투자자들은 이번 주 예정된 미국 중간선거와 고용 지표, 주요 기술 기업의 실적 발표를 주시하고 있다.
-https://news.google.com/rss/articles/CBMidEFVX3lxTE5HS1Vva3dsNkc4MF9kNUtTWlJ4SHpxQnUxd1VYUDU3TnVucC1oRW0wdGRoZnVTeUU4Z0t5Y1pIUDJBU3c2NlFBdll4NV9CQXRZZ1R3ZFVjV2tEQkFqOE9laXgyRW1MYTlhSWhmZFU1YzdsMW1O?oc=5
+**인텔·AI 실적 우려에 뉴욕증시 급락…나스닥 2.86% 하락 마감**
+인텔의 실적 부진과 AI 산업 투자 수익성에 대한 경계감이 커지며 뉴욕증시 3대 지수가 일제히 하락했다. 특히 대형 기술주 중심의 나스닥 지수가 2.86% 급락하며 장을 끝마쳤다.
+https://news.google.com/rss/articles/CBMiYEFVX3lxTFA5X3M3X1hWZFJCLTVpWFc3U2xlUG1EV2hUejY2bXl5RVhFYmRhMDhjZUw4R0NwTWkwbE05aHU0d2xfWG9Sck43c0xGQTItMFZTMS1zSnlBR21JN3Y4RDhiRw?oc=5
 
-**美 연준 "고금리 장기화, AI 분야 투자에도 영향"**
-미국 연방준비제도(Fed)가 유지 중인 고금리 기조가 최근 주목받는 인공지능(AI) 산업 투자에도 실질적 부담으로 작용하고 있다고 분석했다. 이에 따라 기술 기업들의 자금 조달 여건 변화가 주목된다.
-https://news.google.com/rss/articles/CBMiVEFVX3lxTE5DaDhlZGptU3cwRWNKTkthX1F5cmJTd1hJRGpUc1RWSkhUS25leDRPVkd4ZkQ2Z2JKNkJlMndid091Y2I2ZmEzbHNJVkp1LTBkNEZ0aQ?oc=5
+**美 중간선거 및 애플·AMD 실적 발표 등 '슈퍼 위크' 돌입**
+이번 주 뉴욕증시는 미 중간선거 향방과 고용보고서 발표, 애플 및 AMD 등 주요 기업들의 실적 공개가 예정되어 있다. 굵직한 이벤트들이 집중됨에 따라 증시 변동성 확대가 예상된다.
+https://news.google.com/rss/articles/CBMihwFBVV95cUxNM3Q0bm1jS2ZLY192U3NCNkJmei0xT0xhMTktN1NPQm54MGJCS1VUNk9wSUY1YTZsUTlmSXJsMXFFMjdXWTMyNVRVMk9TU2JmenNhLVZQNTUzWVN6Ykp4ZFJlVDFBaTljZUNwajRlc1_iU0lmQkdldG9qN0RVNmZZdEdpdjZubUU?oc=5
 
-**식어가는 일자리 지표…대미 투자 기업 조달비용 셈법 복잡**
-미국의 고용 지표가 둔화 조짐을 보이는 가운데 연준의 고용 시장 평가와 금리 향방을 두고 시장의 해석이 엇갈리고 있다. 미국 현지 투자를 추진하는 기업들의 자금 조달 전략도 한층 복잡해질 전망이다.
-https://news.google.com/rss/articles/CBMihwFBVV95cUxNVlI5UHJKYlRLd2c2NzUyNm5UWEV2UWFWUjB6dm9RaEE3RlE0bVVhU0N2dVR2d191YnBjOU0tV21ZZmJrNE1lT0FTcldSY3VUZmNOYkJvNkhwbVY0WnY0cnRDQ2l4TFRjSjNOazljNzlGNVBhS0h4NDVVRi1DbHpoTmhsNHNWY0U?oc=5
+**美 연준 금리 동결 발표…지수 상방 압력 작용**
+미국 연방준비제도(Fed)가 기준금리를 현 수준에서 동결하기로 결정했다. 통화정책 불확실성이 일부 해소되면서 장중 주요 지수가 상승세를 보이기도 했다.
+https://news.google.com/rss/articles/CBMidkFVX3lxTE9ubWpQbTZKRThpcnY0WmFGY0ZwQ3RlOUFpNUx3My1hZ3p2ay1Zc0dvbnh4RVRsRWVmOG9jSmltd2V3UXV6NVM5N2UwZDQ3NnkxUnltTUJDeVR3NjFqZVlFNUJ3WUJYR1NpdzNQM0UwaHgtS215aFE?oc=5
 
-**AI 수익성 의구심에 뉴욕증시 시가총액 대폭 감소**
-AI 관련 대규모 투자가 단기 수익성으로 연결되지 않을 수 있다는 경계감이 퍼지며 뉴욕증시 내 시가총액 1조 달러가량이 증발했다. 기업별 실적에 따라 주가 차별화가 심화되고 있다.
-https://news.google.com/rss/articles/CBMiWkFVX3lxTE9zSVE0eXl0TkdYZjlHNk5RajNjYnhpRTBmN3owTEg3TjJ4cmNfYzJKcUhNZXcwVGhYRXZwMlVNcERyQ2k0b1BIbXE5VXVsV3o2LV9UYmtXREdBUQ?oc=5
+**CJ제일제당, 퀴진케이 출신 셰프의 한식 다이닝 '오닐' 오픈**
+CJ제일제당의 한식 셰프 육성 프로젝트인 '퀴진케이' 출신 셰프들이 신규 한식 다이닝 '오닐'을 선보였다. 젊은 감각으로 재해석한 한식 메뉴를 선보이며 미식 시장 공략에 나선다.
+https://news.google.com/rss/articles/CBMiWkFVX3lxTFBBVVByWF9aS1BQbklSc0VvY3l6Q0VtZ2Jxb1BsbV91aFIxMEJrN0pVLV9TLS1CWE9kWkFucjFVQjlrRHV2NV9pc0k5Z1p5T0pjanFabnJXbFRSUQ?oc=5
 
 ## 🏠 부동산
 
-**서울 아파트 월세 거래 비중, 전세 거래 첫 추월**
-서울 아파트 시장에서 월세 거래량이 전세 거래를 넘어서며 '월세화' 현상이 가속화되고 있다. 높은 금리와 전세 사기 우려 등이 영향을 미친 것으로 풀이된다.
-https://news.google.com/rss/articles/CBMiZ0FVX3lxTE52X2tCczdacjFlcUVUWVN5QUhVREk0UkV0OGNfUFpJTkRJamVzbkphbV9kQlBmTEJoSmVVYUd3Rm9SVWljMmxCTDFON1NDR3FoYldCM2xzdUNQeGF5a1RET251ZzkwLXM?oc=5
+**서울 재개발·재건축 1200곳 정비사업 추진 본격화**
+서울 시내 재개발 및 재건축 추진 사업지 1,200여 곳이 정비 절차에 박차를 가하면서 부동산 시장의 관심이 고조되고 있다. 이번 사업 추진으로 도심 내 주택 공급 확대 기대감이 증대되는 분위기다.
+https://news.google.com/rss/articles/CBMiWkFVX3lxTE9fVWZDTWhiRkxUWWdtckxaTWF2X1hBSHN6N0N6WHZPcGRVU0FhbFJVY3lrNzFFN19IVHJMNmllc09LdjFid3BnMHhGQjVDRjRZOU45NU1rSVRVdw?oc=5
 
-**서울 중하위권 아파트 전월세 가격 상승세 양상**
-서울 노원구 등 중하위권 지역을 중심으로 전세와 월세 보증금이 지속적인 오름세를 기록하고 있다. 공급 부족과 매매 대기 수요 증가가 주요 원인으로 꼽힌다.
-https://news.google.com/rss/articles/CBMiYEFVX3lxTE42N21uSUxIenNTb09kYkxFX1ZCOVE2ZkY5b1RPNGZUTXRwblV5MmFRSHNBWUNwc0laWC1Kek5kejhzZHNSZ0VGbURjN2VJSnM2aDltQmxlSVpwV0hYejk1dtIBYEFVX3lxTE42N21uSUxIenNTb09kYkxFX1ZCOVE2ZkY5b1RPNGZUTXRwblV5MmFRSHNBWUNwc0laWC1Kek5kejhzZHNSZ0VGbURjN2VJSnM2aDltQmxlSVpwV0hYejk1dg?oc=5
+**오피스텔 전세가율 85% 육박…전세사기 우려 다시 점증**
+전국 오피스텔 평균 전세가율이 85%선에 다다르며 깡통전세 및 전세 사기 피해에 대한 우려가 다시 늘어나고 있다. 이에 따라 임차인 보호를 위한 모니터링 강화의 필요성이 제기된다.
+https://news.google.com/rss/articles/CBMidkFVX3lxTFBsc2ZMZ01ZSFg5TjUxblFJUnVJOGE0N2pabFE3MXpFdU02ZlFTUUU0UlpXRjlaUHpYYXJxV253S3FoVmxCaGxtcmpRRnplSGVVNW1lRmFWQ0JMZ3lrcjBiUXhGR3kweXRrUG9uZ2QyMUtOOTB6NlHSAWZBVV95cUxNZDlxZ2h2UU5jZnEzYkdNaC11UGkxWEH0A3V5SUJRUEdXTUZrMkRickdBMVpDRm1VZDJ3eWJtaWZZZzBIYzI2bnBWNmtYSEJHd1lMT25VLVZjeXdaeXF5TWtXSUE?oc=5
 
-**전국 청약통장 가입자 감소 속 서울만 유일하게 증가**
-전국적으로 청약통장 해지가 이어지며 가입자 수가 감소하는 반면, 서울 지역 청약통장 가입자 수는 오히려 늘어난 것으로 나타났다. 분양 시장 양극화가 원인으로 분석된다.
-https://news.google.com/rss/articles/CBMiZEFVX3lxTE1ZQU1ZWWNOWkExbTd6WTJ0MFNpVGYyQUw5UUhySldBalRmQzUzMnRKOE01MXRvVV9yT2h0cWRYbi0zbHlLb1VrVzNrYUhYQ0JWOW1UVzU1dzNJSFlzU0RDYnRpQmM?oc=5
+**강동 올림픽파크포레온 전세가 급등…갱신청구권 포기 세입자 증가**
+대단지 입주를 앞둔 강동구 올림픽파크포레온의 전세 시세가 급등 양상을 보이고 있다. 높아진 전세보증금 부담으로 인해 계약갱신청구권 사용을 포기하는 기존 세입자 사례가 늘고 있다.
+https://news.google.com/rss/articles/CBMidEFVX3lxTE5sRmcxem9SWGJnUXo5OHFDU0FVWENVLXpWYlZXSGZWRHN6WkNpZm1XdllMeTNoeHAxRC1BVjJlWEh1X1M2VGFheThVemxURFRwSDZNSXM2aHRTRVh2QWFkMmw2T04xUHZIVk9Hd3VuZjhFRnZV?oc=5
 
-**경기도, AI 모니터링 시스템으로 전세사기 차단 주력**
-경기도가 공인중개업소 7,000곳에 인공지능(AI) 기반 전세사기 예방 시스템 지원에 나선다. 의심 거래를 사전 감지해 피해를 예방하겠다는 취지다.
-https://news.google.com/rss/articles/CBMiWkFVX3lxTE1wMmdvUzJhSmEtaS1SRUx1QVlWVVRXbl91SmdBdksyV19DdmloNmRXV1ZaeWxHVVB4cWJpNDhSUjRvX2t4SXJTQWhJWHlEcmJHLTUyUE5SR0ZNQQ?oc=5
+**계양신도시 첫 민간분양 '카이브 유보라' 1110세대 청약 개시**
+반도건설이 계양신도시 내 첫 민간분양 단지인 '카이브 유보라' 총 1,110세대의 청약 접수를 시작했다. 신도시 내 초기 입지 조건과 향후 상권 형성 가능성에 대해 수요자들의 반응이 엇갈리고 있다.
+https://news.google.com/rss/articles/CBMibEFVX3lxTFBMVVFKYmlGWkZVcnpOZjNTZm14R1lDWHBwSmM2ZHFRQUR5Z2RJSjUxS3NrTlhZODJYT0U2N0tpTG1XSWt4bUtzajQ0aktFbVlscktWM0pMeEoteElBdDhkcmlzbnk3TnBnZWVMVw?oc=5
 
-**이번 주 '화성 향남 롯데캐슬 시그니처' 등 전국 7곳 청약 접수**
-이번 주 수도권을 포함한 전국 7개 단지에서 청약 접수가 진행된다. 대표적으로 '화성 향남 롯데캐슬 시그니처' 등이 분양 일정에 돌입한다.
-https://news.google.com/rss/articles/CBMicEFVX3lxTE9yNzhrZFdaaXdUakpVazN2V256aUdBVDg1MURfemQ1UmtyLWNUT2o3anRXb21YTFQ1bXZINFU5Q094Z2U1ODE1VXBYSnBlc3Z1ZEh2bWh2b201TVA2ekZuUVZha1A1bHNRZnRvM2hrVm8?oc=5
+**서울 청약시장 양극화 심화…강남권 시세 차익 기대감 고조**
+서울 분양 시장에서 입지조건과 분양가상한제 적용 여부에 따른 쏠림 현상이 심화되고 있다. 큰 폭의 시세 차익이 예상되는 강남권 단지에는 청약 신청자가 몰리는 반면 외곽 지역은 상대적으로 정체된 모습을 보인다.
+https://news.google.com/rss/articles/CBMigAFBVV95cUxNdk8ydlVlYU1vMWtLVnlheUtxeFZzallfa1I0MUVyOHQ2TlJ0alZKVHo5WDFrRHpmV25uWHltT0FQRHpkSWR1QmQ2VEFCSDdoZnJkTHpMMVdNVzE1ei1sa2RPM1RWbTdEcjJ0c0pDMU85S0RoVms5cE56ZFF3RzR4Rg?oc=5
 
 ---
 연합뉴스 RSS 기반 · 자동 생성 브리핑
