@@ -1,138 +1,180 @@
-# ☀️ 아침 뉴스 브리핑 — 2026년 11월 07일
+# ☀️ 아침 뉴스 브리핑 — 2026년 11월 08일
 
 ## 📌 종합
 
-**수능 앞두고 AI 안경으로 인한 부정행위 우려 확산**
-2027학년도 대학수학능력시험을 앞두고 인공지능(AI) 기능이 탑재된 스마트안경을 활용한 부정행위 우려가 제기되고 있습니다. 감독관과 전담 요원이 배치될 예정이나 시험 현장의 불안감은 계속되고 있습니다.
-https.www.yna.co.kr/view/AKR20261106116500061
+**"소방서인데 물품 사세요"…경남서 소방 사칭 사기·피해 급증**
+최근 경남 지역에서 소방기관을 사칭하거나 정부 지원을 빙자해 소방용품 구매 및 선입금을 유도하는 사기 행각이 기승을 부리고 있습니다. 경남소방본부는 소방서에서 직업적으로 물품 구매나 돈을 요구하는 경우는 없다며 도민들에게 주의를 당부했습니다.
+https://www.yna.co.kr/view/AKR20261108015700052
 
-**강원 및 경북 일부 지역 건조주의보 발효**
-기상청은 7일 오전 10시를 기해 경북 울진평지와 강원 강릉·삼척·동해 평지 및 강릉·양양·고성·속초 산지에 건조주의보를 발효했습니다. 해당 지역은 대기가 매우 건조하여 화재 예방에 각별한 주의가 요구됩니다.
-https.www.yna.co.kr/view/AKR20261107024900527
+**김정우 靑 국정상황실장 사의…"국민주권정부 성공 위해 노력"**
+김정우 청와대 국정상황실장이 사의를 밝힘에 따라 교체 절차가 진행 중인 것으로 알려졌습니다. 김 실장은 국민주권정부의 성공을 위해 최선을 다했다는 뜻을 전했습니다.
+https://www.yna.co.kr/view/AKR20261108015400001
 
-**부산시의회, 청소년 대중교통 이용요금 지원 추진**
-부산시의회에서 지역 청소년의 대중교통 이용요금을 지원하는 조례안 발의가 추진됩니다. 이를 통해 청소년의 이동권 보장과 대중교통 이용 활성화를 도모할 계획입니다.
-https.www.yna.co.kr/view/AKR20261106128200051
+**토잉카 바퀴 끼여 숨진 노동자…업체 대표 '중처법' 무죄**
+항공화물 하역업체 노동자가 견인 차량 수리 중 바퀴에 끼여 숨진 사고와 관련해 중대재해처벌법 위반 혐의로 기소된 업체 대표가 1심에서 무죄를 선고받았습니다. 법원은 경영책임자가 의무를 이행하지 않은 것과 사망 사고 사이에 직접적인 인과관계를 단정하기 어렵다고 판단했습니다.
+https://www.yna.co.kr/view/AKR20261106127100065
 
-**고용노동부, 중대재해 반복 기업에 엄중 감독 시동**
-김영훈 고용노동부 장관은 전국 49개 고용노동 관서장을 소집해 산업안전 대응 강화를 위한 긴급 기관장 회의를 개최했습니다. 노동부는 중대재해가 반복해서 발생하는 기업에 대해 엄중한 감독과 조치를 시행할 방침입니다.
-https.www.yna.co.kr/view/AKR20261106183900530
+**[AI 위클리] 말투로 보이스피싱 잡고 공부하라 전화까지…AI의 진화**
+인공지능(AI) 기술이 진화하면서 상대방의 말투와 말하는 속도를 분석해 보이스피싱 위험을 감지하는 서비스가 개발되었습니다. 또한 개인의 학습 일정을 관리하고 직접 전화를 걸어 공부를 유도하는 맞춤형 AI 비서 기능도 구현되고 있습니다.
+https://www.yna.co.kr/view/AKR20261107024400017
 
-**성보 품은 주요 사찰, 가을 단풍 명소로 주목**
-가을철을 맞아 전국 주요 사찰과 메타버스 공간이 일상의 힐링을 찾는 방문객들에게 인기를 끌고 있습니다. 성보문화재와 단풍이 어우러진 산사에서 가을 분위기를 만끽하려는 발길이 이어지고 있습니다.
-https.www.yna.co.kr/view/AKR20261107014800005
+**춘천시, 노인전문병원 운영 수탁기관 공개 모집**
+강원 춘천시가 춘천시노인전문병원의 효율적 운영과 의료 서비스 향상을 위해 수탁 운영자를 공개 모집합니다. 모집 대상은 공공보건의료 기관이나 노인질환 관련 전문성을 갖춘 의료법인 등입니다.
+https://www.yna.co.kr/view/AKR20261108015100062
 
 ## 💰 경제
 
-**다음 주 금융권 가계대출 동향 발표 예정**
-한국은행과 금융당국이 다음 주 지난달 금융권 가계대출 현황을 발표할 예정입니다. 최근 가계대출 증가세의 변화 여부에 금융권의 관심이 집중되고 있습니다.
-https.www.yna.co.kr/view/AKR20261107017800002
+**"제조업 파업에 근로손실일수 45% 증가…N% 성과배분 요구 확산"**
+올해 노사 분규 건수는 작년보다 감소했으나 자동차와 조선 등 주요 제조업 파업의 영향으로 근로손실일수가 45% 증가했습니다. 노조 측의 영업이익 연계 성과배분 요구가 확산하면서 주요 사업장의 노사 갈등이 심화된 것으로 분석됩니다.
+https://www.yna.co.kr/view/AKR20261108013000003
 
-**미래에셋증권 해킹으로 3만 9천여 명 정보 유출**
-미래에셋증권에서 해킹 사고가 발생해 고객 3천800여 명과 임직원 3만5천여 명의 정보가 유출됐습니다. 금융권에서 연쇄 해킹 사고가 이어지면서 보안 대책 재점검 목소리가 커지고 있습니다.
-https.www.yna.co.kr/view/AKR20261107014452008
+**광주송정역·금호타이어공장 일대 '반도체 관문도시' 조성**
+전남광주통합특별시가 광주송정역과 금호타이어 광주공장 이전부지 일대를 394만㎡ 규모의 반도체 관문도시로 조성하기로 했습니다. 이 지역은 교통망과 연계한 첨단산업 및 상업 거점으로 개발될 예정입니다.
+https://www.yna.co.kr/view/AKR20261106086200054
 
-**금융연 "금융사 대주주 심사 시 평판·전문성도 반영해야"**
-금융연구원은 금융회사 대주주 적격성 심사 시 단순 법 위반 이력이나 재무 건전성 외에도 평판, 경험, 전문성 등 정성적 기준을 함께 반영해야 한다고 제언했습니다.
-https.www.yna.co.kr/view/AKR20261106166300002
+**'232억 펀드 불완전판매' 증권사 임원 감봉…법원 "과도한 제재"**
+펀드 불완전판매와 관련해 감독 책임으로 감봉 처분을 받았던 삼성증권 전 임원이 징계 취소 소송에서 승소했습니다. 법원은 내부통제기준 마련 의무 위반에 대한 금융당국의 과중한 제재 조치가 과도하다고 판단했습니다.
+https://www.yna.co.kr/view/AKR20261106182900004
 
-**부산 화장품 수출액 3억 달러 돌파…전년 대비 1.5배 증가**
-글로벌 K-뷰티 시장의 지속적인 성장에 힘입어 올해 9월까지 부산 지역 화장품 수출 실적이 전년 동기 대비 큰 폭으로 늘어난 것으로 나타났습니다.
-https.www.yna.co.kr/view/AKR20261106030800051
+**무보, '수출성장 플래닛' 기업 21곳 신규 선발…맞춤형 지원**
+한국무역보험공사가 중소·중견기업의 해외 진출을 돕는 '수출성장 플래닛' 지원 대상 기업 21곳을 신규 선발했습니다. 선정된 기업들은 금융 지원 및 컨설팅 등 맞춤형 혜택을 제공받게 됩니다.
+https://www.yna.co.kr/view/AKR20261108012300003
 
-**철도역 입점 매장, 요금 인상 시 평균 12.5% 올려**
-철도역사에 입점한 커피전문점 및 식음료 매장들이 요금을 인상할 때 한 번에 평균 12.5%를 올린 것으로 조사됐습니다.
-https.www.yna.co.kr/view/AKR20261106149100063
+**경기 아파트값 상승률 8주째 서울 상회…주도지역 서울→경기**
+서울 아파트 매매가격 상승세가 강남권 약세로 둔화되는 동안 경기 지역 아파트값 상승률이 8주 연속 서울을 앞질렀습니다. 경기 남부권을 중심으로 한 수요 유입이 전체 가격 흐름을 이끌고 있는 것으로 나타났습니다.
+https://www.yna.co.kr/view/AKR20261108006100003
+
+## 🌍 국제
+
+**日 시즈오카현 서부서 규모 5.7 지진…"2∼3일간 큰 지진 주의"**
+일본 시즈오카현 서쪽 지역에서 규모 5.7의 지진이 발생하여 일부 지역에 진도 4의 진동이 감지되었습니다. 일본 기상청은 향후 2~3일간 유사한 규모의 추가 지진이 발생할 수 있다며 주의를 당부했습니다.
+https://www.yna.co.kr/view/AKR20261108001451530
+
+**이스라엘 야권 리더 아이젠코트에 연정구성권…네탄냐후 실각 위기**
+지난달 총선에서 승리한 이스라엘 야당 야샤르당의 가디 아이젠코트 대표가 차기 연립정부 구성권을 부여받았습니다. 이에 따라 베냐민 네타냐후 총리의 장기 집권이 끝나고 실각할 가능성이 커졌습니다.
+https://www.yna.co.kr/view/AKR20261108012400009
+
+**농담일까 진심일까…트럼프 "UFC회장에 백악관 대변인 제안"**
+도널드 트럼프 미국 대통령이 데이나 화이트 UFC 회장에게 백악관 대변인직을 제안했다고 밝혔습니다. 이에 대해 정계와 언론에서는 실제 인선 타진인지 특유의 농담인지에 대한 해석이 엇갈리고 있습니다.
+https://www.yna.co.kr/view/AKR20261108003252071
+
+**폴란드 총격범 자택서 가족 추정 시신 3구 발견**
+폴란드 크라쿠프 도심에서 총기를 난사해 6명의 사망자를 낸 총격범의 자택에서 가족으로 추정되는 시신 3구가 추가 발견되었습니다. 당국은 범행 동기와 추가 인명 피해 경위를 조사 중입니다.
+https://www.yna.co.kr/view/AKR20261108008300009
+
+**美민주 주지사에 손내민 IT업계…코어위브 "데이터센터 협력을"**
+미국 중간선거 이후 데이터센터 건설 규제 우려가 떠오르자 클라우드 기업 코어위브가 민주당 소속 주지사들에게 협력을 요청했습니다. IT업계는 데이터센터 인프라 확충이 지역 경제와 기술 경쟁력에 필수적임을 강조하고 있습니다.
+https://www.yna.co.kr/view/AKR20261108006900072
 
 ## 🏭 산업
 
-**애플 첫 폴더블 스마트폰 '아이폰 듀오' 출시**
-애플의 첫 폴더블 스마트폰인 '아이폰 듀오'가 출시되어 시장의 관심을 모으고 있습니다. 대화면으로 사용자 편의성은 높아졌으나 기존 사용자 경험과의 차별화는 과제로 지목됩니다.
-https.www.yna.co.kr/view/AKR20261106072300017
+**현대차·기아, 루크 동커볼케 CCO 디자인 아카이브 전시**
+현대차·기아가 세계적인 자동차 디자이너 루크 동커볼케 최고 크리에이티브 책임자의 디자인 철학을 조명하는 아카이브 전시를 개최합니다. 이번 전시에서는 브랜드 디자인 혁신을 이끈 주요 작품과 작업 과정이 공개됩니다.
+https://www.yna.co.kr/view/AKR20261108014400003
 
-**신약 개발 경쟁 속 정부 R&D 투자액 2년 연속 감소**
-제약·바이오 분야의 글로벌 신약 개발 경쟁이 치열해지는 가운데, 정부의 신약 관련 연구개발(R&D) 투자액이 2년 연속 줄어든 것으로 나타났습니다.
-https.www.yna.co.kr/view/AKR20261106161400017
+**CJ푸드빌 빕스, 잠실에 '그릴 다이닝' 매장 개점…연내 8곳 확대**
+CJ푸드빌 빕스가 서울 잠실 롯데캐슬플라자에 '그릴 다이닝' 특화 매장을 새로 오픈했습니다. CJ푸드빌은 프리미엄 외식 수요에 맞춰 이러한 특화 매장을 연내 8곳까지 확대할 계획입니다.
+https://www.yna.co.kr/view/AKR20261108014200030
 
-**반도체 호조로 주요 지자체 법인지방소득세 대폭 증가 전망**
-삼성전자와 SK하이닉스 등 주요 반도체 기업의 실적 개선에 따라 평택, 용인 등 관련 사업장을 둔 지자체의 내년 법인지방소득세 세수가 크게 늘어날 것으로 예상됩니다.
-https.www.yna.co.kr/view/AKR20261106129700061
+**두산연강외과학술상에 김창현 전남대·이상훈 삼성서울병원 교수**
+두산연강재단이 '2026 두산연강외과학술상' 시상식을 열고 김창현 전남대 교수와 이상훈 삼성서울병원 교수를 수상자로 선정했습니다. 두 교수는 외과 의학 발전에 기여한 우수한 연구 논문 성과를 인정받았습니다.
+https://www.yna.co.kr/view/AKR20261108013800003
 
-**바닷물 온도 상승에 대응하는 기후변화 수산 연구 박차**
-해수면 온도 상승 등 기후변화에 대응하기 위해 해양수산 분야의 연구개발이 강화되고 있습니다. 바다 생태계 변화와 수산 자원 보존을 위한 다양한 연구가 진행 중입니다.
-https.www.yna.co.kr/view/AKR20261105079700051
+**경기국제공항 용역 재개한 추미애, 지자체 찬반 논의 재점화**
+경기도가 공정성 논란으로 중단됐던 경기국제공항 후보지 분석 연구용역을 재개하기로 했습니다. 이에 따라 공항 유치를 둘러싼 인근 지자체 간의 찬반 갈등과 논의가 다시 활성화될 전망입니다.
+https://www.yna.co.kr/view/AKR20261106118900061
+
+**이랜드복지재단, 서울역 무료급식소 '아침애만나' 환경 개선**
+이랜드복지재단이 서울디자인재단과 협력해 서울역 노숙인 무료급식소 '아침애만나'의 내부 시설 환경 개선 공사를 완료했습니다. 노후화된 식당 시설을 개보수하여 위생적이고 안전한 급식 환경을 마련했습니다.
+https://www.yna.co.kr/view/AKR20261108015000030
 
 ## ⚖️ 사회
 
-**다음 주 전국 대체로 맑고 평년 기온 유지**
-다음 주 월요일 새벽 전남과 제주 지역에 비가 내린 뒤 전국이 대체로 맑은 날씨를 보이겠습니다. 기온은 평년과 비슷하거나 약간 높은 수준을 유지할 전망입니다.
-https.www.yna.co.kr/view/AKR20261107020200530
+**민선 9기 경남도정 출범 후 출연기관장 인사 검증 '2라운드'**
+민선 9기 경상남도정이 출범한 이후 주요 산하 출자·출연기관장 임용후보자들에 대한 도의회의 인사 검증이 본격적인 2라운드에 들어갑니다. 이번 인사 검증에서는 후보자들의 업무 전문성과 도덕성이 집중 점검될 예정입니다.
+https://www.yna.co.kr/view/AKR20261106048500052
 
-**성남시, 내년 장애인 공공일자리 252명 제공**
-경기 성남시가 내년 39억 원의 예산을 투입해 장애인 252명에게 공공일자리를 제공합니다. 이를 통해 장애인의 사회 참여와 자립 지원을 도모할 계획입니다.
-https.www.yna.co.kr/view/AKR20261106164400061
+**"소방서인데 물품 사세요"…경남서 소방 사칭 사기·피해 급증**
+경남 지역에서 소방서나 정부 지원을 빙자해 소방용품 구매 및 선입금을 요구하는 사기 피해가 잇따르고 있습니다. 소방 당국은 소방서가 직접 물품을 판매하는 경우는 없다며 각별한 주의를 당부했습니다.
+https://www.yna.co.kr/view/AKR20261108015700052
+
+**토잉카 바퀴 끼여 숨진 노동자…업체 대표 '중처법' 무죄**
+인천지법은 하역 작업 중 견인 차량 바퀴에 끼여 사망한 노동자 사건과 관련해 중대재해처벌법 위반 혐의로 기소된 업체 대표에게 무죄를 선고했습니다. 재판부는 사업주가 의무를 이행하지 않은 것과 사고 간의 인과관계를 단정하기 어렵다고 보았습니다.
+https://www.yna.co.kr/view/AKR20261106127100065
+
+**춘천시, 노인전문병원 운영 수탁기관 공개 모집**
+강원 춘천시가 시립 노인전문병원의 전문적 관리와 운영을 담당할 수탁기관을 새로 모집합니다. 신청 자격은 노인성 질환 진료에 전문성을 갖춘 의료법인 및 공공보건의료 기관 등입니다.
+https://www.yna.co.kr/view/AKR20261108015100062
+
+**경기국제공항 용역 재개한 추미애, 지자체 찬반 논의 재점화**
+경기도가 일시 중단했던 경기국제공항 후보지 분석 용역을 재개하면서 공항 유치를 둘러싼 시·군 간 찬반 갈등이 다시 부각되고 있습니다. 용역 결과에 따라 지자체 간 입장 차이가 더욱 명확해질 것으로 전망됩니다.
+https://www.yna.co.kr/view/AKR20261106118900061
 
 ## 🎭 문화
 
-**제21회 부산불꽃축제, 광안리 밤하늘 수놓는다**
-제21회 부산불꽃축제가 광안리해수욕장과 이기대, 동백섬 일원에서 열립니다. 화려한 연화와 연출로 부산의 대표 가을 축제를 꾸밀 예정입니다.
-https.www.yna.co.kr/view/AKR20261106109200051
+**'정도전 고향' 논란 속 충북 단양군 홍보물 정비 가시화**
+조선 개국공신 정도전을 지역 대표 인물로 홍보해온 충북 단양군이 출생지 논란이 지속됨에 따라 관련 홍보물을 정비하기로 했습니다. 역사적 고증 결과에 맞춰 관련 안내판과 지자체 홍보 문구를 수정할 예정입니다.
+https://www.yna.co.kr/view/AKR20261106101800064
 
-**서울 출발 당일치기 단풍 여행 '경북 가을한컷' 운행**
-경북문화관광공사가 서울에서 출발해 경북의 대표 단풍 명소를 둘러보는 당일 관광상품을 선보였습니다. 가을철 관광객 유치를 위한 마케팅이 진행 중입니다.
-https.www.yna.co.kr/view/AKR20261107021200053
+**울산소방, '시민 안전 향한 비행' 주제 드론경기대회**
+울산소방본부가 울산대공원에서 소방 드론 운용 역량을 강화하고 시민 안전의식을 높이기 위한 드론경기대회를 개최했습니다. 이번 대회에서는 재난 현장 탐색 및 장애물 극복 등 실전 위주의 경연이 펼쳐졌습니다.
+https://www.yna.co.kr/view/AKR20261106124200057
 
-**강릉 주문진 어르신 16인, 삶 담은 그림 모음집 발간**
-강릉종합사회복지관 주문마루센터의 어르신 작가 16명이 4년간 그린 작품을 모아 화집 '그려보니 좋더라'를 출간했습니다. 어르신들의 삶과 회상이 담긴 결실입니다.
-https.www.yna.co.kr/view/AKR20261106117500062
+**"지하철 타고 바위산으로"…반크, 외국인용 K등산 길라잡이 첫선**
+사이버 외교사절단 반크가 방한 외국인 관광객을 위한 서울 산행 안내 콘텐츠를 공개했습니다. 지하철로 접근 가능한 바위산과 등산 코스를 소개해 외국인들이 언어 장벽 없이 K-등산을 즐길 수 있도록 돕습니다.
+https://www.yna.co.kr/view/AKR20261106139200371
 
-**울산 울주군, 육아용품 대여 서비스 큰 호응**
-울산 울주군 육아종합지원센터에서 운영하는 장난감도서관 육아용품 대여 사업이 지역 학부모들에게 큰 인기를 얻고 있습니다.
-https.www.yna.co.kr/view/AKR20261106065400057
+**LGU+, 수능 시즌 멤버십 혜택 확대…쿠폰 발급 닷새로**
+LG유플러스가 수험생 및 청소년 고객을 위해 수능 시즌 맞춤형 멤버십 프로모션을 진행합니다. 외식, 쇼핑, 문화 등 다양한 분야의 할인 쿠폰 발급 기간을 늘려 혜택을 확대했습니다.
+https://www.yna.co.kr/view/AKR20261107026000017
 
-**충북도, 행정·위치정보 시각화 서비스 '도민생활지도' 설문 실시**
-충북도가 주민 생활에 밀접한 위치정보를 시각화해 제공하는 '도민생활지도' 서비스 개선을 위해 도민 만족도 설문조사를 진행합니다.
-https.www.yna.co.kr/view/AKR20261106157700064
+**[율곡로] '역발상의 힘' 김밥축제…13만 소도시의 유쾌한 성공**
+지방 인구 감소 속에서 한 소도시가 개최한 김밥축제가 13만 명의 방문객을 모으며 성공적인 지역 축제 사례로 주목받고 있습니다. 기존의 전형적인 행사에서 벗어난 유쾌한 역발상 기획이 호응을 얻었습니다.
+https://www.yna.co.kr/view/AKR20261106176400546
 
 ## 🇺🇸 미국경제
 
-**뉴욕증시, 기술주 저가 매수세 유입에 나스닥 1.1% 상승 반등**
-폭락세를 보였던 AI 기술주와 반도체주를 중심으로 저가 매수세가 유입되며 뉴욕증시 주요 지수가 일제히 반등했습니다.
-https://news.google.com/rss/articles/CBMiYEFVX3lxTE8xb3F1aU5RXzhvckgyd3VfQjFTRGFkR1ZaWlZpUTdvQTZKaFEya0tRSUJMaHVEQy1FelhZYWQ0SzMzN0h1SDU0NjhRcjUwN0U0X1c1UlZKQ0RYVGZyTS01QdIBYEFVX3lxTE8xb3F1aU5RXzhvckgyd3VfQjFTRGFkR1ZaWlZpUTdvQTZKaFEya0tRSUJMaHVEQy1FelhZYWQ0SzMzN0h1SDU0NjhRcjUwN0U0X1c1UlZKQ0RYVGZyTS01QQ?oc=5
+**[뉴욕증시-주간전망] 美 인플레 향방은…'AI 풍향계' 코어위브 실적 주목**
+오는 주 뉴욕증시는 소비자물가지수(CPI) 발표와 주요 AI 기업인 코어위브의 실적 발표에 주목할 것으로 보입니다. 인플레이션 둔화 여부와 AI 산업의 실적 지표가 주식시장의 향방을 결정할 핵심 변수가 될 전망입니다.
+https://news.google.com/rss/articles/CBMidEFVX3lxTE1qNTdFV3dxUHk0V2RkNFlqNFVKa05LNHNveWN0VllvdElyVDVibUI0MEo3RnRnaTJGWHh3dnNyeDJHRGhYd1VsUEtEQmtmbDNFWXFWa2hVaU92c2VORFpzTUpRV0UzSnlISndfWEZTMDFVV1k5?oc=5
 
-**미 10월 고용 '깜짝 증가'에 뉴욕증시 급락세 진정**
-미 노동부가 발표한 10월 고용지표가 시장 예상치를 웃돌며 최근의 급락세를 나타내던 증시 심리가 점차 안정세를 되찾고 있습니다.
-https://news.google.com/rss/articles/CBMiW0FVX3lxTE1CZlYwcm1GWE5xTkoyZTRMYTloRXdoT0trVllObmNCTHJZZGZFUE9BWnRLOXg4Ukx4TTFJNjVGMGgyWTJ4MTNySkZOczJqbHc4eTNWWEQzeHFoRzg?oc=5
+**“미국 물가부터 옵션 만기까지”…다음 주 증시 변수, 미리 대비하려면**
+미국의 물가 지표 발표와 만기일이 다가오는 옵션 시장 영향으로 미국 증시의 변동성이 확대될 가능성이 제기됩니다. 투자자들은 금리 향방과 지수 변동 가능성에 유의하며 대응전략을 세우고 있습니다.
+https://news.google.com/rss/articles/CBMiUkFVX3lxTE9VN0hOSEllYm85U1EyTW9uYk5hd01MbEd2UUQ0VnRzb0ZCQ0Z2MHhrV2JSSDhEV1hsb1JsdGU4R1MzV200bEs3Um1YT3FtbTBxanc?oc=5
 
-**트럼프 "인공지능 100% 지지" 발언에 AI 관련주 회복세**
-트럼프 전 대통령이 인공지능 산업에 대한 강한 지지 의사를 밝히면서 관련 기술주들의 투자 심리 개선에 기여한 것으로 풀이됩니다.
-https://news.google.com/rss/articles/CBMiekFVX3lxTE5LQ3hESmttS0QxakV1MWRoQ0ZTWW5XdHJoNHhDU21qanRub29fZ1g5STluMFU5ZnRFSUNPTDc2MlRnZktKN2dwRlRlQ3VtN1FONWR5STQ1M01XanZGLVBpeHJzbXhJUnUwUVZYVkVOSE92WFczdDZfcTVn0gF6QVVfeXFMTi1pSF84RjFFa2hJTnNmdExtcl84SV9vdm5IbjdSR0RXXzgxQzVtalotbFpVY2d0WEt3V2hIcU4tbWZwTU5GZGJ5VE9DWFhXMkJsZTB6U19vc1ZMYnlMZFNjTWczZFhWcnpDc2phWXdkM1NjdnZ6cDV4ZUE?oc=5
+**'블루 쓰나미' 딛고 뉴욕증시 반도체 상승‥국장, 반등 가능할까?**
+선거 결과에 따른 정치적 변수 속에서도 뉴욕증시에서 반도체 관련 기술주들이 상승세를 보였습니다. 이에 따라 국내 증시에서도 반도체 업종을 중심으로 한 반등 가능성에 관심이 쏠리고 있습니다.
+https://news.google.com/rss/articles/CBMieEFVX3lxTE91bklkYl9Ba2VYQi1sREdHNmJvMWxQZkFjVmxPWHliLWNuVFFRRjdhMnUwblFqMUozQWJPa2k5YXJ5d3NBWWlOQ05BQ1BOX1NuNEpMWTlHeHlsVHRiQlRiM0czaEdTRlYzWlVIbi0yN0hHWk1JWlMwT9IBeEFVX3lxTE9xVmpRVE9uQlZ6a1hfcFpOZWF0RUtsT3ZmdUlhYlBqZElJTGc3bEhJY0tOYWluOHBEbHNLM3F3TUNUem5lbVJNZVFCQ0FDNFdubUt4LXA4T3QtOEpfZGtidTFhaS1ZbUU3QVJSdzh4cWpnYlFtaER3OQ?oc=5
 
-**정치적 여파 속 혼조세로 마감한 뉴욕증시**
-정치적 변수와 시장 변동성이 이어진 가운데 뉴욕증시는 지수별로 엇갈린 흐름을 보이며 혼조세로 장을 마감했습니다.
-https://news.google.com/rss/articles/CBMicEFVX3lxTE1VVDUxd3BnNEdfZlJMN0stQmVheWxsT3d6Rmh3Um1qRC1XWHk1X3pORkQycmM3NFBXSnFWczNpUEF5VU5BX2lnX09fZnRQMU1Zc2RJSU9oWU9lYldBaUNpN0ZubDFpNlR2YVBrSjRYQVXSAXRBVV95cUxNemE5WGx6aVgwRVN0NG5pWFFVV0kwekdEUWhkRWx0bHR1Q3ptMXZ3eFVJcVJSdk9mT3p5ZXB5N1YydlFZNlZXVHNYZk1RdEJDRzNUZEpMWThWaWVHU0lHVi11SENvQmtFVVVrWlF0OG9xMzJwOQ?oc=5
+**뉴욕증시 반등, AI 기술주 폭락 후 저가 매수세…나스닥 1.1% 상승**
+최근 AI 관련 기술주들의 주가 급락 이후 저가 매수세가 유입되면서 나스닥 지수가 1.1% 반등했습니다. 급락에 따른 가격 메리트가 부각되며 기술주 전반에 회복세가 나타났습니다.
+https://news.google.com/rss/articles/CBMiVEFVX3lxTFBUSG9JS3JVZ1MtWlBlb0dHdHdrMDVQak1GOGZhS0VnN2hvNDZ1aV9FX0p5R2U3NDkxemJJZjR2RlIxNllpZE92NXotVGYtcnktMEdYMQ?oc=5
+
+**美연준에 트럼프 외풍 막아줄 민주당…워시엔 새로운 압박 등장**
+미국 연준의 통화정책 독립성을 두고 정치적 압박이 가중되는 가운데, 민주당 측의 견제와 신임 차기 인사 후보들에 대한 논의가 활발해지고 있습니다. 금리 정책에 대한 정계와 중앙은행 간 구도가 주목받고 있습니다.
+https://news.google.com/rss/articles/CBMicEFVX3lxTE0td3BTdHByMEw1OGVHNE1OUWQzV0gyWmt0ME9YcDhMU3BWNHk1QVhpYV8ydGIyY1VEUzBycnhfNkw1TDNOcERRbW5WV2xNMjVPMFhDdE5EbGh3aE1nT3hxSnowLU53N2t5V0VHNFB3RWs?oc=5
 
 ## 🏠 부동산
 
-**서울 전세 매물 부족 및 임대료 상승에 경기도 이주 증가**
-서울의 전세 매물 감소와 가격 급등으로 인해 상대적으로 주거비 부담이 적은 경기도 지역으로 이동하는 세입자가 늘어나는 추세입니다.
-https://news.google.com/rss/articles/CBMidkFVX3lxTE91WkEyOWlQQlZVdTR6NG9UbVUxUW12QnlDOFFHX2dXUE5KZEVqU3pYNE5pUEJvVXM0S0JTVWF3eERsTEtXdTZWTkQxeWdPTFZPb1lGLW1KUThfS1VlUVEzZE5yWVVwV2ZPTDBSWWNuRzJqaEcxa3fSAWZBVV95cUxNRW0wRHZHdFN2N09paGVkbXdsS2xLMkphSXRUM3F0SUFTWWJGYS0zWHVlVmpzRm1ITUl1QVcyMVZxbmdjTEllXzRvN0ZWb0NIblhuaVByRERCVm9BbHhnSFNBV3hXc3c?oc=5
+**연말 최고 기대주 분양 오는데…서울 1순위 청약경쟁률, 전국 평균의 11배**
+서울 분양 시장의 1순위 청약 경쟁률이 전국 평균의 11배에 달하며 강세를 이어가고 있습니다. 연말 주요 단지들의 분양이 다가오면서 서울 중심의 청약 쏠림 현상이 더욱 가속화될 전망입니다.
+https://news.google.com/rss/articles/CBMicEFVX3lxTE03U0M2bHFyLUhPMy1pVU5KNWQyb09fQkpyd05KSGNMUEdidkJOWkZOQ0kyX2otZVZCTzJQNEVaWFpqNmRzU01UYkdlTnh6eXhRTHF5a1pLUUoyWnpsV0dNeG5PM25JX0J3alFXYUEyaDk?oc=5
 
-**국토부, '추가 부동산 대책' 허위 유포글 수사의뢰 방침**
-온라인에 유포된 국토교통부의 추가 부동산 대책 관련 정보는 사실이 아니며, 국토부는 허위 사실 유포자에 대해 경찰 수사를 의뢰하기로 했습니다.
-https://news.google.com/rss/articles/CBMidEFVX3lxTFBuOEt2ZmxJV2ZuMHJqZmVwRXB4UkpPMFA3Q3FMR3pMRkEtTktlaGRHUmx4enVidk1lUWhyY2hzZ1JJUVNISmYxbHNKUFJoMUhMem13RkNJSUtkQkVYTFVBWGg4R3d1bTU5M3N0R3hjUlNpRE9x0gF0QVVfeXFMT1QtQXBMR2wwMElVN3NybUFSQm9EY1BfSlozeEFPTmlCbGIyaDYyQmR1WnBhdENTd1BidHBjUGIyTlhoWXQ5VVJRb0ZncjY2RkpGaTVMZU8yaUxDLWFJNVhISUdJaWZsbjktNmZfX2pERWZkMk0?oc=5
+**[주간분양] 전국 12곳 5,215가구 청약…경기 지역에 공급 물량 집중**
+이번 주 전국 12개 단지에서 총 5,215가구의 청약이 진행됩니다. 특히 경기 지역에 분양 물량이 집중되어 있어 실수요자들의 관심이 이어질 것으로 보입니다.
+https://news.google.com/rss/articles/CBMickFVX3lxTE16WDdlZ0xfODJTSkl6RlB3d2Z3dnBTckowNWVGdFRWZ1ZIU01xeHFZYWI2dHozU0xRYkVxaWtmYi1FS0NaV3FRMmR0bFJIbFpjMFZVLWtmdTY2bVJZQm5QRHp4RlQ5QmRPQkkzcVZLRXBmQQ?oc=5
 
-**11월 둘째 주 전국 12곳 5,215가구 청약 진행**
-다음 주 전국 12개 사업장에서 총 5,215가구의 청약이 진행되며, 물량의 상당수가 경기도에 집중되어 있습니다.
-https://news.google.com/rss/articles/CBMiW0FVX3lxTE9fVTF6WmMyZFFIay1sbnozWGJ4aEc1bkNLR1BKaWFjbWdkRTlzbjhTZy0tUmNnSF9LSjJ2d2VyTUFWNGtTQU5OSktMR0V0WFBwcnUzM3loTENjalU?oc=5
+**"빌라 전셋값도 1억 올랐다" 서울 외곽 전세 품귀...강남은 매물 쌓인다**
+서울 외곽 지역의 빌라 전세 가격이 대폭 상승하며 전세 품귀 현상이 심화되고 있습니다. 반면 강남권 등 일부 지역은 매물이 늘어나는 등 서울 내에서도 지역별 수급 불균형이 뚜렷해지고 있습니다.
+https://news.google.com/rss/articles/CBMib0FVX3lxTE1XMklLMEY3Y0RCak5OTmd0TWdkdy1TaXFNT1NZUnF0bDcyVUNhNHBmcDdBczZxMXEzZEFQSy1sbU01VEZOZ2tWMEpJVElOY29qcE5QeUFEeWoteTJVTmNJd3BMWGl3MkhldG1rb1kxMNIBb0FVX3lxTE1XMklLMEY3Y0RCak5OTmd0TWdkdy1TaXFNT1NZUnF0bDcyVUNhNHBmcDdBczZxMXEzZEFQSy1sbU01VEZOZ2tWMEpJVElOY29qcE5QeUFEeWoteTJVTmNJd3BMWGl3MkhldG1rb1kxMA?oc=5
 
-**재건축 초과이익 환수제 억대 부담금에 정비사업 차질**
-영등포, 강북 등 서울 주요 재건축 단지에 억대의 재초환 부담금이 통보되면서 정비사업 추진에 어려움을 겪고 있습니다.
-https://news.google.com/rss/articles/CBMiWEFVX3lxTE8xNTlEUkpGVFRxM0R0dEJEazFLNlJsTHdNZXVNN3lSazQ2YlJ6b3FveTZ2MU9uQWF3RTc1ZlltNmswbUk2cTFxeVJNZEtwRGhKRkhERUoydHA?oc=5
+**"'미미삼'이냐, '상계주공'이냐" 노원 재건축 대장은?…추가 분담금 보니**
+서울 노원구의 대표 재건축 단지인 '미미삼'과 '상계주공' 일대의 정비 사업 추진 과정에서 사업성과 추가 분담금이 핵심 변수로 떠올랐습니다. 조합원들 사이에서 부담금 규모에 따른 셈법이 분주해지고 있습니다.
+https://news.google.com/rss/articles/CBMif0FVX3lxTFA1N1I4a2ROTkNSTkxqUHBxZlc4OEFoN1dYeGNQNHJGREk0YTREcDVJdVpvaEY4WUwwSjlxY2xvZ1lfaTNIMnhUNnREeEp6UVFQZVZtM21vemdWX3g1Q3YzYTVjSzRNcEVVSDE0N3pWejUzWFhZVWJqemJQUXpwelXSAXNBVV95cUxOd2FkdXF0dTJBb1Q1QW5vSDNHLVIxdzQ3N1NpczBrNzR2Q1ViSk1jMjUxblU5NkN5OTlNeHF0dWN5Zk9naGltY3FHNGZSSG5jRUpnV1dJb3o0UWJJcmYzalRaRnFnOXhNQ3YwcGpPU3VHVHZJ?oc=5
 
-**23년 만에 재조명되는 '10·29 부동산 대책'과 시장 영향**
-과거 시행되었던 10·29 부동산 대책과의 비교를 통해 현재 부동산 규제 및 시장 안정책의 효과성에 대한 논의가 이루어지고 있습니다.
-https://news.google.com/rss/articles/CBMiX0FVX3lxTFBjT1U1UU82S1N5QVJJZ1BsdE13MTY0UG03QnJUcjBnTm1hZlA5QkNERnhjUW5EZ2pUb05Na3RSTURMVzJJV2JxdWlXemlsOU1nYnZqQm4zZFJORHhiRnVF?oc=5
+**[르포] 재초환 부담금 통지 앞둔 반포현대…조합원 '술렁'**
+재건축 초과이익 환수제 부담금 통지를 앞둔 서울 서초구 반포현대 재건축 조합원들의 긴장감이 고조되고 있습니다. 예상 산정 금액과 부담 수준에 대해 단지 내부에서 의견이 갈리고 있습니다.
+https://news.google.com/rss/articles/CBMiW0FVX3lxTE1YREdPM0F0X2dWX3hOcVZ3MUtxbnF6R0JLY3ptdTlib0JtS2tYaEphMW5tSEwxblEtLXNBNzZ2U0FWRmZiSmxTaGxnQVZjZXFGeDduNFdYSUFRRXM?oc=5
 
 ---
 연합뉴스 RSS 기반 · 자동 생성 브리핑
