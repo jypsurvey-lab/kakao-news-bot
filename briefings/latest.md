@@ -1,180 +1,144 @@
-# ☀️ 아침 뉴스 브리핑 — 2026년 11월 13일
+# ☀️ 아침 뉴스 브리핑 — 2026년 11월 14일
 
 ## 📌 종합
 
-**인도양 해저지형 4곳에 조선시대 지리학자 이름 지명 명명**
-한국에서 약 1만㎞ 떨어진 인도양 해저 지형에 정상기, 신경준, 최한기, 한백겸 등 조선시대 지리학자의 이름이 부여됩니다. 국립해양조사원 회의를 통해 해저 지형 명명안이 의결되었습니다.
-https://www.yna.co.kr/view/AKR20261112126500051
+**미국 전역 항공관제 장애에 이륙 중단…인천 출발 일부 결항**
+미국 연방항공청(FAA)의 관제통신시스템 장애로 미국 전역의 항공기 운항이 중단되었습니다. 주말을 앞두고 미국 내 주요 공항에서 혼란이 가중되었으며, 인천국제공항에서 출발하는 일부 미주 노선 항공편도 결항되거나 지연되었습니다.
+https://www.yna.co.kr/view/AKR20261114026300003
 
-**국제항공안전평가 대비 범정부 총력 대응 체계 가동**
-정부는 국가정책조정회의를 열고 다음 달 예정된 국제민간항공기구(ICAO)의 국제항공안전평가에 대비하기 위한 범정부 대응 방안을 논의했습니다. 평가 항목 전반에 대한 점검과 함께 항공 안전관리 체계를 대폭 강화할 방침입니다.
-https://www.yna.co.kr/view/AKR20261113037300003
+**배우 고경표, 음주운전 중 청소차 충돌…면허 취소 수준**
+배우 고경표 씨가 술을 마신 상태로 운전하다 청소차를 들이받는 사고를 냈습니다. 사고 당시 고 씨의 혈중알코올농도는 면허 취소 수준으로 측정되었으며, 소속사를 통해 불미스러운 일로 심려를 끼쳐 깊이 반성하고 있다는 입장을 밝혔습니다.
+https://www.yna.co.kr/view/AKR20261114025051004
 
-**더불어민주당, 11개 지역위원회 사고지역위 확정 및 재정비**
-더불어민주당 조직강화특별위원회가 11개 지역위원회를 사고지역위로 확정하고 8곳의 직무대행을 지명했습니다. 대상 지역구에 대한 정비 작업을 거쳐 조직 안정화를 추진할 계획입니다.
-https://www.yna.co.kr/view/AKR20261113071700001
+**여야, 내년도 예산안 예산소위 앞두고 '미래기금' 공방**
+국회 예산결산특별위원회의 예산안 조정소위원회를 앞두고 여야가 미래기금 예산을 둘러싸고 대립각을 세웠습니다. 야당은 관련 예산의 전면 백지화를 요구한 반면, 여당은 야당이 겉으로는 감액을 주장하면서 뒤로는 증액을 요구하고 있다고 비판했습니다.
+https://www.yna.co.kr/view/AKR20261114025700001
 
-**파주시, 대남 소음방송 피해 주민 지원금 추가 접수**
-경기도 파주시는 오는 16일부터 북한의 대남 소음방송으로 피해를 입은 주민들을 대상으로 피해지원금 추가 신청을 받습니다. 접수된 신청 건에 대해 심사를 거쳐 지원금을 지급할 예정입니다.
-https://www.yna.co.kr/view/AKR20261113072600060
+**용인시 행사 의전 순서 논란…지방의원보다 당협위원장 우선 배치**
+경기 용인시가 공식 행사 의전 순서에서 정당의 지역 및 당협위원장을 도의원과 시의원보다 앞순위에 배치하여 논란이 발생했습니다. 이에 시의회 더불어민주당 의원들은 시의 조치에 강하게 반발하며 시정을 촉구했습니다.
+https://www.yna.co.kr/view/AKR20261113112600061
 
-**민주당, 한덕수 전 총리 구속 만료 앞두고 공세 강화**
-더불어민주당은 내란 중요임무 종사 혐의를 받는 한덕수 전 국무총리의 구속 기한 만료를 앞두고 공세를 강화했습니다. 야당은 법적 책임 추궁과 함께 정국 대응 수위를 높이고 있습니다.
-https://www.yna.co.kr/view/AKR20261113067100001
+**'케이팝 데몬 헌터스' OST '골든', 英 오피셜 차트 73주 연속 진입**
+넷플릭스 애니메이션 영화 '케이팝 데몬 헌터스'의 오리지널 사운드트랙 '골든'(Golden)이 영국 오피셜 싱글 차트 56위에 올랐습니다. 이 곡은 73주 연속으로 차트 '톱 100'을 유지하며 장기 흥행을 이어가고 있습니다.
+https://www.yna.co.kr/view/AKR20261114026100005
 
 ## 💰 경제
 
-**젠슨 황 사퇴 여파 속 코스피 장중 2%대 상승**
-젠슨 황 엔비디아 CEO의 사퇴 소식에도 불구하고 국내 증시는 외국인 매수세에 힘입어 장중 상승세를 기록했습니다. 반도체 관련 주가의 변동성 속에서도 대형주 중심으로 매수세가 유입되었습니다.
-https://www.yna.co.kr/view/AKR20261113071900008
+**오픈AI, AI 에이전트 대리 결제용 '챗GPT 월렛' 공개**
+오픈AI가 주요 카드사들과 협력하여 인공지능(AI) 에이전트의 대리 결제를 지원하는 온라인 지갑 서비스 '챗GPT 월렛'을 공개했습니다. 이를 통해 AI 비서가 사용자를 대신해 결제 업무를 처리할 수 있는 기반이 마련되었습니다.
+https://www.yna.co.kr/view/AKR20261114022000091
 
-**BNK금융그룹, KCGS ESG 평가 5년 연속 통합 A등급 획득**
-BNK금융그룹이 한국ESG기준원(KCGS)이 발표한 2026년 ESG 평가에서 5년 연속 통합 A등급을 받았습니다. 지배구조 개선과 사회적 책임 실천 노력을 인정받은 결과입니다.
-https://www.yna.co.kr/view/AKR20261113072100051
+**2천조원 넘긴 가계부채…다음 주 금융·성장세 지표 발표**
+다음 주 2천조 원을 돌파한 가계부채의 최근 증가 동향을 확인할 수 있는 주요 지표들이 발표됩니다. 정부의 대출 규제 효과와 더불어 한국 경제의 향후 성장세를 가늠할 수 있는 금융 지표에 시장의 관심이 집중되고 있습니다.
+https://www.yna.co.kr/view/AKR20261114014500002
 
-**고양시, 일산테크노밸리 2차 분양 실시 및 입주 문턱 완화**
-경기도 고양시가 일산테크노밸리의 기업 유치를 확대하기 위해 입주 업종 범위를 넓히고 2차 분양에 나섭니다. 첨단 산업군 유치를 위한 지원책도 함께 마련될 예정입니다.
-https://www.yna.co.kr/view/AKR20261113070400060
+**일정 관리부터 승차권 예매까지…개인용 AI 비서 '피클' 등장**
+이용자를 대신해 KTX 승차권 예매, 식당 예약, 전화 통화 등의 업무를 처리하는 개인용 AI 비서 서비스 '피클'이 주목받고 있습니다. 일상적인 번거로운 절차를 자동화하여 사용자 편의성을 크게 끌어올렸습니다.
+https://www.yna.co.kr/view/AKR20261113158900017
 
-**부산연구원, 북극항로 운항 확대에 따른 차별화 전략 제안**
-부산연구원은 중국의 북극항로 운항 확대에 대응해 부산항이 단순 물동량 경쟁 대신 고부가가치 해양서비스 중심의 차별화 전략을 추진해야 한다고 제언했습니다.
-https://www.yna.co.kr/view/AKR20261113066700051
+**경기 지역 지자체, 기업 투자유치 위한 기금 조성 및 보조금 확대**
+경기도 내 주요 지방자치단체들이 기업 유치를 위해 전용 기금을 조성하고 보조금을 확대하는 등 다각적인 지원 방안을 추진하고 있습니다. 지역 경제 활성화와 일자리 창출을 목표로 지자체 간 투자 유치 경쟁이 본격화되고 있습니다.
+https://www.yna.co.kr/view/AKR20261113123700061
 
-**삼성바이오로직스 노사, 임금 및 인사제도 협상 재개**
-임금 인상과 인사 제도 개선을 두고 갈등을 겪어온 삼성바이오로직스 노사가 오는 17일 협상 테이블에 다시 앉습니다. 노사 간 합의점 도출 여부에 관심이 쏠리고 있습니다.
-https://www.yna.co.kr/view/AKR20261113064300017
+**영광와이케이엠씨 등 기업 3곳, 다음 주 코스닥 시장 상장**
+다음 주 기업공개(IPO) 시장에서 영광와이케이엠씨, 옵토닉스, 에이엘로봇 등 3개 기업이 코스닥 시장에 순차적으로 상장합니다. 신규 상장 기업들의 공모가 형성 및 첫날 주가 흐름에 관심이 모이고 있습니다.
+https://www.yna.co.kr/view/AKR20261113076800008
 
 ## 🌍 국제
 
-**조코위 전 인도네시아 대통령, 장남 사임에도 프라보워 지지 유지**
-조코 위도도 전 인도네시아 대통령이 장남 기브란 부통령의 사임 악재 속에서도 프라보워 현 대통령에 대한 지지 의사를 재확인했습니다. 정치적 혼란 속에서 정권 안정에 힘을 실어주는 행보로 풀이됩니다.
-https://www.yna.co.kr/view/AKR20261113072200104
+**엔비디아 임원 명의 '젠슨 황 복귀 촉구 서한' 가짜로 판명**
+엔비디아 주요 임원들이 서명한 것으로 알려진 '젠슨 황 복귀 촉구 서한'이 허위 문서로 확인되었습니다. 외부에서 유포된 해당 서한은 AI 테마주의 변동성과 시장 불확실성을 자극하려는 시도로 분석됩니다.
+https://www.yna.co.kr/view/AKR20261114024400091
 
-**가자지구 난민캠프, 기온 저하로 9개월 영아 동사 발생**
-이스라엘의 공습으로 난민캠프 텐트에서 지내는 가자지구 주민들이 겨울철 추위와 폭우로 생존 위기에 내몰렸습니다. 기온 급강하로 인해 9개월 영아가 사망하는 등 인명 피해가 가중되고 있습니다.
-https://www.yna.co.kr/view/AKR20261113069700009
+**인도 고속도로서 소형버스와 트럭 충돌…26명 사망**
+인도 북동부의 한 고속도로에서 승객을 과도하게 태운 소형 버스와 대형 트럭이 충돌하는 사고가 일어났습니다. 이 사고로 26명이 사망하고 20여 명이 부상을 입어 인근 병원으로 이송되었습니다.
+https://www.yna.co.kr/view/AKR20261114024300104
 
-**미국 의회, 의혹 관련 인사에 대한 청문회 출석 압박 강화**
-미국 연방 의회가 주요 조사 대상자들에 대해 의회 청문회 출석과 증언을 강하게 요구하고 있습니다. 출석 불응 시 청문회 소환장을 발부하겠다는 방침을 밝혔다.
-https://www.yna.co.kr/view/AKR20261113005552071
+**46세 호나우지뉴, 11년 만에 공식 경기 선발 출전**
+브라질 축구 스타 호나우지뉴가 현역 은퇴 선언 11년 만에 공식 경기에 선발로 출전합니다. 개인 통산 300호 골 달성을 목표로 복귀전에 나서는 그에게 세계 축구 팬들의 주목이 쏠리고 있습니다.
+https://www.yna.co.kr/view/AKR20261114024100007
 
-**미국 2년물 국채금리, 연준 금리인상 전망에 급등**
-미 연방준비제도의 통화긴축 가능성이 제기되면서 단기 금리 지표인 미국 2년물 국채금리가 4년 만에 가장 큰 폭으로 상승했습니다. 시장 내 금리 상방 압력이 다시 커지는 모습입니다.
-https://www.yna.co.kr/view/AKR20261113061900009
+**맨유 지휘봉 잡은 포체티노 "맨유 감독 제안 거절하기 어려웠다"**
+잉글랜드 프로축구 맨체스터 유나이티드의 새 감독으로 부임한 마우리시오 포체티노 감독이 부임 소감을 전했습니다. 포체티노 감독은 맨유와 같은 빅클럽의 사령탑 제안을 받게 되어 매우 영광스럽게 생각하며 팀 정상화를 위해 노력하겠다고 말했습니다.
+https://www.yna.co.kr/view/AKR20261114022200007
 
-**일본 검찰, 가상자산 관련 범죄 수사에 생성형 AI 도입**
-일본 검찰이 가상자산 자금 흐름 추적 및 수사 분석에 생성형 AI 기술을 도입하기로 결정했습니다. 이를 통해 첨단 금융 범죄 대응의 효율성을 한층 높일 계획입니다.
-https://www.yna.co.kr/view/AKR20261113068000009
+**MLB 토론토 산탄데르, 이슬람교도 혐오 게시물 공유에 공식 사과**
+미국프로야구 메이저리그(MLB) 토론토 블루제이스의 산탄데르 선수가 SNS에 이슬람교도 혐오 내용을 담은 게시물을 공유해 파문을 일으킨 후 사과했습니다. 구단 측은 사태 파악 후 경고 조치 및 관련 교육을 진행하겠다고 밝혔습니다.
+https://www.yna.co.kr/view/AKR20261114025400007
 
 ## 🏭 산업
 
-**인천국제공항공사 차기 사장에 박남춘 전 인천시장 내정**
-인천국제공항공사의 신임 사장으로 박남춘 전 인천시장이 내정되었습니다. 박 내정자는 오는 19일 정식 취임식을 갖고 업무를 시작할 예정입니다.
-https://www.yna.co.kr/view/AKR20261113069200065
+**대전시, 김장철 맞아 유통 농산물 잔류농약 429개 항목 집중 검사**
+대전보건환경연구원이 김장철을 앞두고 도매시장과 대형마트 등에서 유통되는 농산물의 안전성 검사를 시행합니다. 잔류농약 429개 항목을 집중 점검하여 부적합 농산물의 유통을 철저히 차단할 방침입니다.
+https://www.yna.co.kr/view/AKR20261114021000063
 
-**애플 폴더블폰 '아이폰 듀오' 최적화 앱 10만 개 돌파**
-애플의 첫 폴더블 스마트폰 아이폰 듀오 전용 및 최적화 애플리케이션 수가 10만 개를 넘어섰습니다. 화면 활용성 지적에 적극 대응하며 생태계 확장에 속도를 내고 있습니다.
-https://www.yna.co.kr/view/AKR20261113067500017
+**부산·울산, 낙동강·태화강에 상호 교류정원 조성 추진**
+부산시와 울산시가 2027년 부산가든쇼와 2028년 울산국제정원박람회 개최를 앞두고 상대 도시에 교류정원을 만듭니다. 두 지자체는 관내 강변 부지를 활용해 정원 문화를 확산하고 친선 교류를 강화할 계획입니다.
+https://www.yna.co.kr/view/AKR20261113131100051
 
-**동해시, 어촌 청년 정착 지원 위해 월 최대 110만 원 지급**
-강원 동해시가 어촌 고령화 완화 및 청년 인력 유치를 위해 청년 어업인 지원책을 마련했습니다. 대상자로 선정되면 정착 지원금으로 월 최대 110만 원이 제공됩니다.
-https://www.yna.co.kr/view/AKR20261113071600062
+**울산 성남동 일부 지역, 18일 새벽 5시간 동안 단수**
+울산시 상수도사업본부가 블록 구축 및 관로 정비 공사를 위해 11월 18일 새벽 중구 성남동 일부 지역의 수돗물 공급을 중단합니다. 해당 지자체는 단수 시간대 주민들의 사전 비상용수 확보를 당부했습니다.
+https://www.yna.co.kr/view/AKR20261113107900057
 
-**경계선 지능 아동 대상 국가 차원 지원 체계 구축 촉구**
-장애와 비장애의 경계에 있어 법적 지원을 받지 못하는 경계선 지능 아동을 위한 전담 지원체계 마련이 필요하다는 지적이 제기되었습니다. 조기 발견 및 맞춤형 교육 프로그램 체계화 요구가 늘고 있습니다.
-https://www.yna.co.kr/view/AKR20261113062200371
+**전남 영암 월출산 일원에 '숲속 웰니스 체험시설' 조성**
+전남 영암군이 월출산 교동리 일대에 산림 휴양과 치유를 위한 웰니스 체험시설 완공을 마쳤습니다. 방문객들에게 다양한 산림욕 프로그램과 체류형 휴식 공간을 제공할 예정입니다.
+https://www.yna.co.kr/view/AKR20261113132800054
 
-**청주 아파트 천장서 다량의 마약류 의약품 방치 적발**
-청주의 한 아파트 욕실 천장에서 프로포폴 등 마약류 의약품 12상자가 발견되었습니다. 조사 결과 과거 이곳에 거주하던 의사가 폐기 절차 없이 방치한 것으로 파악되었습니다.
-https://www.yna.co.kr/view/AKR20261113063800064
+**2027 LoL 월드 챔피언십, 한국·일본 공동 개최…결승전은 서울**
+내년도 리그 오브 레전드(LoL) 월드 챔피언십이 한국과 일본에서 나누어 개최됩니다. 주요 경기는 양국에서 분산 진행되며, 세계 최고 팀을 가리는 최종 결승전은 서울에서 열립니다.
+https://www.yna.co.kr/view/AKR20261114020700017
 
 ## ⚖️ 사회
 
-**국민연금공단, 국세청 연계 실시간 소득자료 조회 시스템 개시**
-국민연금공단이 국세청 소득자료와 연동되는 실시간 소득자료 조회 시스템 구축을 완료하고 운영을 시작합니다. 정밀한 소득 파악으로 부과 정확도가 개선될 전망입니다.
-https://www.yna.co.kr/view/AKR20261113064100530
+**다음 주 후반부터 영하권 초겨울 추위…수능 당일 서울 -1도**
+다음 주 후반부터 전국 기온이 급격히 떨어지며 초겨울 추위가 찾아올 것으로 예보되었습니다. 대학수학능력시험일 당일 서울의 아침 기온이 영하 1도까지 내려가며 6년 만에 수능 한파가 찾아올 전망입니다.
+https://www.yna.co.kr/view/AKR20261114024000530
 
-**법원 접근금지 조치 무시하고 아내 살해한 70대 구속 기소**
-가정폭력 및 스토킹 행위로 법원의 분리 조치를 받게 된 70대 남성이 이혼 절차 중이던 아내를 찾아가 살해해 재판에 넘겨졌습니다. 검찰은 엄벌을 요구할 계획입니다.
-https://www.yna.co.kr/view/AKR20261113069800055
+**'발달장애 10대 아들 학대치사' 혐의 40대 모친 영장실질심사**
+중증 발달장애가 있는 10대 아들을 학대해 숨지게 한 혐의를 받는 40대 어머니에 대한 구속 전 피의자 심문(영장실질심사)이 진행됩니다. 경찰은 아동학대치사 혐의를 적용하고 피의자의 구속 필요성을 주장하고 있습니다.
+https://www.yna.co.kr/view/AKR20261114022700063
 
-**영동고속도로 여주휴게소(인천방향) 리모델링으로 한시 중단**
-한국도로공사는 시설 개량 공사를 위해 오는 16일부터 영동고속도로 여주휴게소 인천방향의 운영을 한시적으로 중단합니다. 개보수 작업을 마친 뒤 내년 설 연휴 전 재개장합니다.
-https://www.yna.co.kr/view/AKR20261113071300053
+**충북도, 내년 1월 '자체 환경영향평가' 시행 위한 운영기반 구축**
+충청북도가 내년 1월부터 시행되는 지역 맞춤형 자체 환경영향평가 제도를 대비해 운영 지침과 협업 체계를 전면 정비했습니다. 전문 검토체계를 마련하여 도내 개발 사업의 환경 안전성을 정밀하게 검증할 방침입니다.
+https://www.yna.co.kr/view/AKR20261113159600064
 
-**성남시 청년 교류 프로그램 '커넥터스' 참여자 첫 결혼 결실**
-성남시가 추진한 청년 소통 및 교류 프로그램인 '커넥터스'를 통해 만난 참가자 중 첫 결혼 성사 사례가 나왔습니다. 지자체의 청년 지원 정책이 결실을 본 사례로 꼽힙니다.
-https://www.yna.co.kr/view/AKR20261113070800061
-
-**목포 유달산목재문화체험장, 전남 첫 목공예기능사 실기장 선정**
-전남 목포시 유달산목재문화체험장이 전남 지역 최초로 목공예기능사 국가자격 실기시험장으로 지정됐습니다. 지역 내 전문 기술 인력 양성에 도움이 될 기대입니다.
-https://www.yna.co.kr/view/AKR20261113072700054
+**경남 학생 3명, 전국 이중언어 말하기 대회 참가**
+경남도교육청 소속 학생 3명이 서울에서 열리는 '제14회 전국 이중언어 말하기 대회'에 경남 대표로 참석합니다. 이 대회는 다문화 학생들의 언어 재능을 발굴하고 자긍심을 고취하기 위해 마련되었습니다.
+https://www.yna.co.kr/view/AKR20261113146100052
 
 ## 🎭 문화
 
-**경남 고성 운흥사 및 경북 영천 거동사 대웅전 보물 지정**
-국가유산청이 경남 고성 운흥사 대웅전과 경북 영천 거동사 대웅전을 각각 국가지정유산 보물로 지정했습니다. 조선 후기 불교 건축의 특징을 잘 간직하고 있다는 평가를 받았습니다.
-https://www.yna.co.kr/view/AKR20261113070200005
-
-**충남 부여군, 400억 규모 군립미술관 건립 취소 결정**
-충남 부여군이 사업비 400억 원을 투입해 추진하려던 군립미술관 건립 계획을 백지화했습니다. 미술품 기증 의사를 밝혔던 인사들도 기증처 변경을 검토 중인 것으로 알려졌습니다.
-https://www.yna.co.kr/view/AKR20261113068100063
-
-**수원시, 수인분당선 매교역에 무인 스마트도서관 개관**
-경기도 수원시가 수인분당선 매교역에 관내 9번째 '책나루 스마트도서관'을 열고 운영을 시작했습니다. 시민들이 출퇴근길에 편리하게 도서를 대출·반납할 수 있게 됩니다.
-https://www.yna.co.kr/view/AKR20261113073400061
-
-**강릉 월화거리서 14일 아시아 모델 패션쇼 개최**
-강원 강릉의 도심 명소인 월화거리가 14일 대규모 아시아 모델 패션쇼 무대로 활용됩니다. 관광객 유치 및 지역 문화 활성화를 기대하고 있습니다.
-https://www.yna.co.kr/view/AKR20261113063700062
-
-**서울 마포구 광성로 가로수, 벚나무로 전면 교체 추진**
-서울 마포구가 광성로 약 400m 구간의 기존 감나무 가로수를 벚나무로 정비하는 사업을 진행합니다. 낙과 피해를 줄이고 봄철 산책로 조성을 도모할 계획입니다.
-https://www.yna.co.kr/view/AKR20261113066400004
+**변칙 사운드와 독특한 발음…올가을 K팝 흥행 공식으로 떠올라**
+올가을 K팝 가요계에서 변칙적인 사운드 효과나 독특하게 비튼 발음을 활용한 '킬링 파트' 전략이 인기를 끌고 있습니다. 숏폼 플랫폼 소비 성향에 맞춰 초반 몰입도를 높이는 음악적 시도가 다양해지고 있습니다.
+https://www.yna.co.kr/view/AKR20261113135300005
 
 ## 🇺🇸 미국경제
 
-**젠슨 황 엔비디아 CEO 사퇴 및 유가 급등에 뉴욕증시 일제히 하락**
-엔비디아 최고경영자의 전격 사퇴와 유가 상승 악재가 겹치며 뉴욕증시 3대 지수가 하락 마감했습니다. 나스닥 지수는 기술주 매도세 속에 0.4% 내렸습니다.
-https://news.google.com/rss/articles/CBMiW0FVX3lxTE9pUU9rX0VMZWZhX3pFRmdJNGtOTDg2YUtGYWpId3hXdlZIVHNXM3BiTTBia29mRnZ0bXNoTE5Jbk9LTDFKa0ZsUEZ6Rl9DWVJrTmZCbkVsTjhVODjSAWBBVV95cUxNc3lGX3hrdzNLWkE0RmR3VWN2VnhjMmJidGtzLWhMTEJKenRWWUR4OHhkSlRvUzhjajl1aElWN3VQbWpTOGhLYlpod3ZrWG5aT3pvd3pGbFlXMEFJVU50ZDE?oc=5
+**뉴욕증시, 엔비디아·반도체주 약세에 혼조 마감…나스닥 0.91%↓**
+뉴욕증시는 엔비디아의 하락세 지속과 반도체 주요 종목들의 약세로 인해 나스닥 지수가 0.91% 하락하는 등 혼조세로 마감했습니다. AI 관련주들의 불확실성과 악재 유포 여파가 기술주 전반에 하방 압력으로 작용했습니다.
+https://news.google.com/rss/articles/CBMiW0FVX3lxTE9VVnB2UXhZcUlKbm9ORGlTUEw4R3pEOGpDcVI2WVFTZ2lVVWl3c0hFYUwxMk5jWXRWdHZjcVVXNU8zYW5WaWl3R2VZZjlTWElZZ0xWZFlTZEd5SzTSAWBBVV95cUxPYzI3aFBvQlpEOUhQdFFfNE5MUkVNTU9HM2xiZWVIYzliUlR2ZjNRYW9UQUNUNm9jYlJ6VU1wWnRxUFByZXVyYVU3RXluejVaN0kwX0VSMFpiXzlKUE5yT0A?oc=5
 
-**미국 10년물 국채금리 5.1% 돌파…추가 금리인상 우려 반영**
-국제 유가 상승과 연준의 매파적 기준금리 인상 전망이 강화되며 미국 10년물 국채금리가 5.109%까지 급등했습니다. 시장 내 채권 수익률 상승 변동성이 커졌습니다.
-https://news.google.com/rss/articles/CBMiZ0FVX3lxTENxb2dScXVCS09nMjNpM1NjdTZKemZlRlJ5eThQejFzV000OEpYUXRTb25Ed1NDeU54aV9pOUluSXBhbDY5dnM3cDFVWWFCaG9XWnFkMEdxTGdfYVVjLWZZSUh5VFcxYVU?oc=5
-
-**미국 연준, 내년 기준금리 결정 회의 7회로 축소 조정**
-미 연방준비제도가 내년 통화정책 기준금리 결정 정례회의 횟수를 기존 8회에서 7회로 줄이기로 했습니다. 회의 일정 변경에 따라 시장의 연준 통화정책 예측 방식에도 영향이 예상됩니다.
-https://news.google.com/rss/articles/CBMiiAFBVV95cUxNbi1QS0I1NnF5TXNiY1RFZEo5enRSb0hKX1I1TmxnZEJvSVUxY0RkT3ZXanhqOU9lWXVzQndOU3dxNlBJSElDQ0ZxX0ZUNjBQQXVBb3VLUks2WHhXdHFNU3plTUpTV0RRQ3FsMmJ6RngzRkJPNjhCeWNhYnk0M0JuWUdCdEdGaDNX?oc=5
-
-**월가 일각 "연준 내 매파 주도로 추가 금리 인상 가능성" 전망**
-인플레이션과 고유가 우려로 연준 내 매파 진영이 주도권을 쥐며 향후 추가 금리 인상을 단행할 수 있다는 분석이 제기되었습니다. 금융 시장의 긴장감이 고조되고 있습니다.
-https://news.google.com/rss/articles/CBMicEFVX3lxTFBkTTlqWWw1Z1VKeHJwYWVIRlBMQzgtRk1sYW1lYm4xdWp6MG1CVFJyRUNXQW96eHBwWk1wRHdQSEpOVGZtYjA5aEZoM3N0ZUhueFBHQzE0N1JCWlo1czMya1VzNnBHMlVidl8ydzFMT0vSAXRBVV95cUxNSDBUOVg0N1JnUGw0eHp6R2FfUWlWeVhFNEVkeWxNWDF5dTJKeDZfUm1FX1FPLTU1Q0hDdFB3Z0VpdjJDNUZuY2ZLbkphSHlwWVBJQ0NKM0VSTVBTWUF5QWVJM2hJUmxYSTkteHl3aGtmakl2UA?oc=5
-
-**연준 보고서, 국제 유가 급등에 따른 경제 파장 경고**
-최근 발표된 연준 내부 보고서에서 고유가가 물가에 미칠 부정적 영향에 대해 강력히 경고했습니다. 연준 인사들의 발언과 매파적 기조 전환 배경으로 지목됩니다.
-https://news.google.com/rss/articles/CBMickFVX3lxTE1ZaEM2dW9CUDlBUXkzN3ZmTGFVRDZwU0pDY2NtMWZ4QV8yZUs1MnB0Q1lJenlCWExicjNBcUh1dFVTSWVpMXlaNGk2bmZxd2hnNmlPRnJIRzY1N3F6VHZ3OFJ2VjBqOTR3bVdMY2s2cVdlQQ?oc=5
+**미 연준 "AI 관련 금융 위험, 금융 시스템 안점의 최대 우려 요인"**
+미국 연방준비제도(Fed)가 인공지능(AI) 열풍에 따른 과열된 금융 자산 위험이 시스템 안정성에 위협이 될 수 있다고 지적했습니다. AI 기업에 대한 과도한 가치 평가와 레버리지 위험에 대해 신중한 대응이 필요하다는 입장을 밝혔습니다.
+https://news.google.com/rss/articles/CBMid0FVX3lxTE4tTl_5Q0RjVU56WkpMVVprQnNrX0JQbU5ib1RzTWRncjFUR0VFSlRQSTJmU0drWUJtdUVZMjl0eDFaQV_C3M4ZmQ2VjJVa0E3V1BIOHNsWGl4S0RLQ2tBM1Q225bUC1YVjhTT3BGWT23Z1t-bW1n?oc=5
 
 ## 🏠 부동산
 
-**재건축 부담금 소송 움직임에 주요 로펌 전담 TF 가동**
-재건축 초과이익 환수제에 따른 부담금 부과를 두고 법적 분쟁 가능성이 커지자 대형 로펌들이 일제히 전담팀(TF)을 구성하고 있습니다. 조합들의 법적 대응 문의가 급증하고 있습니다.
-https://news.google.com/rss/articles/CBMiYEFVX3lxTFB4ZDd5U1JVeV9YZHZGUjJSQ284aGZ5S3Uydks1OEVYLU93UjdtNmg5NFR2Um9rRlRVYVdIa3U5RUV0RmJSZmE0Q3BianVxdEN6TGo5UVpGaHNiRlo1WkxLStIBYEFVX3lxTFB4ZDd5U1JVeV9YZHZGUjJSQ284aGZ5S3Uydks1OEVYLU93UjdtNmg5NFR2Um9rRlRVYVdIa3U5RUV0RmJSZmE0Q3BianVxdEN6TGo5UVpGaHNiRlo1WkxLSg?oc=5
+**경찰, 부정청약 혐의 이혜훈 전 의원 반포 아파트 몰수 보전 신청**
+경찰이 부정청약 혐의로 송치된 이혜훈 전 의원의 반포 소재 아파트에 대해 몰수 보전을 신청했습니다. 해당 청약 건의 시세 차익 규모가 상당함에 따라 정당성 여부와 자산 환수 절차에 관심이 쏠리고 있습니다.
+https://news.google.com/rss/articles/CBMiXkFVX3lxTE1EMkpuZXNGaUdFSktkQTF5a0xhMkEwTE5fXzJhYi1DdWJnMWFsbDJsb2VDaGE0Sk9MMmV5V2hmUmpLdm53Qko5bWpkejNmcDd5by1BM2tnMVhvdEZYV1E?oc=5
 
-**경기 지역 아파트 청약 시장 침체…10곳 중 7곳 미달**
-수도권 아파트 분양 시장에서 서울과 경기 지역 간 양극화 현상이 심화되고 있습니다. 최근 경기 지역 분양 단지 10곳 중 7곳에서 청약 미달이 발생했습니다.
-https://news.google.com/rss/articles/CBMiYkFVX3lxTE5nYU5ENklDRFBfYmZTV0ZOdlpRcmhUWWFhVVA2YTAzUlhya3VGMDZCb3YzV0M1eTVMOTZ4MWFHNHVuUUNNV3dXVzQ3REFqcEtPanZMMU5oOWxfMFVSTTVUNXdn?oc=5
+**시세차익 따라 수도권 청약 열기 양극화…5천여 가구 계약 시험대**
+수도권 분양 시장에서 시세차익 기대감에 따른 청약 온도 차가 뚜렷해지고 있습니다. 이번 주 5천 가구가 넘는 정당계약 일정이 시작되는 가운데 실수요자들의 청약 포기 및 실제 계약률 수준에 관심이 고조되고 있습니다.
+https://news.google.com/rss/articles/CBMiigFBVV95cUxQOTRKSXV5V1M5WmcxMlJ5cXJiUG5KRXM0SGpVcTdvcDhIY1A4SmZ2b1RwT2lxQmFRaXZBbGZsQkdfc2paNndCUWlvMlVUM29VTVJwd3ZZRl_yeWM2dDlLUGRGOUU3SGM2bVhUbU1vUjhucEhyR1thQUJpOFNYbklBX_5dn-vNFPEQQ?oc=5
 
-**서울 강남 대치선경아파트 최고 49층 재건축 안 통과**
-서울 강남구 대치선경아파트가 최고 49층, 총 1,570세대 규모의 대단지 아파트로 재건축 정비계획안을 확정했습니다. 강남권 주요 정비사업 추진에 탄력이 붙을 예정입니다.
-https://news.google.com/rss/articles/CBMiaEFVX3lxTE9hUXMwSnhXRVVFeFVMdHdIYkJjWHBNYTZxMWRhVUtobnNfQkR5ZlF1YXFHYXlpY1l5dWF2VGlfUXlob25IbnJMeHR0a2FCa2NSNExXazFPQ2ZFQjlSUGpVczVFU1hyaWF1?oc=5
+**재건축 초과이익 환수제 20년 만에 첫 부과…단지별 매수 조건 점검**
+재건축 초과이익 환수제(재초환)에 따른 부담금 부과가 가시화되면서 재건축 시장 내 매수 판단에 신중함이 요구됩니다. 첫 실제 부과 절차가 다가옴에 따라 매수 희망자들은 단지별 부담금 산정액을 다각도로 점검하고 있습니다.
+https://news.google.com/rss/articles/CBMiW0FVX3lxTFBjLXpFdWhRMmxORkNndnBGMTJ5R09nVTZKem9OUmRWQURONkNFMGY0VlN3QU1TM3hKUU5fWFR1NVVVN0VjS09BWDlENDZVdm1UVnJMT1_TZGxMaE0?oc=5
 
-**서울 외곽지역 전세가 급등…10억 원대 전세 계약 속출**
-성북구와 구로구 등 서울 외곽 지역에서도 전셋값이 대폭 올라 10억 원을 넘어서는 계약이 잇따르고 있습니다. 전세 물량 부족 지속으로 내년 전세 시장 부담이 확대될 우려가 나옵니다.
-https://news.google.com/rss/articles/CBMiVkFVX3lxTE4tTmZQcGl6ekNlVVBTRnp4TkxOMDRuQURxVllYS19mWXAtTEtRdWF5WmNUbTFkSUtjWFhlaHY1MGxwN1RnbWNlNm9sRnNyZnAwd0xlRW5n?oc=5
-
-**포천시, 안전한 부동산 거래 위해 안전전세 관리단 회의 개최**
-경기도 포천시가 제2회 안전전세 관리단 운영협의회를 열고 전세 사기 예방과 안전한 거래 환경 조성을 위한 플랫폼 활성화 방안을 논의했습니다.
-https://news.google.com/rss/articles/CBMiZEFVX3lxTE9ITGpUUGY2eF84emdVZWMycnM4dUl0MEtXOFJsUjdBNFFndllYYVlUVTZqeW92eHF4MXZLWldWcjFHc1pLQXRMNFJCbHdBekFGazA2cXlYaVczbWdLN0IyaGxqcm4?oc=5
+**경기 지역 지자체, 공인중개사와 협력해 전세사기 예방 강화**
+경기도 내 이천, 오산 등 다수 지자체들이 전세사기 예방을 위해 지역 공인중개사들과 업무 협약을 맺고 안심계약 상담 서비스를 대폭 확대하고 있습니다. 임차인들의 안전한 임대차 계약을 돕기 위해 행정적 지원을 늘릴 계획입니다.
+https://news.google.com/rss/articles/CBMicEFVX3lxTE1yUmNrbWtzTFRqUEpnS2NoeGlaQ2MwTlJiRVRGT3dsLXF0V2FuQy1VV0RRN3hxMU9zZUg1X0ZFc2dMTGFyY1ozZVZIZ3NrR2NKUHpHZ2VqVXEzdFMyOE5vbTNXYUZySGlYVkFtZEx2Wk8?oc=5
 
 ---
 연합뉴스 RSS 기반 · 자동 생성 브리핑
